@@ -73,16 +73,8 @@ def open_link_cnn(t, i):
 		if "OB_div" in line: 
 			return t 
 
-def open_link_bbc(t, i):
-	"""Function that takes a link from a list, opens the url and strips 
-	the HTML from the BBC article where it says to start and finish. 
 
-	t: list of links
-	i: desired index of list
-
-	returns: string of parsed article 
-	"""
-	
+def open_link_bbc(t, i):	
 	url = t[i]
 	print url
 	t = "" 
@@ -99,16 +91,8 @@ def open_link_bbc(t, i):
 		if "Related hypers" in line: 
 			return t 
 
+
 def open_link_reuters(t, i):
-	"""Function that takes a link from a list, opens the url and strips 
-	the HTML from the Reuters article where it says to start and finish. 
-
-	t: list of links
-	i: desired index of list
-
-	returns: string of parsed article 
-	"""
-	
 	url = t[i]
 	print url
 	t = "" 
@@ -135,22 +119,27 @@ def print_article(t, i):
 		print line 
 
 
-
 if __name__ == '__main__':
 	cnn = "feed://rss.cnn.com/rss/money_latest.rss"
 	bbc = "feed://feeds.bbci.co.uk/news/business/rss.xml"
 	reuters = "http://feeds.reuters.com/reuters/companyNews"
 	forbes = "http://www.forbes.com/business/index.xml"
 
-	python_rss_url = reuters 
+	python_rss_url = cnn
 
 	feed = feedparser.parse( python_rss_url )
 	entries_feed = feed['entries']
 
 
 	links = create_link_list(entries_feed)
-	print open_link_reuters(links, 2)
-	
+	example = open_link_cnn(links, 2)
+
+
+	article = open('example.txt', 'w')
+	article.write(example)
+
+	article.close()
+
 	# print_article(links, 2)
 
 	# pickle.dump(article, open("reuters/11_19_1.p", "wb"))
