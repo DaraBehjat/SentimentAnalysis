@@ -132,10 +132,10 @@ if __name__ == '__main__':
 
 
 	links = create_link_list(entries_feed)
-	example = open_link_cnn(links, 2)
+	example = open_link_cnn(links, 3)
 
 
-	article = open('example.txt', 'w')
+	article = open('example3.txt', 'w')
 	article.write(example)
 
 	article.close()
