@@ -1,13 +1,29 @@
+"""Code to read RSS feed and store it in database. 
+"""
 
 import feedparser
+import urllib
+import string
+from HTMLParser import HTMLParser
+import anydbm
+import pickle 
 
-# Input RSS URL for specfic news source 
-python_reuters_rss_url = "http://feeds.reuters.com/reuters/companyNews" 
+class MLStripper(HTMLParser):
+    """ This code was found at stackoverflow to strip the HTML from the text. 
+    http://stackoverflow.com/questions/753052/strip-html-from-strings-in-python
+    """
+    def __init__(self):
+        self.reset()
+        self.fed = []
+    def handle_data(self, d):
+        self.fed.append(d)
+    def get_data(self):
+        return ' '.join(self.fed)
 
-# Input RSS feed name for specific news source
-feed = feedparser.parse( python_reuters_rss_url )
-
-entries_feed = feed['entries']
+def strip_tags(html):
+    s = MLStripper()
+    s.feed(html)
+    return s.get_data()
 
 
 def create_link_list(t):
@@ -28,8 +44,65 @@ def create_link_list(t):
 		link_list.append(link)
 	
 	return link_list
-	
-links = create_link_list(entries_feed)
 
-print links
+
+
+def open_link_cnn(t, i):
+	"""Function that takes a link from a list, opens the url and strips 
+	the HTML from the CNN article where it says to start and finish. 
+
+	t: list of links
+	i: desired index of list
+
+	returns: string of parsed article 
+	"""
+
+	url = t[i]
+	print url
+	t = "" 
+	article = urllib.urlopen(url)
+	start = False 
+	for line in article: 
+		# when to start parsing 
+		if "cnnCol_main" in line:
+			start = True 
+		if start: 
+			text = strip_tags(line)
+			t += text 
+		# when to stop parsing and return	 
+		if "OB_div" in line: 
+			return t 
+
+
+
+
+def other_stuff():
+	for line in html_article:
+		# text = strip_tags(line)
+		article += text
+	# pickle.dump(article, open("reuters/11_19_1", "wb")) 
+
+
+if __name__ == '__main__':
+	cnn = "feed://rss.cnn.com/rss/money_latest.rss"
+	bbc = "feed://feeds.bbci.co.uk/news/business/rss.xml"
+	reuters = "http://feeds.reuters.com/reuters/companyNews"
+	forbes = "http://www.forbes.com/business/index.xml"
+
+	python_rss_url = bbc
+
+	feed = feedparser.parse( python_rss_url )
+	entries_feed = feed['entries']
+
+
+	links = create_link_list(entries_feed)
+	print open_link_cnn(links, 2)
+	# print article 
+	# pickle.dump(article, open("reuters/11_19_1.p", "wb"))
+
+
+
+
+
+
 
