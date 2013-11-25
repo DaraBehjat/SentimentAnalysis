@@ -1,0 +1,113 @@
+	 Apple buys motion sensor maker PrimeSense 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Gesture-based control is one of the fast-growing trends across various sectors 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Capturing your world in 3D  Watch 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 The touchless control patent race 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Touchless phones  to be out soon 
+
+		 
+
+
+								 
+	 
+                       Apple has purchased PrimeSense, an Israeli firm that specialises in making 3D motion detection technology. 
+         PrimeSense is best known for developing gesture control for Microsoft s Kinect sensor, and has made strides towards bringing the technology to mobile. 
+         Apple s deal is likely to spark speculation about its plans to develop new products such as Apple TV.  
+         PrimeSense confirmed the deal with Apple in a statement to the BBC but said they could not comment further. 
+         Apple did not disclose the financial details of the deal but said it had taken place. Some reports claimed it had paid $360m (£222m). 
+         Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans,  said an Apple spokesman. 
+   'Mega trend' 
+	       The deal comes at a time when firms are increasingly experimenting with gesture control. 
+   
+	 Continue reading the main story 	 Start Quote 
+Usage of gesture-based, touch-less control of devices is one of the big mega trends in the industry right now 
+End Quote 
+	 Nitin Bhat 
+	 Frost  &  Sullivan 
+
+		        In October 2011, Apple filed for a patent for new ways to control devices that do not involve physical contact. 
+         Its filing, entitled Real Time Video Process Control Using Gestures, talked about allowing users to  throw  content - the ability to transfer it from one of the firm s products to another - using contact-free hand movements. 
+         Analysts said that acquiring a firm that specialises in making motion sensor technology could help Apple offer such features.   
+         Usage of gesture-based, touch-less control of devices is one of the big mega trends in the industry right now,  Nitin Bhat, a partner with consulting firm Frost   Sullivan told the BBC.   
+         From Apple s perspective it looks like an attempt to make its current gadgets a lot more attractive by offering such a feature on them. 
+         It could also look to incorporate this technology in future portfolio of devices which could include an Apple TV,  he added. 
+   'Ability to observe'  
+	       Earlier this year, PrimeSense unveiled the advances it has made in incorporating its technology in mobile devices. 
+         By shrinking down the sensor used in the Kinect, the firm showed it working with a Nexus 10 tablet at a Google developers  conference in May. 
+         According to PrimeSense , its 3D sensing technology gives digital devices  the ability to observe a scene in three dimensions . 
+         It said that once it has observed the movements, it translates them into a  synchronized image stream... just like humans do .  
+         The firm s technology then processes these images and translates them into information such as: 
+   
+      Identification of people, their body properties, movements and gestures 
+      Classification of objects such as furniture 
+      Location of walls and floor 
+          The firm has also launched a 3D scanner which,  it says , allows  anyone to scan items in their own environment and print them out on a 3D printer . 
+  
+
+	 
+  
+   
+ 	 

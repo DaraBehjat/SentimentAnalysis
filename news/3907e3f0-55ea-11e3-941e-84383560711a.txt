@@ -1,0 +1,272 @@
+	 The US entrepreneur who says anyone can now make wine 
+
+     
+         
+ 
+    
+    
+					            	    		 			 
+														 By Neil  Koenig 
+				 Business reporter, BBC 
+			 
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-24989606-130439');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","24989606"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 WinePod inventor Greg Snell talks about the collapse and subsequent revival of his firm 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+				
+		 
+		
+	
+						 Entrepreneurship 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Chess master turned chief executive 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 The start-up scene changing Norway 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Should women improve networking skills? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 The Wall Street boss glad she was sacked 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+						
+
+	       	      
+	
+                       Could a computer enable any one of us to make good wine at home? One Californian entrepreneur is convinced it can. 
+         Greg Snell, 47, is the designer and manufacturer of an automated wine-making device he has called a WinePod. It is a steel cylinder, 1.2m (4ft) high, designed to produce about 48 bottles of red or white wine at a time. 
+         Aimed at wealthy wine-making enthusiasts, it is something like a bread-maker, only for wine. And one that costs an eye-watering $4,500 (£2,800). 
+         Once grapes are added, the device is linked to a personal computer, and software guides the user through the wine-making process.  
+         Said to be the first of its kind, the machine automatically presses the grapes, you then wait a few months, and your finished wine is ready to be poured out. 
+         Mr Snell says that despite his business having to close for four years along the way - as a result of the 2008 global financial crisis - he is now looking at a growing market for his invention, particularly in China. 
+         As demand and interest in wine soars among the growing Chinese middle and upper classes, Mr Snell expects to sell  hundreds  of the WinePods in China next year. 
+         And the Californian is far from alone, as other entrepreneurs are also both doing new things in relation to wine, and targeting China s big appetite for the drink. 
+   'The rules changed' 
+	       Mr Snell grew up in Silicon Valley, the area to the south of San Francisco Bay renowned as a hotbed of entrepreneurial activity in the technology sector. 
+   
+   
+
+     Numerous companies will mail grapes to home wine-makers 
+   
+       Yet the Silicon Valley region is also called the Santa Clara Valley, and its rural parts are home to numerous vineyards and wineries. 
+         After graduating from college, Mr Snell worked in the silicon chip business, an industry in which exacting measurements have to be carried out with specialised sensors. 
+         He says that, one day, he suddenly realised there might be a way of applying his technical knowledge to wine-making. And the idea for the WinePod grew from there. 
+   
+	 Continue reading the main story 	 Start Quote 
+Ninety per cent of wines are made to be drunk in the next five years. You could put them in a can... and it would make no difference 
+End Quote 
+	 Cedric Segal 
+	 Winestar 
+
+		        When he was starting the company in 2005, Mr Snell contacted a wine blogger who published an article about the project. 
+         The story took off virally,  says Mr Snell.   All of a sudden I had people from all over the place wanting to buy this thing that really didn t exist yet.   
+         As production started at his San Jose base, Mr Snell created a waiting list on the company website to which interested customers could add their names. The list proved a useful way to help attract investors, and Mr Snell raised $3.5m in venture capital funds in 2007, and then $1.5m in secured loans in 2008. 
+         Sales of the WinePod had by that time surpassed 150, with customers either sourcing their grapes direct from vineyards, or via a number of mail order providers. 
+         The future looked rosy. Then disaster struck - news broke that the giant US investment bank Lehman Brothers had collapsed. 
+         I knew that all the rules had just changed and that something potentially bad was going to happen,  says Mr Snell. 
+   
+   
+
+     Cedric Segal has opened an office in Shanghai 
+   
+       He was right. In common with many other companies during the global financial crisis, the business soon ran into severe funding difficulties as sales fell away. As a result it had to close down. 
+         Mr Snell says he was shocked by what happened.  It changed me,  he says.  Within a short amount of time, to go from a successful start-up to something less than that, was very difficult for me… and especially for the people that were working for me and the investors. I felt absolutely terrible.   
+         Yet over the following years, Mr Snell started to be contacted by people asking where they could find a used WinePod. 
+         The requests eventually became so frequent that he decided to relaunch the WinePod company back in the summer. This time around Mr Snell will avoid the business taking on any debt by instead launching a crowdfunding campaign before the end of this year.  
+         So far sales for the reborn business total 10 units, but that is before the planned big push into China next year. 
+   'No preconceptions' 
+	 
+	 Continue reading the main story 	 Start Quote 
+I can't see how the WinePod can produce wine of the complexity or depth of a proper winery. But if you just want a simple wine to drink then I'm sure it is fine 
+End Quote 
+	 Neil Cammies 
+	 Wine journalist 
+
+		        Another wine industry entrepreneur targeting China is Frenchman Cedric Segal, who despite many raised eyebrows in his home market, sells canned wine. 
+         His company Winestar, which was set up at the start of 2013, is on target to sell 900,000 of its cans by the end of this year. Each holds a single-glass measure of various French red or white wines. 
+         The company recently opened offices in Shanghai and Hong Kong as it looks to ramp up sales in China. 
+         Mr Segal says his business is helped in China by the fact that the Chinese don t have much preconception about what container wine should be served from - they aren t all expecting a glass bottle. 
+         Only the French market is very picky about having an actual bottle with a cork,  he says.  But 90% of wines are made to be drunk in the next five years. You could put them in a can... and it would make no difference. 
+   'Tastes metallic' 
+	       But what do wine experts think of the WinePod and canned wine? 
+   
+   
+
+     The Chinese have developed a rapidly growing interest in wine 
+   
+       Neil Cammies, wine correspondent for Wales  Western Mail morning newspaper, is sceptical of both. 
+         I can t see how the WinePod can produce wine of the complexity or depth of a proper winery,  he says.  But if you just want a simple wine to drink then I m sure it is fine. 
+         The proof of course will be in the tasting though, and it all starts with the quality of the grapes you can source. 
+         Regarding canned wine, glass will always be the best material because it is so neutral. It is the same with beer, bottled beer is always better than canned beer, which tastes metallic. 
+         Additional reporting by Anthony Reuben 
+  
+
+	 
+  
+   
+ 	 

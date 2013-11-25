@@ -7,6 +7,8 @@ import string
 from HTMLParser import HTMLParser
 import anydbm
 import pickle 
+import uuid
+import datetime
 
 class MLStripper(HTMLParser):
     """ This code was found at stackoverflow to strip the HTML from the text. 
@@ -47,7 +49,7 @@ def create_link_list(t):
 
 
 
-def open_link_cnn(t, i):
+def open_link_cnn(url):
 	"""Function that takes a link from a list, opens the url and strips 
 	the HTML from the CNN article where it says to start and finish. 
 
@@ -56,9 +58,6 @@ def open_link_cnn(t, i):
 
 	returns: string of parsed article 
 	"""
-	
-	url = t[i]
-	print url
 	t = "" 
 	article = urllib.urlopen(url)
 	start = False 
@@ -71,18 +70,16 @@ def open_link_cnn(t, i):
 			t += text 
 		# when to stop parsing and return	 
 		if "OB_div" in line: 
-			return t 
+			return t
 
 
-def open_link_bbc(t, i):	
-	url = t[i]
-	print url
+def open_link_bbc(url):
 	t = "" 
 	article = urllib.urlopen(url)
 	start = False 
 	for line in article: 
 		# when to start parsing 
-		if "story-feature related narrow" in line:
+		if "<h1 class" in line:
 			start = True 
 		if start: 
 			text = strip_tags(line)
@@ -110,6 +107,32 @@ def open_link_reuters(t, i):
 		if "FILED UNDER" in line: 
 			return t 
 
+class Article(object):
+	"""Contains information about each article including date, source and 
+	original URL."""
+
+
+article_d = {}
+
+def get_info(links):
+	for url in links:
+		if url not in article_d.keys():
+			name = str(uuid.uuid1()) + '.txt'
+
+			# change the open_link_ function to specific news source
+			example = open_link_bbc(url)
+
+			article = open(name, 'w')
+			article.write(example)
+			article.close()
+
+			date = str(datetime.date.today())
+
+			article_d[url] = date
+
+	return article_d
+
+
 
 def print_article(t, i):
 	url = t[i]
@@ -125,27 +148,22 @@ if __name__ == '__main__':
 	reuters = "http://feeds.reuters.com/reuters/companyNews"
 	forbes = "http://www.forbes.com/business/index.xml"
 
-	python_rss_url = cnn
+	python_rss_url = bbc
 
 	feed = feedparser.parse( python_rss_url )
 	entries_feed = feed['entries']
 
 
 	links = create_link_list(entries_feed)
-	example = open_link_cnn(links, 3)
 
 
-	article = open('example3.txt', 'w')
-	article.write(example)
+	get_info(links)
 
-	article.close()
 
-	# print_article(links, 2)
+	print len(article_d)
+
 
 	# pickle.dump(article, open("reuters/11_19_1.p", "wb"))
-
-
-
 
 
 

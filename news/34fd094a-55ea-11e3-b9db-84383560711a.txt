@@ -1,0 +1,273 @@
+	 Parties continue row over Paul Flowers  smears 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     The Conservatives have drawn attention to senior Labour figures  links with the Co-op in the wake of allegations against ex-chairman Paul Flowers 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Inquiry into  events at Co-op Bank 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Former Co-op Bank boss Flowers held 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Timeline: Flowers, Labour and the Co-op 
+
+		 
+
+
+								 
+	 
+                       The Conservatives have been accused of a  return to the nasty party  as the row continues over the former Co-op Bank boss and his links to Labour. 
+         Paul Flowers was arrested last week after being filmed allegedly handing over money for cocaine. 
+         The shadow home secretary said there had been a  real deterioration  in the politics pursued by the Tories. 
+         Conservative party chairman Grant Shapps said the scandal raised questions for Labour. 
+         Mr Shapps told BBC1 s Sunday Politics that there were  conflicting reports  about how much the Labour leadership knew about Mr Flowers  past, which included him standing down as a Labour councillor when  adult content  was found on his computer. 
+         Labour has said that Mr Miliband and shadow chancellor Ed Balls did not know why Mr Flowers had quit. 
+         The Co-operative Party is joined with Labour, with many opposition MPs representing both parties. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25080241-21103');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25080241"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Shadow home secretary Yvette Cooper :  It is a return to the nasty party 
+		 
+    
+		
+
+
+
+
+       Mr Shapps said:  Labour, the party, certainly knew about these very difficult circumstances in which he resigned as a councillor. That s a thing the Labour Party knew about. 
+         If Ed Miliband didn t know about that, then why didn t he know about that? 
+         Shadow home secretary Yvette Cooper said previous prime ministers would not have linked the revelations to Labour in the way David Cameron has. 
+         What we ve seen recently is a real deterioration in the nature of the politics that the Tory party is pursuing,  she told the BBC s Andrew Marr programme. 
+         It is a return to the nasty party. 
+         Ms Cooper described allegations of expenses and drugs misuse as  completely shocking . 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25080239-21104');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25080239"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Grant Shapps:  To be accused of smears for asking important questions is ludicrous 
+		 
+    
+		
+
+
+
+
+       But she said Labour s connection to the Co-op had  nothing to do with Mr Flowers and it is just smear and the politics of the gutter for the Tory party to keep pushing this . 
+         Until 2011 Mr Flowers was a Labour councillor in Bradford and reportedly attempted to get selected to fight one its parliamentary seats. 
+         Ms Cooper said the allegations that have subsequently been made against the 63-year-old were separate from the  big questions  about why problems with the Co-op Bank s finances were not spotted earlier. 
+         The  nasty party  phrase was first coined by Home Secretary Theresa May while the Conservatives were in opposition to illustrate how she felt the Tories needed to change. 
+         But Mr Shapps told the BBC s Sunday Politics programme:  How this bank ended up being led literally off the rails, I think these are very important questions that need answering. 
+         To be accused of smears for asking the questions is ludicrous. 
+         The party has highlighted financial links between the Co-op and Labour, including loans and a £50,000 donation to Ed Balls s office. 
+   
+	 Continue reading the main story 	 Start Quote 
+The difficulty that Labour has is they were the people responsible for appointing [or] allowing Paul Flowers to be appointed on their watch 
+End Quote 
+	 Michael Gove 
+	 Education secretary 
+
+		 'On Labour's watch' 
+	       Writing in the Independent on Sunday , Labour leader Ed Miliband accused Mr Cameron of hitting  a new low  by using the  gross errors of one man... to impugn the integrity of of the entire Labour movement . 
+         The prime minister has suggested Labour knew of concerns about Mr Flowers but failed to act on them.  
+         Last week George Osborne announced an inquiry into how the suspended Methodist minister was allowed to reach such heights at the bank. 
+         But Education Secretary Michael Gove insisted the opposition had questions to answer.  
+         The difficulty that Labour has is they were the people responsible for appointing [or] allowing Paul Flowers to be appointed on their watch,  he told the Marr programme. 
+         Meanwhile, Martin Wheatley, who heads the Financial Conduct Authority, said Mr Flowers would not have been approved to run a bank under the new regulatory regime. 
+         Today it would be different,  he told the BBC s Sunday Politics programme. 
+         He was challenged. We said  actually you don t have the right experience . But at the time we wouldn t have opposed the appointment. 
+  
+
+	 
+  
+   
+ 	 

@@ -1,0 +1,32 @@
+	 Racing Post suffers website security breach 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     The Racing Post says users should change their passwords for other sites in case the hackers break the code 
+   
+                       The Racing Post is promising  stringent  new measures to prevent a repeat of a security breach on its website, racingpost.com. 
+         The site was hit by a  sophisticated, sustained and aggressive  attack on Friday and Saturday. 
+         During the raid, a database was accessed and customer details stolen. 
+         The Racing Post is advising users to change their password on other sites, if it is the same as the one they use on its site. 
+         It says customers who had forgotten their password should be aware these are encrypted  and we are therefore unable to tell them what the password is .  
+         Our advice, if in doubt, is to change passwords on other sites as a precaution as we cannot be confident that the hackers will be unable to break the encryption.   
+   Information 
+	       It says credit and debit card details are not stored on the site and have therefore not been accessed and are not at risk. 
+         It also advises that the website is completely safe to use as it has removed all log-in and registration functionality. 
+         The information at risk from the database that was compromised will vary in the case of each customer, depending on how much information they gave when they registered. 
+         Racing Post editor Bruce Millington said:  Security is an area we take extremely seriously and our website has not been compromised previously. As soon as we were aware of the situation we did everything in our power to halt the breach. 
+         As part of our efforts to resolve the issue, we have turned off the ability to register/log-on to racingpost.com. You will still be able to access the site safely.  
+         We are extremely sorry that this unfortunate incident has occurred. We believe it may be part of a wider attack on a number of companies. We thank you for your patience and understanding. 
+  
+
+	 
+  
+   
+ 	 

@@ -1,0 +1,369 @@
+	 Rangers make David Somers  chairman post permanent 
+
+     
+         
+ 
+								
+				
+				
+							 
+
+			    
+                               Rangers have made David Somers their non-executive chairman on a permanent basis having 
+    
+given him the post on an interim basis earlier this month.  
+
+
+  
+               But the accountant s appointment will still be the subject of a vote at the club s annual meeting on 19 December. 
+
+  
+               The announcement comes the day after it was revealed that 
+    
+Laxey Partners Limited had become the League One club s largest shareholder.  
+
+
+  
+               The Isle of Man hedge fund 
+    
+vowed support for the current board.  
+
+
+  
+     
+	 
+				 
+		    
+
+
+
+
+
+	 
+		 I think the club needs some stability, it needs some leadership and I'm very much looking forward to working with the board and the management team here to take the club back to where it should be 
+	 
+
+
+	 Graham Wallace 
+         Rangers chief executive 
+
+
+
+		 
+		
+		 
+			 
+
+               In a statement to the Stock Exchange, Rangers stated:  The board of Rangers has appointed David Somers as permanent non-executive chairman, having previously been independent non-executive director and acting chairman
+
+  
+                In accordance with Rangers  articles of association, Mr Somers will remain subject to re-appointment by an ordinary resolution at the upcoming annual general meeting of the company on Thursday 19 December 2013. 
+
+  
+               The present board is facing opposition at the AGM from a group of shareholders led by Scottish businessman Jim McColl.
+
+  
+               They want former Rangers chairman Malcolm Murray, former director Paul Murray, Alex Wilson and Scott Murdoch voted on to the board. 
+
+  
+               In response, 
+    
+Rangers have appointed investment banker Norman Crighton as an independent non-executive  
+
+    , while chief executive Craig Mather has stood down and been replaced with Graham Wallace.
+
+  
+               Mather stepped down after losing a courtroom battle with the shareholder group, which forced the postponement of the AGM.
+
+  
+               Rangers  announcement that Somers would be permanent chairman came on the day Wallace arrived at Ibrox for his first day of work.
+
+  
+               The 52-year-old former Manchester City chief operating officer has joined the Rangers International Football Club Plc board of directors as well as the club s board.
+
+  
+               Wallace told Sky Sports News:  I think the club needs some stability, it needs some leadership and I m very much looking forward to working with the board and the management team here to take the club back to where it should be, providing some expertise, some focus, some stability.
+
+  
+                I m looking forward to meeting all my new colleagues and everyone that s here, so we ll speak a bit later on. 
+
+  
+               Laxey Partners founder Colin Kingsnorth told BBC Scotland that he hoped the shareholders seeking change had already achieved their goal of better governance of the club without the need for a vote a the AGM.
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Laxey pledges to support Ibrox board
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 21 Nov 2013 
+		
+			 Rangers 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Laxey now largest Rangers shareholder
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 21 Nov 2013 
+		
+			 Rangers 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Rangers appoint Wallace as CEO
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 20 Nov 2013 
+		
+			 Rangers 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Rangers appoint Crighton as director
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 14 Nov 2013 
+		
+			 Rangers 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        McColl group bemused by Gers chairman
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 09 Nov 2013 
+		
+			 Rangers 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Rangers announce new chairman   AGM
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 07 Nov 2013 
+		
+			 Rangers 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 

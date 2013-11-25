@@ -1,0 +1,216 @@
+	 UK economy will take years to recover says BoE s Dale  
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+   
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 UK Economy 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What is quantitative easing? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What is  forward guidance ? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 GDP explained 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What is inflation? 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       The UK s economic recovery will take a  number of years , the Bank of England s chief economist Spencer Dale has said.  
+         We had a very deep recession, we have a number of years to go,  Mr Dale told the BBC. 
+         He also said that interest rates would remain low for what he termed a  sustained period .  
+         But he thought the economy was moving in the right direction and did not foresee a housing market bubble. 
+         He said:  We know that the housing market can quickly go from normal levels to overheating,  but that the UK is  not there now .  
+         Spencer Dale sits on the Bank s Monetary Policy Committee (MPC), which sets interest rates.  
+         On Wednesday, minutes from the  MPC s  November meeting showed the nine members all voted to leave interest rates at their current 0.5%. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25045522-64722');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25045522"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 The Bank of England s chief economist Spencer Dale talks to the BBC s Hugh Pym  
+		 
+    
+		
+
+
+
+
+       The Bank s plans for future interest rate rises have been closely watched since August when the governor, Mark Carney, said that he would not consider a rate rise until unemployment fell to 7%.  
+         However, unemployment, the Bank said on Wednesday, has fallen faster than predicted, and the 7% level is not to be regarded as an automatic trigger for a rate hike.  
+         Though Mr Dale warned that the recovery is not in its final stages, he stressed that things are improving.  
+         This echoes comments from Wednesday s MPC minutes that the UK, in the Bank s view, is in a  sustained recovery  and does not face major inflation risks.  
+  
+
+	 
+  
+   
+ 	 

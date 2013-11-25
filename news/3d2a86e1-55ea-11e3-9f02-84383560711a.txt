@@ -1,0 +1,234 @@
+	 Champions League: ITV retains rights to European highlights 
+
+     
+         
+ 
+								
+				
+				
+							 
+
+			    
+                               Highlights of the Champions League and Europa League will remain on ITV after the broadcaster agreed a three-year deal with Uefa from 2015.
+
+  
+               News UK, owner of the Times and Sun newspapers, will share internet and mobile clip rights with BT Sport.
+
+  
+               ITV learned this month that it will lose the live rights to both competitions in two years  time.
+
+  
+               BT Sport won them in an exclusive £897m three-year deal, 
+    
+announced on 9 November,  
+
+     and set to run from 2015.
+
+  
+               The pay-TV broadcaster - which has pledged to show some matches free-to-air, including the final - will be able to show live all 350 European fixtures per season.
+
+  
+               ITV s new deal will allow it to show highlights of all the week s Champions League games on a Wednesday night. There will be no separate highlights show on Tuesdays.
+
+  
+               The broadcaster will also be able to show Europa League highlights on Thursday nights.
+
+  
+               Highlights of both finals and the Super Cup will be on ITV. In addition, highlights of both competitions will be made available on ITV s website and via mobile.
+
+  
+               Niall Sloane, ITV director of sport, said:  We are happy to have secured these highlights packages and to be able to bring them to a significant free-to-air viewership. 
+
+  
+               ITV, which has been the free-to-air broadcaster of the Champions League since its inception in 1992, currently shares live rights to the competition with Sky Sports. It shares Europa League live rights with BT Sport and ESPN.
+
+  
+               Under the new television deal, Sky will be unable to show the Champions League for the first time since 2003.
+
+  
+               The contract for mobile and internet clip rights, like the television deals, will run for three years from 2015. It will allow the Sun, the Times and the Sunday Times to show action from the competition on its digital platforms.
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        BT wins £897m Champions League deal
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 09 Nov 2013 
+		
+			 Champions League 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Can Sky bounce back from BT defeat? 
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 09 Nov 2013 
+		
+			 Business 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        BT Sport users reach two million
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 31 Oct 2013 
+		
+			 Business 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
