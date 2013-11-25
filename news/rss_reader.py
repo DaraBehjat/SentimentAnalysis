@@ -128,7 +128,7 @@ def get_info(links):
 
 			date = str(datetime.date.today())
 
-			article_d[url] = date
+			article_d[url] = (name, date)
 
 	return article_d
 
