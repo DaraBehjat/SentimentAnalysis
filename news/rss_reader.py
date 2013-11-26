@@ -107,16 +107,24 @@ def open_link_reuters(t, i):
 		if "FILED UNDER" in line: 
 			return t 
 
-class Article(object):
+class RSSfeed(object):
 	"""Contains information about each article including date, source and 
 	original URL."""
 
 
-article_d = {}
 
 def get_info(links):
+	article_d = {}
+
+	with open('read_articles.csv', 'r') as f:
+		for line in f:
+			lineList = line.strip().split(',')
+			article_d[lineList[0]] = [lineList[1], lineList[2], lineList[3]]
+
+	f = open('read_articles.csv', 'a')
+
 	for url in links:
-		if url not in article_d.keys():
+		if url not in article_d:
 			name = str(uuid.uuid1()) + '.txt'
 
 			# change the open_link_ function to specific news source
@@ -127,11 +135,12 @@ def get_info(links):
 			article.close()
 
 			date = str(datetime.date.today())
+			# placeholder until article classes are created
+			source = 'source'
 
-			article_d[url] = (name, date)
-
-	return article_d
-
+			newLine = ('%s, %s, %s, %s \n') % (url, date, name, source)
+			f.write(newLine)
+	f.close()
 
 
 def print_article(t, i):
@@ -158,12 +167,6 @@ if __name__ == '__main__':
 
 
 	get_info(links)
-
-
-	print len(article_d)
-
-
-	# pickle.dump(article, open("reuters/11_19_1.p", "wb"))
 
 
 
