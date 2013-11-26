@@ -1,0 +1,422 @@
+	 London Market Report 
+
+     
+         
+ 
+    
+    
+		
+         Continue reading the main story    var javascript_version = 1.0;
+
+    javascript_version = 1.1;
+
+  var newwin;
+function popUpWindow(URL,windowName,windowSettings)
+{
+storyWindow = window.open(URL,windowName,windowSettings);
+if(javascript_version > 1.0)
+{
+setTimeout('storyWindow.focus();',250);
+}
+} // End -->
+                                                        
+
+
+
+.story-body #marketdata_toolbar td {
+	padding:0px 0px 1px 0px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+.story-body #marketdata_v4 td {
+	padding:5px 0px 5px 0px;
+	text-align:left;
+}
+
+#marketdata_v4 .livestats {
+	width:607px;
+}
+#marketdata_v4 .livestats-tabbed .tab {
+	padding-left:2px;
+}
+
+.story-body #marketdata_form {
+	border-top-width:0px;
+	margin-top:0px;
+	width:624px;
+}
+
+.story-body #marketdata_form table {
+	margin-bottom:0px;	
+}
+
+
+
+
+
+
+
+     
+     
+         
+             
+                 
+             
+             
+                 
+                    Search company or market:
+                 
+             
+         
+         
+             
+                 
+             
+             
+                 
+             
+             
+                 
+             
+             
+                 
+             
+         
+     
+
+
+
+
+
+
+
+
+
+
+	 
+		 
+			 
+				
+					 
+							 
+								Overview
+							 
+					 
+
+				
+					 
+							 
+								Stock markets
+							 
+					 
+				
+					 
+							 
+								Share prices
+							 
+					 
+
+				
+					 
+							 
+								Currencies
+							 
+					 
+				
+					 
+							 
+								Commodities
+							 
+					 
+
+				
+					 
+							 
+								Gilts   Bonds
+							 
+					 
+				
+					 
+							 
+								UK Earnings
+							 
+
+					 
+				
+			 
+		 
+	 
+     
+    	 
+    	 London | Paris | Frankfurt | Tokyo | Wall Street 
+    	 
+    	 
+
+	 
+
+
+
+Continue reading the main story 
+
+ 
+		
+		
+	 
+		
+
+
+	
+		 
+			 
+				 
+					 FTSE 100 Index  
+				 
+				
+			 
+
+			 Last Updated at 26 Nov 2013, 11:30 ET  
+		
+			 
+				 *Chart shows local time 
+			 
+		
+			 
+
+			 
+				 
+					 
+					 
+					 
+				  
+				 
+					 
+						 value 
+						 change 
+						 % 
+					 
+				 
+            	 
+					 
+						 
+						6637.77
+						 
+						 				
+							 - 
+							 -56.85 					
+						 
+						 		
+							 - 
+							 -0.85 
+						 
+					 
+					
+					
+						 
+							 Top winner and loser 
+						 
+						
+							 
+								 
+									 Wolseley 
+								 
+							 
+							 
+								 
+									3349.00
+									p 
+								 
+									 + 
+									 +105.00 
+								 
+								 
+									 + 
+									 +3.24 	
+								 
+							 
+						
+						
+						
+							 
+								 
+									 Anglo American 
+								 
+							 
+							 
+								 
+									1334.50
+									p 
+								 
+									 - 
+									 -37.00 
+								 
+								 
+									 - 
+									 -2.70 	
+								 
+							  						 
+						 
+					
+				 
+			  
+		 
+	
+	
+			
+
+	
+	
+	
+		
+		 
+			 
+				 
+					 
+					 
+					 
+				 
+				 
+					 
+						 value 
+						 change 
+						 % 
+					 
+				 
+				  
+		
+				 
+					 
+						 
+							 FTSE 250 Index  
+						 
+						
+					 
+				 
+				 
+					 
+					15319.99
+					 
+					 				
+						 + 
+						 +20.07 					
+					 
+					 		
+						 + 
+						 +0.13 
+					 
+				 
+				
+			
+
+	
+	
+	
+		
+				 
+					 
+						 
+							 FTSE 350 Index  
+						 
+						
+					 
+				 
+				 
+					 
+					3601.54
+					 
+					 				
+						 - 
+						 -25.62 					
+					 
+					 		
+						 - 
+						 -0.71 
+					 
+				 
+				
+			
+
+	
+	
+	
+		
+				 
+					 
+						 
+							 FTSE All Share Index  
+						 
+						
+					 
+				 
+				 
+					 
+					3537.87
+					 
+					 				
+						 - 
+						 -24.36 					
+					 
+					 		
+						 - 
+						 -0.68 
+					 
+				 
+				
+			
+
+	
+	
+	
+		
+				 
+					 
+						 
+							 FTSE Techmark Index  
+						 
+						
+					 
+				 
+				 
+					 
+					3016.44
+					 
+					 				
+						 + 
+						 +9.58 					
+					 
+					 		
+						 + 
+						 +0.32 
+					 
+				 
+				
+			 
+		 
+	  
+				
+			
+
+
+	 
+
+	
+
+
+
+
+
+                       (Noon): The  FTSE 100  was down 30.23 points at 6,664.39, but most of the action was among FTSE 250 firms. 
+         Pharmaceutical firm  BTG  surged 13% after the company said that US regulators had approved its Varithena varicose veins treatment. 
+         Britvic  shares rose 4% after the drinks firm said full-year profits had jumped by more than a quarter to £108.1m. 
+         The firm also said that trading in the new financial year was  slightly ahead  of the same period last year. 
+         Bank note printer  De La Rue  jumped 10% after reporting higher profits. 
+         The firm said first-half operating profits had risen by 18%, and reiterated that it expected to report full-year operating profits of £90m. 
+         Shares in pub group  Mitchells   Butlers , which owns the Harvester, All Bar One and O Neill s chains, rose by 7% after it reported full-year pre-tax profits of £150m, with revenues up 2%. 
+         Topps Tiles  rose 5.6% after it said full-year adjusted pre-tax profits had risen slightly to £13m. The company also said that sales had got off to a good start in the new financial year, with like-for-like revenues up 7.4% in the first eight weeks. 
+         On the currency markets, the pound rose 0.2%  against the dollar  to $1.6187 while it fell 0.1%  against the euro  to 1.1944 euros.  
+  
+
+	 
+  
+   
+ 	 

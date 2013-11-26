@@ -1,0 +1,237 @@
+	 Payday loan  risk to mortgage applications 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25105380-4129');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25105380"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Vince Cable says new regulation will effectively mean payday lenders having to carry  health warnings 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Payday loans 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 New law to cap payday loan costs 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Miliband: Ban children s TV loan ads 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Wonga says most clients are happy 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Payday loan rollover plan challenged 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       Taking out a payday loan could endanger people s chances of getting a mortgage whether or not they had difficulties repaying the cash, the BBC has learned. 
+         Nearly two-thirds of brokers contacted by trade publication Mortgage Strategy for Newsnight had a client turned down for a mortgage after a payday loan.  
+         A record of a loan will remain on a credit record for nearly six years. 
+         Business Secretary Vince Cable said borrowers would receive warnings under future advertising regulation changes.  
+         According to evidence gathered by Newsnight, many mortgage applications have been instantly declined and credit scores adversely affected after people took out payday loans. 
+         Out of the 279 replies received by Mortgage Strategy, 184 brokers said they had clients in such a position.  
+         Jonathan Clark of Chadney Bulgin financial planners in Fleet, Hampshire, advised a couple who took out multiple payday loans on getting a mortgage under the government s Help to Buy scheme. 
+         I knew it was going to be a problem, but I was a bit shocked by the response I got because apart from one or two who said they could be accepted subject to a credit score - which is a polite way of saying it probably won t work - most of them were very negative and said it would be an instant decline. 
+         That was regardless of their income, the conduct of their accounts and everything else... these were major High Street lenders. 
+   
+	 Continue reading the main story 		 Payday loans: check the costs 
+		 
+	 
+   
+
+   
+
+	 
+	 
+      Advertised monthly costs may seem low, but annual rates are significant 
+      Loans are quick but customer service can be poor.  The Financial Ombudsman receives more than 50 complaints about payday lenders every month 
+      Other lenders like banks or credit unions may offer a better deal. Here are  10 things to check  before you take out a loan 
+   
+	 
+		 
+			 BBC Consumer 
+			 Payday loan calculator 
+		 
+	        The trade body that represents payday lenders, the Consumer Finance Association, said it would look at whether customers should be warned about the consequences before they take out a payday loan. 
+         It said it has asked the Council of Mortgage Lenders and major credit reference agencies for more information. 
+         The revelation comes as the government is to introduce a new law to cap the cost of payday loans. 
+         Some payday lenders have been criticised for charging more than 5,000% annual interest although the lenders say the loans are meant to be short-term, so the annual rate can make charges appear worse than they are. 
+         The level of the cap, which has not yet been announced, will be decided by the new industry regulator, the Financial Conduct Authority (FCA). 
+         The cap will be included in the Banking Reform Bill, which is already going through Parliament. 
+         Mr Cable told Newsnight that future advertising will also require payday loan companies to make clear that borrowers have to seek debt advice. 
+         If they seek debt advice they will know the risk of imperilling their credit status,  he said. 
+  
+
+	 
+  
+   
+ 	 

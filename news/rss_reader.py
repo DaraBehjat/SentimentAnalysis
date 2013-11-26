@@ -50,11 +50,10 @@ def create_link_list(t):
 
 
 def open_link_cnn(url):
-	"""Function that takes a link from a list, opens the url and strips 
-	the HTML from the CNN article where it says to start and finish. 
+	"""Function that opens url and strips the HTML from the CNN article 
+	where it says to start and stop and then returns parsed block of text. 
 
-	t: list of links
-	i: desired index of list
+	url: link 
 
 	returns: string of parsed article 
 	"""

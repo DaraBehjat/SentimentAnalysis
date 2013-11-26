@@ -1,0 +1,173 @@
+	 Zero-hours contract workers happy, survey suggests 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Zero-hours contracts have become increasingly popular in recent years 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: What are zero-hours contracts? 
+
+		 
+
+
+											
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 A tale of two zero-hour contracts  Listen 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What s it like on zero-hours contract? 
+
+		 
+
+
+														 
+	 
+                       UK workers on zero-hours contracts are more likely to be happy with their work-life balance than other staff, a survey suggests. 
+         The contracts do not guarantee work from one week to the next. 
+         But the Chartered Institute of Personnel and Development said just over half of the 456 zero-hours workers it questioned did not want more hours. 
+         It added, however, there was a need to improve poor practice such as notice periods given when work is cancelled. 
+         Only about a third of the 1,000 employers questioned had a contractual provision or formal policy outlining their approach to arranging and cancelling work for zero-hours workers. 
+         The CIPD added many employers and zero-hours staff were unaware of the employment rights they may be entitled to. 
+         The survey found four out of five respondents on zero-hours contracts said they were never penalised if they were unavailable for work.  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25102268-5887');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+       But 40% of workers subject to the contracts said they had shifts cancelled without notice and the CIPD is recommending that  compensation be paid in such a situation. 
+         Peter Cheese, chief executive of the CIPD, said:  The use of zero-hours contracts in the UK economy has been underestimated, oversimplified and in some cases, unfairly demonised. 
+         In total, researchers spoke to 2,500 workers on both zero-hours and regular contracts. 
+         The CIPD said zero-hours contracts, which are widely used in fields including catering, leisure, retail and the public sector, provide flexibility for workers and employers. 
+   'Specialist skills' 
+	       Some 38% of those on zero-hours contracts wanted more hours but when compared to the average UK employee, they are just as satisfied with their job. 
+         Only 58% of UK employees said there were happy with their work-life balance, compared to 65% of those on zero-hours contracts. 
+   
+	 Continue reading the main story 	 Start Quote 
+This survey shows that job insecurity and low pay are concerns for a significant number of workers, 
+End Quote 
+	 Frances O'Grady  
+	 TUC General Secretary 
+
+		        The study confirmed the CIPD s previous estimate that around a million people are on zero-hours contracts. 
+         Steve Radley, director of policy at manufacturers  organisation EEF, said:  The debate on zero-hours contracts has become unbalanced and needs greater focus on the benefits it can bring to both workers and employers.  
+         With skills in scarce supply, zero hours help employers to tap into specialist skills when they are needed and to draw on the experience of older workers. 
+         TUC General Secretary Frances O Grady said:  Whilst not every employee on a zero hours contract is exploited, this survey shows that job insecurity and low pay are concerns for a significant number of workers, including white collar staff. 
+         The real problems lie with bosses who aren t interested in good practice and are more concerned with squeezing staff to boost their profit margins.  
+         That s why we need legislative action to stamp out the growing abuse of workers on zero hours contracts and other forms of insecure work. 
+         Shadow trade minister Ian Murray said Labour would outlaw the exploitative use of zero-hours contracts. 
+         He said the research highlighted concerns on bad practice and exploitation. 
+         The government is to launch a consultation on how to tackle abuses in zero hours contracts but the CIPD says efforts should be focused on improving understanding of how the contracts are used within the law rather than trying to restrict their use through regulation. 
+  
+
+	 
+  
+   
+ 	 
