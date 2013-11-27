@@ -97,7 +97,7 @@ def open_link_reuters(t, i):
 	for line in article: 
 		# when to start parsing 
 		# TODO -- FIND REUTERS START POINT 
-		if "------" in line:
+		if "midArticle_start" in line:
 			start = True 
 		if start: 
 			text = strip_tags(line)
@@ -156,7 +156,7 @@ if __name__ == '__main__':
 	reuters = "http://feeds.reuters.com/reuters/companyNews"
 	forbes = "http://www.forbes.com/business/index.xml"
 
-	python_rss_url = bbc
+	python_rss_url = reuters
 
 	feed = feedparser.parse( python_rss_url )
 	entries_feed = feed['entries']
@@ -165,7 +165,13 @@ if __name__ == '__main__':
 	links = create_link_list(entries_feed)
 
 
-	get_info(links)
+	# print_article(links, 2)
+	# print_article(links, 5)
+
+	# print open_link_reuters(links, 2)
+	print open_link_reuters(links, 5)
+
+	# get_info(links)
 
 
 
