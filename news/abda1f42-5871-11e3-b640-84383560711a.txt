@@ -1,0 +1,226 @@
+	 Npower confirms 1,460 UK jobs to go 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25138659-103182');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25138659"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Paul Massara, Npower chief executive:  It s a tough decision... we found this difficult 
+		 
+    
+		
+
+
+
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Npower owner RWE to cut 6,750 jobs 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 RWE to close or idle power plants 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Unions voice fears over Npower jobs 
+
+		 
+
+
+								 
+	 
+                       Energy giant Npower has confirmed that 1,460 UK jobs are to go as part of a major corporate restructuring. 
+         The company, owned by Germany s RWE, plans to outsource much of its customer service and back office functions to Capita and Tata Consultancy Services (TCS), it said in a statement. 
+         But call centres would remain in the UK, it added. 
+         Npower, one of the UK s  big six  gas and electricity suppliers, currently employs 9,600 people in the UK. 
+         Chief executive Paul Massara said:  This restructure is necessary if we are to deliver the levels of service our customers deserve. 
+         About 540 of Npower s existing staff will transfer to Capita under TUPE - Transfer of Undertakings (Protection of Employment) Regulations 2006 - which effectively protects their existing terms and conditions, the company said. 
+         The outsourcing would help Npower cope with peak time calls, it argued. 
+         Back office work, such as checking meter readings against customers  bills, would be outsourced to India using TCS, said Npower. 
+         The 1,460 redundancies would take place over the next eight months, with the following sites affected:  
+   
+      Stoke-on-Trent office to close: 550 jobs affected 
+      Oldbury: one office to close, 400 jobs affected 
+      Rainton Bridge, Sunderland: 430 jobs affected 
+      Leeds: 80 jobs affected 
+      Thornaby site to close, but jobs relocated to Rainton head office 
+      No redundancies at the three Peterlee offices, but teams to be moved between the Rainton and Peterlee offices. 
+          I understand that these changes would be incredibly hard for some of our employees and we ll be doing everything we can to support them over the next few months,  said Mr Massara. 
+         More cuts 
+         These latest job cuts come on top of the planned closure of its Kingswinford site in the West Midlands, announced earlier this year, which housed about 300 call centre and IT support staff. 
+         About 120 of these IT jobs were outsourced to Indian firm Wipro and the UK s Computacenter, an Npower spokeswoman confirmed to the BBC, while the call centre staff were relocated to Worcester. 
+         The Kingswinford site is due to close completely  at the end of the year , she said.    
+         In October, Npower said it would raise household gas and electricity prices by 10.4% on average, blaming the increase partly on the cost of implementing the government s carbon-reduction policies. 
+         Owner RWE has already said it will cut 6,750 jobs across Europe between 2014 and 2016.   
+   
+                         Are you an Npower  employee or shareholder? Send us your comments and experiences using the form below. 
+  
+
+	
+	
+    
+       
+    
+     
+     
+     
+     
+       
+         (Required)   Name 
+         
+         
+       
+       
+         (Required)   Your E-mail address 
+         
+         
+       
+       
+         (Required)   Town   Country 
+         
+         
+       
+       
+         (Required)   Your telephone number 
+         
+         
+       
+     
+     
+       
+         (Required)    Comments 
+         
+         
+       
+     
+	     
+       If you are happy to be contacted by a BBC journalist please leave a telephone number that we can contact you on. In some cases a selection of your comments will be published, displaying your name as you provide it and location, unless you state otherwise. Your contact details will never be published. When sending us pictures, video or eyewitness accounts at no time should you endanger yourself or others, take any unnecessary risks or infringe any laws. Please ensure you have read the terms and conditions. 
+       Terms and conditions 
+       Send 
+       Clear 
+     
+   
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25135247#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

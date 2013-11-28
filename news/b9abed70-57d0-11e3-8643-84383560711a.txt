@@ -1,0 +1,348 @@
+	 Rugby World Cup 2015: Cheapest Twickenham final ticket is £150 
+
+     
+         
+ 
+								
+				
+				
+				                    
+			      	 
+                    
+							 
+
+			    
+                               The cheapest tickets for the 2015 Rugby World Cup final in England will be priced at £150, the organisers of the tournament have announced
+
+  
+               Twickenham will host the final on Saturday, 31 October with the most expensive seats to be sold at £715.
+
+  
+               However tickets for some pool stage matches will cost as little as £7.
+
+  
+               All England s pool matches will kick off at 20:00 BST, including the opening match at Twickenham on Friday, 18 September.
+
+  
+               Organisers England 2015 promised last year 
+    
+to make the tournament  affordable and accessible to everyone .  
+
+
+  
+     
+	 
+				 The price of being at the final 
+				 
+		
+		 
+		                    2012 Olympic 100m final
+
+
+  
+               Adult tickets from £50 to £725
+
+  
+                    2013 Champions League final
+
+
+  
+               Adult tickets from £68 to £330
+
+  
+                    2014 Football World Cup final
+
+
+  
+               Adult tickets from £288 to £650
+
+  
+                    2015 Cricket World Cup final
+
+
+  
+               Adult tickets from £70 to £225
+
+  
+                    2015 Rugby World Cup final
+
+
+  
+               Adult tickets from £150 to £715
+
+  
+
+		 
+			 
+
+               A total of one million of the 2.3 million available tickets will go on sale at £100 or less, with 500,000 selling at £50 or less.
+
+  
+               Adult ticket prices start at £15 for pool matches and child tickets will be available from £7 at 41 of the 48 matches. 
+
+  
+               England 2015 chief executive Debbie Jevans said:  For £70 a family of four can watch Australia. Indeed for £130 a family of four could watch England playing in Manchester.
+
+  
+                But to achieve that we have never shied away from the fact you do have to raise those revenues to put on the event. 
+
+  
+                Therefore, at the back end of the tournament, £750 is our top price for the final, which some may say is expensive but equally that does compare with previous World Cups. 
+
+  
+               The first batch of tickets - around 500,000 - will be distributed through clubs affiliated to the Rugby Football Union next May and will include some for the final.
+
+  
+               The general sale launch begins in September and there will be a ballot system in place for oversubscribed matches. Unsold tickets will be made available through Ticketmaster from December.
+
+  
+                We wanted to take this event to the whole country and we have done that,  added Jevans.
+
+  
+                And then to encourage those fans you have to make the prices accessible and affordable to do that, and that is what we have done.   
+
+  
+               Eight football stadiums, including Wembley and Villa Park, will be used to host games 
+    
+along with the Olympic Stadium.  
+
+
+  
+               
+Wales will play games at Cardiff s Millennium Stadium  
+
+     in addition to facing England and Australia at Twickenham, while Kingsholm in Gloucester and Exeter s Sandy Park are the only other rugby venues in use.
+
+  
+               Kick-off times for group games will be midday, 14:00, 17:00 and 20:00, and for the quarter-finals and semi-finals 17:00.
+
+  
+               Jevans said:  Our key priority is ensuring we give the teams a balanced and equitable schedule, which we believe we have achieved.
+
+  
+                We have consulted with all our transport providers, our venues and host cities, and we feel we have put together a schedule that takes into account all of the needs of our stakeholders.
+
+  
+                Now that fans have the final piece of the jigsaw, they can start to plan their tournament, be it in stadia or watching from home, and make this a truly memorable celebration of rugby. 
+
+  
+
+			
+			                
+				 
+                
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Cheap tickets planned at 2015 RWC
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 09 Jan 2012 
+		
+			 Rugby Union 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Rugby World Cup 2015 schedule
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 02 May 2013 
+		
+			 Rugby Union 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Rugby Union commentaries
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 05 Oct 2013 
+		
+			 Rugby Union 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: RUGBY UNION
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+		             
+    			
+    			
+    				
+    			
+    
+    			
+    			
+    			
+    			 
+
+
+ 
+ 
+ 
+
+
+
+
+
+  
+
+    
+
+
+
+
+
+
+                                                             (function(){ gloader.load( ["glow", "1", "glow.net"], { async: true, onLoad: function(glow) { glow.ready(function() { commentsParams = { version : '2.2.41', bbc_id_env : 'id.bbc.co.uk', base_non_secure_url : 'http://www.bbc.co.uk/modules/comments/', base_secure_url : 'https://ssl.bbc.co.uk/modules/comments/', ajax_load_url : 'http://www.bbc.co.uk/modules/comments/index/getcomments/', ajax_preview_url : 'https://ssl.bbc.co.uk/modules/comments/index/preview/', user_auth_url : 'http://www.bbc.co.uk/modules/comments/getauth/', translations_url : 'http://www.bbc.co.uk/modules/comments/getjstranslations/', items_per_page : 20, sort_order : 'Descending', sort_by : 'Created', filter : 'none', current_page : 1, page_count : 0, comment_count : 0, site_name : 'sportcommentsmodule', forum_id : '__CPS_25121033', title : 'Rugby World Cup 2015: Cheapest Twickenham final ticket is &pound;150', preset : 'opinion', parent_uri : 'http://www.bbc.co.uk/sport/0/rugby-union/25121033', postFreq : 0, character_limit : 400, loc : 'en-GB', timezone : 'Europe/London', policy_uri : 'comment', allow_not_signed_in_commenting : '', rtl : false, textarea_height : '16px' ,logged_in : false  };  glow.net.loadScript("http://static.bbci.co.uk/modules/comments/2.2.41/javascript/comments.js", { useCache : true }); }); } } ); })();         Comments                 Sign in  with your BBC iD,  or  Register  to comment and rate comments                                                  All posts are  reactively-moderated   and must obey the  house rules .                                                                                              All posts are  reactively-moderated   and must obey the  house rules                            Be the first to comment           
+
+
+            
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/rugby-union/25121033

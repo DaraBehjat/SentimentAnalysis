@@ -1,0 +1,315 @@
+	 Mortgage lending support scheme to be scaled back 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25136784-17778');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25136784"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Mark Carney:  There is no longer a need for FLS to provide further broad support to household lending 
+		 
+    
+		
+
+
+
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Bank  has no veto  on Help to Buy 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Bank s Help to Buy role questioned 
+
+		 
+
+
+								 
+	 
+                       The Bank of England s move to refocus the Funding for Lending scheme (FLS) on business not mortgage borrowers sparked falls in housebuilders  shares. 
+         The Bank of England s governor Mark Carney, said supporting mortgage lending was  no longer necessary . 
+         An overheated housing market would be a risk to the economy, he said, adding that prices are rising in many regions. 
+         Shares in leading housebuilders  including Barratt Developments and Taylor Wimpey fell by around 5%. 
+   
+	 Continue reading the main story 		 
+	 Start Quote 
+The point of all this is to turn down the heat under the mortgage market and turn it up a bit in the business lending market 
+End Quote 
+
+
+			 
+		 
+	 Robert Peston 	 Business editor 
+	 
+
+	 
+	
+	 
+		 
+			 Read more from Robert 
+		 
+	        However, speaking about another government-backed scheme, designed to help home buyers, Help To Buy, Mr Carney added that it was  still early days .  
+         Funding for Lending will be refocused on businesses from January 2014, the governor said. 
+   'Silver bullet'? 
+	       Chancellor George Osborne said:  Small firms are the lifeblood of our economy. That s why we re reforming the banks, introducing the employment allowance and now focusing the Funding for Lending Scheme to support them. 
+         Funding for Lending aimed to provide up to £60bn to banks and building societies so long as that money was lent to businesses and individuals. 
+         Mr Carney said:  The changes announced today refocus the Funding for Lending scheme where it is most needed - to underpin the supply of credit to small businesses over the next year - without providing further broad support to household lending that is no longer needed. 
+         He added:  Since the FLS was launched it has contributed to a substantial fall in bank funding cost, this has fed through to a significant improvement in household credit conditions. Given this success there is no longer a need for FLS to provide further broad support to household lending .  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25138665-17779');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25138665"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Vince Cable said the announcement by the Bank of England was  very wise 
+		 
+    
+		
+
+
+
+
+       Business Secretary Vince Cable told the BBC that while he believed that the decision to refocus the scheme away from households would improve borrowing prospects for small and medium sized companies, it was  not a silver bullet .  
+         One decision isn t going to change quite a deep structural problem. But it is certainly a move in the right direction. As far as small businesses are concerned, there are a whole lot of different issues here.   
+   'Not a shock' 
+	       The shadow financial secretary to the Treasury, Labour s Cathy Jamieson, said that the move was  an admission that the Funding for Lending scheme has badly failed Britain s businesses . 
+         She added that many homeowners might be concerned that the removal of the household aspect of FLS could lead to a rise in mortgage interest rates.  
+         However, in response to the news, the Council of Mortgage Lenders said that the decision reflected the  improvement in funding market conditions .  
+         The group s director-general, Paul Smee, said:  Although the changes to the FLS may be a surprise, they are not a shock. Mortgage lenders are well equipped to meet their funding needs, as wholesale funding market conditions have improved and retail deposits are robust. 
+         Mr Carney added that he saw a higher risk to financial stability if there were further rapid rises in house prices. He added that there were signs of house price growth picking up beyond London.  
+         Robert Wood, UK economist at Berenberg Bank, told the BBC:  The Bank needs to take away some of that extra help it has been giving, and this will help to slow down price rises.  
+         This is the first small step we will see in a continuing effort to move banks away from mortgage lending and towards business lending. 
+   
+   
+
+     Rising house prices have been causing concern for many 
+   
+Tougher tests 
+	       In addition to the changes to FLS, Mr Carney also said that tougher affordability tests might be required in the future, for those taking out mortgages.  
+         From April 2014, banks will already conduct new affordability assessments, which are being used in the Help to Buy scheme. 
+         Currently, banks and building societies look at the predictions for interest rates, to see whether home-buyers could still afford their monthly repayments if interest rates go up. 
+         At the moment, those predictions suggest that interest rates could rise to 3% within the next five years. 
+         However, Mark Carney said that this could be an under-estimate if the the economy suffered from another global shock, which would be likely to push up interest rates more quickly. 
+         Concerns about a potential property market bubble have been growing. Earlier this month, a committee of MPs asked the Bank of England to clarify its role in policing the Help to Buy scheme.  
+         The Treasury Committee said that the  scope and limits  of the Bank s role were not clear. 
+         Replying to the committee s chairman, Mr Carney said the Bank s role was purely advisory. 
+   
+                         What is your reaction to this news? Are you a home buyer hoping to benefit from the scheme? Are you a business owner who may take advantage of the change? Send us your comments and experiences using the form below. 
+  
+
+	
+	
+    
+       
+    
+     
+     
+     
+     
+       
+         (Required)   Name 
+         
+         
+       
+       
+         (Required)   Your E-mail address 
+         
+         
+       
+       
+         (Required)   Town   Country 
+         
+         
+       
+       
+         (Required)   Your telephone number 
+         
+         
+       
+     
+     
+       
+         (Required)    Comments 
+         
+         
+       
+     
+	     
+       If you are happy to be contacted by a BBC journalist please leave a telephone number that we can contact you on. In some cases a selection of your comments will be published, displaying your name as you provide it and location, unless you state otherwise. Your contact details will never be published. When sending us pictures, video or eyewitness accounts at no time should you endanger yourself or others, take any unnecessary risks or infringe any laws. Please ensure you have read the terms and conditions. 
+       Terms and conditions 
+       Send 
+       Clear 
+     
+   
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25137444#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

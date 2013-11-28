@@ -1,0 +1,42 @@
+
+
+
+By Thomas Escritt AMSTERDAM  Nov 28 (Reuters) - Google's practice of
+combining personal data from its many different online services
+violates Dutch data protection law, the country's privacy
+watchdog said on Thursday after a seven-month investigation. The Dutch Data Protection Authority, or DPA, asked Google to
+attend a meeting to discuss its concerns, after which it would
+decide whether to take any action against the cloud services,
+Internet search and advertising giant, which could include
+fines. Google, responding to the Dutch authority's findings, said
+it provided users of its services with sufficiently specific
+information about the way it processed their personal data. "Our privacy policy respects European law and allows us to
+create simpler, more effective services. We have engaged fully
+with the Dutch DPA throughout this process and will continue to
+do so going forward," Google said in a statement. The Dutch decision reflects concerns across Europe about the
+volume of personal data that is held in foreign jurisdictions in
+so-called "cloud" storage services, where data is stored
+remotely via the Internet instead of on-site, giving individuals
+little control over their personal information. Privacy campaigners have also pointed to documents leaked by
+the former CIA technician and National Security Agency 
+contractor Edward Snowden that suggest U.S. intelligence
+services have access to material stored in U.S.-based cloud
+services. "Google spins an invisible web of our personal data, without
+consent," said Jacob Kohnstamm, the chairman of the DPA. "That
+is forbidden by law." In March 2012, Google unilaterally imposed new terms of
+service on users of all its cloud services, which include the
+YouTube video streaming site, the GMail email service, and the
+ubiquitous Google search engine. That decision triggered privacy investigations in six
+European countries, though the fines regulators can typically
+impose are modest. In France, the maximum fine is 300,000 euros ($408,000). In
+a previous Dutch case involving the gathering of data from Wifi
+networks, a spokeswoman for the agency said Google - which has a
+market capitalisation of over $350 billion - could have been
+fined up to 1 million euros if it had not subsequently complied. "Google does not properly inform users which personal data
+the company collects and combines, and for what purposes," the
+DPA said in a statement. The report said it was "almost impossible" for a Dutch
+Internet user not to interact with Google "be it via Search,
+YouTube or Maps, or passively through third-party websites". 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/yLNwjBkAIms/story01.htm

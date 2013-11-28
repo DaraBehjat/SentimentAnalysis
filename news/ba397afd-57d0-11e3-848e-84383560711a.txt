@@ -1,0 +1,245 @@
+	 Leeds United boosted by new investment from David Haigh 
+
+     
+         
+ 
+								
+				
+				
+							 
+
+			    
+                               Leeds United managing director David Haigh has committed a seven-figure investment to the club.
+
+  
+               BBC Radio Leeds understands that the funds from Haigh s company, Sport Capital, will be used towards bolstering the squad in January.
+
+  
+               He joined the club s board in December last year before 
+    
+GFH Capital s takeover of the Elland Road side.  
+
+
+  
+               Leeds, who face Blackburn Rovers on Saturday, are currently sixth in the Championship.
+
+  
+               Meanwhile, Haigh has also revealed that his company are to sponsor Leeds United Ladies for the next two seasons with the businessman becoming chairman.
+
+  
+    
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+
+
+	
+	 
+                                                              Leeds  2 - 1  Middlesbrough    
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 23 Nov 2013 
+		
+			 Championship 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Radebe confirms move for Leeds stake
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 20 Nov 2013 
+		
+			 Leeds 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Leeds owner rejects takeover bid
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 16 Nov 2013 
+		
+			 Leeds 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        GFH completes takeover of Leeds
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 21 Dec 2012 
+		
+			 Leeds 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/football/25103010

@@ -1,0 +1,63 @@
+
+
+TOKYO  Nov 28 (Reuters) - An advisory panel set up by
+Japan's financial regulator will consider stripping oversight
+for setting Tibor, the yen benchmark interest rate, from the
+banking group now responsible for its administration, said
+people with knowledge of the potential supervisory overhaul. 
+The move would bring oversight of the Tokyo interbank
+offered rate closer into line with that of Libor, following
+sweeping reforms of the London benchmark triggered by
+revelations that major banks had manipulated it to profit from
+related trades or to misrepresent borrowing costs. Some in financial markets had raised questions as to whether
+Tibor had also been manipulated since the rates quoted in Tokyo
+for 3-month borrowing and those quoted for Libor diverged from
+2009 after a decade of moving in near lockstep. But an investigation by the Japan Bankers Association, which
+has oversight of Tibor, found no evidence that Tibor benchmarks
+had been manipulated. Japan's Financial Services Agency, the country's main
+financial watchdog, announced this week that it had convened a
+12-member advisory panel to study Tibor and other financial
+indicators. The panel, which is headed by Keio University
+economics professor Kazuhito Ikeo, will meet for the first time
+on Thursday and aims to complete its review by March. One of the proposals the advisory panel will study is
+whether to shift responsibility for oversight of Tibor from the
+Japan Bankers Association to the FSA, or another independent
+body, according to people with knowledge of the preparations. The Japanese Bankers Association, currently headed by
+Sumitomo Mitsui Banking Corp Chief Executive Takeshi Kunibe,
+said it welcomed the review. "We fully understand it is both meaningful and necessary to
+consider the regulatory framework for Tibor given international
+developments," the association said in a statement to Reuters. "We expect proposals for a regulatory plan that will secure
+the reliability and transparency of Tibor in the international
+context," the association said. The banking group conducted its own review of Tibor, a
+process it says was prompted by the Libor scandals and the need
+to shore up the credibility of Tibor. "We don't believe that there has been any problem in the
+administration of Tibor," the group said. The banking association said in July it would consider
+setting up a new organisation within its ranks to administer
+Tibor along with an independent committee and outside auditors
+to examine governance of the rate-setting mechanism. Those steps stopped short of the overhaul of Libor, where
+2012 legislation in Britain gave UK regulators direct oversight
+of the interest rate benchmark and established criminal
+penalties for attempting to manipulate the market. "Japan has been slow in moving to strengthen regulatory
+oversight," said Hideto Takata, a former yen money market trader
+at Deutsche Securities in Tokyo and a critic of the way Tibor
+rates have been set. Takata, who left the financial industry in March 2008,
+published a book in February claiming Tibor has been vulnerable
+to distortions for years, especially rate "fixing" by Japan's
+largest banks. The Japanese Bankers Association has been publishing Tibor
+yen interest rate benchmarks since 1995. The rates set by the
+Tibor panel are used as the basis for loan and derivative
+contracts like the more widely used Libor rate. Under the current process, Tibor yen rates are set by a
+panel of 15 reference banks. They submit rates to the
+association at 11 a.m. each trading day. The association then
+strips out the top two and bottom two rates and averages the
+remainder in order to produce that day's reference rate. Banks on the reference panel are required to submit what
+they estimate as the interest rate for trading between "prime
+banks," not to report their own borrowing costs. The bankers association last month proposed dropping half of
+the Tibor tenors currently quoted to focus on the more liquid
+markets for yen borrowing, or those from 1 week to 3 months and
+for 1 year. Japan's FSA has regulatory oversight over the settlement
+network for interbank payments and the dispute resolution system
+established as an alternative to lawsuits between financial
+institutions. 
+
+FILED UNDER:   

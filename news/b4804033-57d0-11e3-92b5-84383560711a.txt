@@ -1,0 +1,240 @@
+	 Nine million in  serious  debt across the UK 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25120480-26727');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25120480"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Ann Jones now uses a food bank after borrowing £2,000 to buy the basics 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Your Debts 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Payday lenders:  We are not sharks 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 How to borrow from a credit union 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Where the savvy traveller is going 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Payday loans 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       Nearly nine million people across the UK are living with serious debt problems, according to a new report. 
+         The Money Advice Service (MAS) also said very few people were making any attempt to get professional help. 
+         The problem is particularly acute in five English cities, where more than 40% of the population is struggling to repay debt. 
+         According to the survey , 18% of Britons, 8.8 million people, consider they have  serious  financial issues.  
+         MAS, which is backed by the government, said that for the first time, the survey had provided a detailed understanding of the lives of those who are in debt. 
+         The report found that 74% of those struggling with debt were  unhappy . 
+         There is particular concern that very few people ask for help. 
+         Millions of people could escape their spiral of debt by accessing free advice,  said Caroline Rookes, the chief executive of MAS. 
+   
+	 Continue reading the main story 		  % of population struggling with debt 
+		 
+	 
+   
+
+   
+
+	 
+	 
+      Hull 43.1% 
+      Nottingham 41.2% 
+      Manchester 41.1% 
+      Knowsley 40.7% 
+      Liverpool 40.6% 
+   
+	 
+	        We know it transforms lives and the sooner people access it, the better - to take steps to improve their life for good,  she said. 
+   'Nerve-wracking' 
+	       The study lists the top five cities where people are  over-indebted . 
+         To qualify as such, people had to feel that their debt amounted to a  heavy burden , or else they had to have missed out on repayments in three of the last six months. 
+         The most heavily indebted area was Hull, where 43.1% of the population admitted they were in trouble financially. 
+         The four other places were also in England: Nottingham, Manchester, Knowsley and Liverpool. All five areas had at least 40% of the population in heavy debt. 
+         You d be surprised at how many are struggling,  said Ann Jones, a grandmother from Hull. 
+         The BBC spoke to her at a food bank on the North Hull estate. 
+         She took out a bank loan of £2,000, but had difficulty paying it back. 
+         Everything got so expensive, and before you knew where you were, you just didn t have enough at the end of the month,  she explained. 
+         It s nerve-racking. It s made me really ill,  she added. 
+         Latest figures from the Bank of England suggest that personal borrowing, including mortgages and unsecured loans, is now at £1.43 trillion. 
+         That is the same level of borrowing that was reached during the pre-crisis peak in September 2008. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25108891#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

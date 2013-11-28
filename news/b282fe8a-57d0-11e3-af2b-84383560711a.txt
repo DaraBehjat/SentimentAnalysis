@@ -1,0 +1,245 @@
+	 Royal Mail reports jump in profits 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25120482-24972');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25120482"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Vince Cable:  There were very high risks attached to changing the valuation 
+		 
+    
+		
+
+
+
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Ofcom: Royal Mail missing targets 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Bankers grilled on Royal Mail sale 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Peston: Was it sold too cheaply?  
+
+		 
+
+
+														 
+	 
+                       Royal Mail has seen half-year profits rise, driven by higher revenue from its parcel business, in its first results since its partial privatisation. 
+         Pre-tax profits were £233m for the six months to 29 September, up from £94m a year earlier, excluding special items. 
+         But Royal Mail said a one-off windfall resulting from a pension reform boosted overall pre-tax profits to £1.58bn. 
+         On Wednesday, Business Secretary Vince Cable, appearing before MPs, denied that shares had been sold too cheaply. 
+         After the 60% Royal Mail stake was sold on the London Stock Exchange, the shares soared from their initial 330p value, leading to accusations the company had been underpriced.  
+         But at the hearing with the Business, Innovation and Skills Committee, Mr Cable said there were very high risks attached to changing the valuation at the last minute. 
+         We did go, in the final analysis, to the top end of the range, but if we d sought to re-open that whole issue, there would have been very considerable risks and a very large downside,  he told the panel. 
+         Royal Mail shares closed up 6% on the day at 565p, as investors welcomed its latest set of results. 
+   Volumes stall 
+	 Continue reading the main story 
+
+ 
+		
+		
+	 
+		
+
+
+	
+		 
+			 
+				 
+					 Royal Mail  
+				 
+				
+			 
+
+			 Last Updated at 27 Nov 2013, 11:30 ET  
+		
+			 
+				 *Chart shows local time 
+			 
+		
+			 
+
+			 
+				 
+					 
+					 
+					 
+				  
+				 
+					 
+						 price 
+						 change 
+						 % 
+					 
+				 
+            	 
+					 
+						 
+						565.00
+						p 
+						 				
+							 + 
+							 +32.00 					
+						 
+						 		
+							 + 
+							 +6.00 
+						 
+					 
+					
+					
+				 
+			  
+		 
+	
+	
+			
+
+
+	 
+
+	
+
+
+
+
+
+       In its statement , Royal Mail reported that its revenues had grown by 2% on a like-for-like basis to £4.52bn.  
+         It also said parcels now accounted for 51% of its revenue.  
+         But the volume of sales in the parcel business stalled in the summer amid good weather, and Royal Mail has admitted some business was lost to its competitors over the prospect of a strike. 
+         Business from letters continued to decline. 
+         Our first half financial performance was in line with our expectations of delivering low single digit revenue growth and margin expansion,  said Royal Mail chief executive Moya Greene. 
+         Richard Hunter, Head of Equities at Hargreaves Lansdown Stockbrokers said:  The combined UK Parcels and GLS [General Logistics Systems] divisions now account for just over half of group revenue which provides both opportunities as well as potentially inviting more entrants into a fiercely competitive space. 
+         He added that Royal Mail s efforts to reduce costs were helping the company move in the right direction. 
+         Last week, the regulator, Ofcom, told Royal Mail it must improve  important aspects  of its service. 
+         It said Royal Mail had missed key performance targets in the 2012-13 financial year and warned that it could be fined if it missed targets in the future.  
+         Subsequently, Royal Mail said it was ahead of its targets for delivering first and second-class letters on time in the first half of the current financial year. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25106394#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

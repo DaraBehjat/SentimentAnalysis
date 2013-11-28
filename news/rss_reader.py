@@ -69,6 +69,7 @@ def open_link_cnn(url):
 			t += text 
 		# when to stop parsing and return	 
 		if "OB_div" in line: 
+			t += str(url)
 			return t
 
 
@@ -85,10 +86,27 @@ def open_link_bbc(url):
 			t += text 
 		# when to stop parsing and return	 
 		if "Related hypers" in line: 
+			t += str(url)
 			return t 
 
 
-def open_link_reuters(t, i):
+def open_link_reuters(url):
+	t = "" 
+	article = urllib.urlopen(url)
+	start = False 
+	for line in article: 
+		# when to start parsing 
+		if "midArticle_start" in line:
+			start = True 
+		if start: 
+			text = strip_tags(line)
+			t += text 
+		# when to stop parsing and return	 
+		if "FILED UNDER" in line: 
+			t += str(url)
+			return t 
+
+def open_link_nytimes(t, i):
 	url = t[i]
 	print url
 	t = "" 
@@ -104,6 +122,7 @@ def open_link_reuters(t, i):
 			t += text 
 		# when to stop parsing and return	 
 		if "FILED UNDER" in line: 
+			t += str(url)
 			return t 
 
 class RSSfeed(object):
@@ -127,7 +146,7 @@ def get_info(links):
 			name = str(uuid.uuid1()) + '.txt'
 
 			# change the open_link_ function to specific news source
-			example = open_link_bbc(url)
+			example = open_link_reuters(url)
 
 			article = open(name, 'w')
 			article.write(example)
@@ -155,6 +174,7 @@ if __name__ == '__main__':
 	bbc = "feed://feeds.bbci.co.uk/news/business/rss.xml"
 	reuters = "http://feeds.reuters.com/reuters/companyNews"
 	forbes = "http://www.forbes.com/business/index.xml"
+	nytimes = "feed://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
 
 	python_rss_url = reuters
 
@@ -164,14 +184,15 @@ if __name__ == '__main__':
 
 	links = create_link_list(entries_feed)
 
+	# print links
 
 	# print_article(links, 2)
 	# print_article(links, 5)
 
 	# print open_link_reuters(links, 2)
-	print open_link_reuters(links, 5)
+	# print open_link_reuters(links, 6)
 
-	# get_info(links)
+	get_info(links)
 
 
 

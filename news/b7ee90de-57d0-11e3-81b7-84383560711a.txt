@@ -1,0 +1,152 @@
+	 Sony files patent for  SmartWig 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Sony says the SmartWig will be both intelligent and fashionable 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Nike and the battle for your wrist 
+
+		 
+
+
+											
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Motion sensors adapt to your desires  Watch 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Wearable tech business revolution 
+
+		 
+
+
+								 
+	 
+                       Sony has filed a patent application for  SmartWig , as firms jostle for the lead in the wearable technology sector. 
+         It says the SmartWig can be worn  in addition to natural hair , and will be able to process data and communicate wirelessly with other external devices. 
+         According to the filing, the SmartWig can help navigate roads and collect information such as blood pressure. 
+         Google and Samsung are among the firms that have launched products in wearable technology - seen as a key growth area. 
+         Wearable gadgets are definitely going to be one of the big areas of growth over the next two years,  Andrew Milroy, an analyst with consulting firm Frost   Sullivan, told the BBC. 
+         And Sony - which is trying to regain some of the sheen it has lost in recent years - clearly understands that and wants to play a major role in the sector.   
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+        			
+        
+            
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25125163"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+    		
+
+
+
+
+	       The  Japanese firm said  the wig could be made from horse hair, human hair, wool, feathers, yak hair, buffalo hair or any kind of synthetic material.  
+         At the same time, the communication interface and sensors placed in the wig are at least partly covered by parts of the wig in order to be hidden from sight during use. 
+         It said that as a result, the device has the potential to become  very popular  as it could be used as a  technically intelligent item and fashion item at the same time . 
+   
+	 Continue reading the main story 	 Start Quote 
+The usage of a wig has several advantages that, compared to known wearable computing devices, include a significantly increased user comfort 
+End Quote 
+	 Sony patent filing 
+	
+
+		        The usage of a wig has several advantages that, compared to known wearable computing devices, include a significantly increased user comfort and an improved handling of the wearable computing device. 
+   Potential uses 
+	       Sony listed various potential uses of the SmartWig in its filing, including helping blind people navigate roads. 
+         It said that a small video camera or a sensor on the wig could help to provide the position and the location of the wearer. 
+         A remote user can then use the images provided and send vibration commands through the network and navigate the wig user manually to a desired destination.  
+         Although navigation systems based on vibration motors have been widely introduced, a navigation system integrated into a wig... is so far not known,  the firm said.  
+         A further potential improvement of the wig may use ultrasound waves to detect objects around a user. 
+   
+   
+
+     Sony said the SmartWig will be compatible with other devices such as glasses and smartphones 
+   
+       Sony said the gaming industry or  any type of virtual reality appliance  could also be an  interesting field  of use for the device, though it did not provide any details. 
+         It could also have uses in the healthcare sector, as a combination of sensors can help collect information such as temperature, pulse and blood pressure of the wearer. 
+         The system can detect these kinds of data naturally and transmit them to the server computer,  it said. 
+         The device can also be used during presentations where a wearer can  move to the next presentation slide or back to the preceding presentation slide by simply raising his/her eyebrows . 
+         A Sony spokesperson told the BBC that the firm had not decided on any plans for commercial production of the SmartWig yet. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/technology-25099262#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
