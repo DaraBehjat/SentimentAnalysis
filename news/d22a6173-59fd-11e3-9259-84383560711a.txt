@@ -1,0 +1,329 @@
+	 Energy bills: Ministers not seeking  price pledge 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Both government and opposition parties are trying to find ways to curb fuel bills 
+   
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Cost of energy 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Osborne s energy bill  giveaway   
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Is the energy market a big fix? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Energy switching in just one day? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Are UK bills too high? 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       The government has denied reports it is seeking a commitment from energy firms to hold their prices down until 2015.  
+         The companies told BBC News ministers had asked them to keep bills on hold so long as there is no significant move in global wholesale energy prices. 
+         Government sources deny this, and say they are focusing instead on boosting competition and reducing green levies to cut annual bills by about £50. 
+         Labour, which wants prices frozen, said government policy was a  shambles . 
+   'Utterly misleading'  
+	       On Thursday, energy industry sources, including one of the  big six  energy suppliers, said they were being asked by the government to make a commitment not to raise prices - on the basis of government policies - until the middle of 2015. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25150590-24684');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25150590"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 David Cameron:  We are dealing with real policies to make a real difference 
+		 
+    
+		
+
+
+
+
+       Downing Street has said the story was  utterly misleading  and people should wait for next week s Autumn Statement by Chancellor George Osborne, who would spell out the government s plans. 
+         Mr Osborne is looking at measures that could reduce annual bills by around £50 by relaxing the companies  environmental commitments and moving the costs of some green schemes from energy bills to general taxation. 
+         Government sources have confirmed that they have been engaged in what they describe as an  information-gathering  exercise with the energy sector to find out what impact reducing green obligations would have on bills. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25153235-24685');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25153235"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Ed Miliband says David Cameron has been  pleading with energy companies to get him off the hook 
+		 
+    
+		
+
+
+
+
+       But they insisted they were not pleading, or negotiating, with the big six companies to hold bills down in the run-up to the 2015 general election, saying this was  not part of the package  on the table.  
+         David Cameron, who is at a summit in Lithuania, said the government was sticking to its original plan on energy prices. 
+         The prime minister said:  I want to help households and families by getting sustainably low prices, and the only way you do that is to increase competition and roll back some of the levies on people s bills.  
+         I ve said that s what we re going to do and that is what we re going to do. 
+         Labour, which has promised to freeze energy prices for 20 months if it is elected in 2015, said the government s policy was totally  confused .  
+   
+	 Continue reading the main story 		 Cheaper energy bills 
+		 
+	 
+   
+
+   
+
+	 
+	       Advice from the Energy Saving Trust: 
+   
+      Insulate your hot water cylinder. Could save up to £60 a year 
+      Get an eco-shower head.  Some water companies are giving them away free; could  save up to £75 a year 
+      Swap halogen spot lights with new LED bulbs. Replacing all traditional bulbs with energy-saving versions can save £60 a year 
+          Make more energy savings 
+         Switch and save on your energy bills 
+  
+	 
+	        Party leader Ed Miliband accused Mr Cameron of being a  weak and flailing prime minister . 
+   More competitive 
+	       What we now know is that while David Cameron has in public been opposing an energy price freeze, in private he has been pleading with the energy companies to get him off the hook,  he said. 
+         Labour is publishing its own plans to make the market more competitive by separating companies  retail and generation operations and giving a new regulator much greater enforcement powers.  
+         The government has dismissed Labour s price freeze pledge as a  con  because governments cannot control the international price of gas. 
+         As well as green and social obligations, the government is also looking at the cost of transmitting energy to homes. This makes up 23% of an annual dual-fuel bill. 
+         According to the industry regulator Ofgem, electricity distribution costs will add £15 to an average bill over the next year, but flatten out thereafter.  
+         Industry sources say the government wants that cost spread over a longer period.  
+   
+   
+
+   
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/uk-politics-25152060#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

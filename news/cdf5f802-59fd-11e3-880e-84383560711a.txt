@@ -1,0 +1,266 @@
+	 Black Friday flurry for UK retailers in discounting push 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Some Asda customers had queued from 5am  
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What is Black Friday anyway? 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Chaotic scenes at Black Friday sales 
+
+		 
+
+
+											
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Bargain hunting on Black Friday   Watch 
+
+		 
+
+
+											 
+	 
+                       A flurry of promotions tied to Black Friday have caused a frenzy for some UK retailers, with a fight breaking out in one Asda shop apparently over discounted televisions.  
+         Asda, owned by the US consumer giant Wal-Mart, said it sold 10,000 televisions in one hour of trading. 
+         John Lewis also reported a spike in sales, especially online.  
+         US shops traditionally offer big discounts  on the Friday after the US Thanksgiving holiday. 
+         Andrew Moore, Asda s chief merchandising officer said that the reaction to the promotion had been  phenomenal . 
+         Other best sellers for the company were tablets, with 11,000 sold in one hour.  
+         The rush to secure the best deal, however, led to one women ending up in hospital. The ambulance service confirmed that it was called to an incident at a west Belfast shopping centre, where a fight had  broken out at an Asda branch .  
+         The woman was taken to hospital with a suspected broken wrist after a scene that was described by one onlooker as  bedlam .  
+         Several hundred people had queued outside the shop from 5am for the promotion which started three hours later.   
+         There were also reports of scuffles inside the Asda Superstore at Cribbs Causeway near Bristol, leading to the arrest of a 35 year old man.  
+         Another shopper in Birkenhead spoke of  absolute chaos  as people pushed and jostled to get to the discounted goods.  
+         Asda said that the safety of its customers was of  vital importance , and that it had put in place full security teams and  extra colleagues to help assist customers in the aisles . 
+   'Huge event' 
+	       Other, UK-owned companies have also tried to emulate what is the busiest shopping day of the year in the US.  
+         John Lewis offered 50% off some electrical items, and 25% off a selection of televisions amongst other promotions.  
+         Ed Connolly, buying director for John Lewis electricals said that  customers respond well to this day in the UK .  
+         Mr Connolly added that online traffic from midnight to 8am was 323% higher than a  normal Friday  in November.  
+         He said:  From 7am to 8am, we saw a 1,340% spike in mobile traffic. It s clear that Black Friday has stretched across the pond and is no longer just an American phenomenon. 
+         Online retail giant Amazon has also been discounting some of its goods on its UK site.  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25156917-41590');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+       However, it is not just the larger chains and department stores that are adopting the opportunity for Black Friday promotions.  
+         Maternity brand Isabella Oliver began its Black Friday promotions in the early hours of Friday morning.  
+         The company said that it had seen a 1,200% increase in online traffic by 7am. 
+   Stretching budgets 
+	       Retail consultant Caroline Wilde told the BBC that there was a  growing awareness  of the day in the UK, although it was likely to be  an online phenomenon .  
+         It s very early days for Black Friday,  she said, adding that trends do filter through from the US to the UK consumer.  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25153346-41591');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25153346"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 In previous years Black Friday has resulted in injuries and deaths in the US 
+		 
+    
+		
+
+
+
+
+       We ve had an American style Halloween in the UK now for over a decade .  
+         Lou Ellerton, a senior consultant at The Value Engineers, said the day would be especially welcome  in this current economic climate, as families are looking for anything that will make their cash go further . 
+         She said many UK consumers were delaying big purchases in the run up to Christmas to take advantage of these sales promotions.  
+   Large crowds 
+	       For the first time this year some US shops opened on Thursday, Thanksgiving itself.  
+         The chief executive of department store chain Macy s said that by 8pm on Thursday there were 15,000 people waiting outside its flagship US shop in New York.  
+         It has been controversial for shops to open on Thanksgiving, with some workers  organisations complaining employees would be denied the opportunity to spend the Thanksgiving holiday with their families.  
+   
+   
+
+     John Lewis in Oxford Street jumps on the Black Friday bandwagon 
+   
+       As shopping on Friday got well underway, many US companies were reporting large crowds.  
+         Toys R Us chief merchandising operator Richard Barry said that there were healthy crowds outside its stores.  
+         It was very steady overall, good crowds, lots of families shopping together,  he said.  
+         The National Retail Federation in the US said that it expected retail sales to be up 4% for the last two months of 2013 on the year before, and analysts expect more big discounting from retailers to lure consumers through shop doors.  
+         Another promotion-driven day on 2 December, dubbed Cyber Monday, will see many discounted goods offered online, as companies attempt to boost pre-Christmas revenues further.  
+         Last year, Amazon said that it sold 41 items a second on Cyber Monday.  
+         In the US, the research firm Comscore said consumers spent $1.5bn (£0.9bn) on Cyber Monday, up 20% from 2011. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25154497#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

@@ -1,0 +1,233 @@
+	 Ed Miliband: Government s energy plan  smoke and mirrors 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Ed Miliband says the Autumn Statement will be judged on the impact it has on people s standard of living 
+   
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Cost of energy 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Osborne s energy bill  giveaway   
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Is the energy market a big fix? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Energy switching in just one day? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Are UK bills too high? 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       Labour leader Ed Miliband is to accuse ministers of using  smoke and mirrors  over its plan to cut the cost of energy bills by an average of £50 a year. 
+         Chancellor George Osborne has said he will spread the cost of insulating homes and that government will take on some of the burden faced by customers. 
+         But Mr Miliband will insist in a speech on Monday that a  cosy deal  with firms will not keep bills down. 
+         The government will outline its plans in full in Thursday s Autumn Statement. 
+         Rising energy bills have become a major political issue in recent months, as the main political parties look to offer policies to reduce the squeeze on people s standard of living in the run-up to the next general election. 
+   'Crisis' 
+	       The chancellor told the BBC on Sunday that £50 could be saved on bills by measures including spreading the cost of insulating homes over a longer period and the state paying some improvement costs with money raised from tax avoiders. 
+         Labour says it will freeze gas and electricity bills for 20 months if it wins the next general election, but the Conservatives and Liberal Democrats argue this is unrealistic because of the varying and unpredictable international costs of gas and other fuels. 
+         In a speech on Monday, Mr Miliband will tell staff at the VW National Training Centre in Milton Keynes:  A lot of people think that David Cameron and George Osborne are trying to catch up with One Nation Labour on the cost-of-living crisis: from payday lending to energy bills. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25174929-164915');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25174929"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 George Osborne:  We re not pretending that we can freeze the world gas price 
+		 
+    
+		
+
+
+
+
+       But the truth is they are struggling to catch up with the British people who live at the sharp end of an economy where the link between the wealth of our nation and family finances has been broken. That is the cost-of-living crisis that is happening in our country today. 
+         That is how this government and any government will be judged. And it is how the Autumn Statement will be judged. 
+         The Labour leader will argue that  the costs of essentials  such as gas, electricity and train fares are  higher than can be justified . 
+         He will add that the Autumn Statement should feature  not smoke and mirrors on electricity and gas bills or cosy deals with the Big Six (energy suppliers) that mean bills still rise this winter, but a real price freeze and action to reset the market to stop them overcharging again in the future . 
+         But Mr Osborne told BBC One s Andrew Marr Show his plans would  help families... We ve been in discussions with the energy companies. 
+         He added:  There s going to be an average of £50 off people s bills... We are absolutely insistent that this is going to be brought in. 
+         Mr Osborne said the change would be part-funded by cracking down on tax avoidance. That would reduce annual bills by approximately £12, the BBC understands. 
+         Asked whether the energy firms would pass cost savings on to customers, Mr Osborne said:  I don t want to pre-empt what they are going to say in the next few days, but I m clear that it s going to happen. 
+         He attacked Labour leader Ed Miliband s promise of a price freeze as a  con , adding that the coalition had the  right approach  to cutting bills 
+         In response, E.On - the only one of the big six energy companies in the UK that has not yet announced an increase in its tariffs this autumn - said it would wait for a formal statement from the government before commenting,  but we are pleased that steps seem to be being taken that will ultimately benefit our customers . 
+         EDF welcomed the plans and indicated it was not now likely to hike prices again before 2015. 
+         Centrica said:  We will pass on any cost reduction in full to customers as a result of any of these changes. 
+         And SSE added that it too was  committed to passing on any savings resulting from changes to government policy directly back to customers . 
+   
+   
+
+   
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/uk-politics-25178726#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

@@ -1,0 +1,167 @@
+	 Africa s first start-up bus hits the road 
+
+     
+         
+ 
+    
+    
+					            	    		 			 
+														 By Salome van Zyl 
+				 Johannesburg 
+			 
+		
+         
+   
+
+     Of the 30 entrepreneurs on the bus, 15 were from Africa and 15 were from the rest of the world 
+   
+                       Imagine a bus, jam-packed with uber-geeks from different countries, taking on a four-day brainstorming marathon across Southern Africa. 
+         Well, imagine no more because it has just become a reality. 
+   
+	 Continue reading the main story 		 
+	 
+   
+
+   
+
+	 
+	
+	 
+		 
+			 Special Report: The Technology of Business 
+			 Solving a game of hospital Tetris 
+			 How do game companies share massive files? 
+			 Why IT failures are unlikely to go away 
+			 How big data is changing insurance 
+			 Hello, is that really you?  
+			 The adverts that talk back 
+		 
+	        Founded by Elias Bizannes in 2010, StartupBus is a voluntarily run programme by entrepreneurs for entrepreneurs who are devoted to problem-solving around the world through technology.  
+         StartupBus has completed several journeys throughout Europe and the US since 2010, and now for the first time it has touched African soil, completing 1,500 miles from Zimbabwe to South Africa. 
+         I m very excited about StartupBus Africa because the growth potential of Africa is enormous and we have had a huge interest,  says Fabian-Carlos Guhl, co-conductor of StartupBus. 
+         More than 200 people applied and from them only 30 entrepreneurs were chosen - the ones with the most proven track record - along with 10 mentors. 
+   'In Africa, for Africa' 
+	       The organisers believe an initiative like StartupBus can really flourish in Africa - a continent that is in the midst of a technological revolution. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25095999-8102');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25095999"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 StartupBus co-conductor Chris Pruijsen explains why the bus is oiling the wheels of creativity 
+		 
+    
+		
+
+
+
+
+       While most business opportunities for satisfying basic needs have been exhausted in Europe, Africa is still thirsty for solutions to all kinds of problems, such as access to healthcare, education and electricity. 
+         And, according to StartupBus co-conductor Chris Pruijsen, mobile technology is where most of the answers lie. 
+         We can do a lot more here with mobile technology than we could in Europe. In Europe people just don t use their mobile phones in the same way as here.   
+         He adds that it is not about the West coming to solve Africa s problems, but about  the innovation that we do together - Africans and people from the West, in Africa and for the African continent . 
+   'Tangible demo' 
+	       StartupBus Africa 2013 began its journey in Harare and stopped over in Johannesburg and Bloemfontein, before finishing up in Cape Town.  
+         In each of these cities local industry experts were invited to take part in the activity, creating a tech hub where thoughts and ideas could be exchanged in order to add local flavour to the experience.  
+   
+   
+
+     The bus covered 1,500 miles across Southern Africa, starting in Zimbabwe and finishing in South Africa 
+   
+       On day one, competitors - or  buspreneurs  - had to pitch themselves to the rest of the group by making their individual experience and expertise known.  
+         The bus was comprised of designers, developers and business experts. Once they had mingled and found skill overlaps, they formed teams of four or five members.  
+   
+	 Continue reading the main story 	 Start Quote 
+They bring back what they learnt on the bus in order to improve the lives of their people and become change makers 
+End Quote 
+	 Fabian-Carlos Guhl 
+	 StartupBus co-conductor 
+
+		        Over four days on the bus, each team had to identify and solve an existing, local problem by using technology - coding and collaborating as they travelled from one city to the next. 
+         We need a tangible demo at the end - a product that is actually marketable, testable and potentially even investor ready,  says co-conductor Chris Pruijsen. 
+   A lasting difference? 
+	       One of this year s competitors, Benedikt Wahler, and his team created an app called Greenback.  
+         As Mr Wahler explains it, every time you donate money, view an advert on the app or make a purchase at participating sponsors,  you generate Greenbacks - points that will turn into energy hours for African families . 
+         By doing the little things you do everyday - like shopping, booking a flight or using public transport - you can make a difference, he says. 
+   
+   
+
+     Buspreneurs  work as they travel and have to make use of what little workspace is available 
+   
+       Another start-up called Bribed created an app that pinpoints and aggregates the accepted amount to be paid for bribes within a certain area in order to avoid people being ripped off by officials.  
+         At the end of the road trip, each team had to pitch their start-up idea to a panel of judges and investors, but there was no prize nor was there any guarantee that their start-ups would gain funding or investor interest. 
+         So will the apps being created actually make a lasting difference? 
+         Mr Pruijsen insists that the important thing about StartupBus is not the longevity of the apps being created, but that  everyone is in it to make a really good product and for the experience of building . 
+         Mr Guhl adds that the real difference is what entrepreneurs take back to their communities once they get off the bus. 
+         They go back into the local communities in more than 15 countries and they bring back what they learnt on the bus in order to improve the lives of their people and become change makers. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25139586#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

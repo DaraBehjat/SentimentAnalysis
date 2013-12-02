@@ -1,0 +1,19 @@
+
+
+Nov 29 (Reuters) - The following U.S.- and Canada-listed companies reported earnings on Friday. This list shows whether the
+company beat, met or missed Wall Street analysts' forecasts. It also shows the difference between analysts' expectations and
+reported results. The figures are provided by Thomson Reuters I/B/E/S.
+    
+ Company Name              Ticker      Qtr  Industry                  Curr  EPS Est  EPS Act Diff EPS  Rev Est  Rev Act Diff Rev
+ CHARM COMMUNICATIONS INC              Q3   COMMUNICATIONS             USD     0.09     0.01    -0.08     57.9     40.7    -17.3
+ IONA ENERGY INC                       Q3   OIL                        CAD     0.03     0.03     0.00     41.0     18.8    -22.2
+ LONESTAR WEST INC                     Q1   OIL                        CAD     0.04     0.00    -0.04      9.0      8.3     -0.7
+ MACRO ENTERPRISES INC                 Q3   OIL                        CAD     0.21     0.30     0.09     47.5     60.1     12.6
+ TIO NETWORKS CORP                     Q4   SOFTWARE  &  EDP SERVICES    CAD     0.00    -0.01    -0.01      9.9      9.9     -0.1
+ VICTORIA GOLD CORP                    Q2   PRECIOUS METALS            CAD     0.01     0.00    -0.01       --       --       --
+ 
+ (Bangalore Newsroom +91 80 4135 5800; within U.S. +1 646 223 8780) 
+
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/L7P4XSdBZ6k/story01.htm

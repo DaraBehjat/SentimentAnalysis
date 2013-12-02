@@ -1,0 +1,102 @@
+
+
+
+By  Roberta Rampton  and  Sharon Begley WASHINGTON  Nov 30 (Reuters) - A crucial weekend for the
+troubled website that is the backbone of President Barack
+Obama's healthcare overhaul appears to be off to a shaky start,
+as the U.S. government took the HealthCare.gov site offline for
+an unusually long maintenance period into Saturday morning. Just hours before the Obama administration's self-imposed
+deadline to get the insurance shopping website working for the
+"vast majority" of its users by Saturday, the Centers for
+Medicare and Medicaid Services (CMS) announced that it was
+taking down the website for an 11-hour period that would end at
+8 a.m. EST (1300 GMT) on Saturday. It was unclear whether the extended shutdown of the website
+- about seven hours longer than on typical day - represented a
+major setback to the Obama administration's high-stakes scramble
+to fix the portal that it hopes eventually will enroll about 7
+million uninsured and under-insured Americans under the Patient
+Protection and Affordable Care Act, also known as Obamacare. At the very least, the shutdown suggested that nine weeks
+after the website's disastrous launch on Oct. 1 prevented most
+applicants from enrolling in coverage and ignited one of the
+biggest crises of Obama's administration, U.S. officials are
+nervous over whether Americans will see enough progress in the
+website to be satisfied. For the administration and its Democratic allies, the stakes
+are enormous. The healthcare overhaul is Obama's signature domestic
+achievement, a program designed to extend coverage to millions
+of Americans and reduce healthcare costs. To work, the program
+must enroll millions of young, healthy consumers whose
+participation in the new insurance exchanges is key to keeping
+costs in check. After weeks of round-the-clock upgrades of software and
+hardware, Obama officials said they were poised to successfully
+double its capacity by this weekend, to be able to handle 50,000
+insurance shoppers at one time. But if the website does not work for the "vast majority" of
+visitors this weekend as the administration has promised,
+uninsured Americans from 36 states could face problems getting
+coverage by an initial Dec. 23 deadline. It also could create ripples that extend to the 2014
+elections when control of the U.S. House of Representatives (now
+controlled by Republicans) and the Senate (now led by Democrats)
+will be up for grabs. Obama's fellow Democrats who are up for re-election in
+Congress already have shown signs of distancing themselves from
+the president and his healthcare program. If the website does
+not show significant improvement soon, some Democrats -
+particularly the dozen U.S. senators who are from states led by
+conservative Republicans and who are up for re-election next
+year - might call for extending Obamacare's final March 31
+enrollment deadline for 2014. That would delay the fines that are mandated by the law for
+those who do not have insurance by that date, a scenario that
+insurers say would destabilize the market. It also would fuel
+Republicans' arguments that Obamacare, and its website, are
+fatally flawed and should be scrapped. In broader political terms, the website's immediate success
+has become vital to Obama's credibility, which polls indicate
+has been tarnished by the site's problems as well as Obama's
+admission that he overreached in promising that everyone who
+liked their healthcare plan would be able to keep it under the
+new law. Obama has been forced to apologize for oversimplying how the
+law would affect certain Americans, and has acknowledged being
+embarrassed and frustrated by the website's failures. Recent
+polls have shown that Obama's approval ratings are at the lowest
+point of his presidency. "It is a lot harder to reboot public trust than it is to
+reboot software," said David Brailer, chief executive of the
+Health Evolution Partners private equity firm and a former
+health official in George W. Bush's administration. "But the good thing about when you're down is that usually,
+you got nowhere to go but up," Obama said in an interview that
+aired on Friday on ABC. IS IT FIXED? HARD TO TELL Several technology specialists told Reuters that it will be
+difficult to independently assess on Saturday whether the
+HealthCare.gov site has met the administration's goals of
+functioning for most users most of the time, including handling
+50,000 users at once. "There won't be anything you can tell from the outside,"
+said Jonathan Wu, an information technology expert and
+co-founder of the consumer financial website ValuePenguin. When the site opened for enrollment on Oct. 1, many users
+found that they could not complete the simple task of creating
+an account. Now, the website is functioning better but any
+remaining problems lie much deeper within the site, Wu said in
+an interview. Eleventh-hour checks were not encouraging, said Matthew
+Hancock, an independent expert in software design who said he
+could tell within hours of the site's launch that its problems
+were the results of poor system design and bugs, rather than the
+heavy traffic that the administration blamed initially. "I have tested the site every several days trying to buy a
+health insurance plan, but haven't been able to," Hancock said. "I think the issues the site faces now are more complex to
+diagnose from the front end, whereas before the site was
+immediately failing and returning error details," he said. Questions also remain about the website's ability to direct
+payments to private insurance companies when consumers enroll in
+their plans. Portions of the system handling those functions are
+still being built, officials say. "The real tests are: Were my premium payment and subsidy
+accurately calculated? Am I getting the coverage I signed up
+for? If my income situation changes, will the reconciliation
+occur in a timely fashion?" said Rick Howard, a research
+director at technology consultant Gartner. A DATE AND A NUMBER Heading into this weekend, administration officials tasked
+with rescuing Obamacare showed signs of confidence that the
+series of fixes by tech specialists would work. The officials gave a "virtual tour" of what they had branded
+the "tech surge" to a group of White House reporters. The White House also invited a group of IT specialists to
+tour the website's "command center," where an engineer on unpaid
+leave from Google Inc directs disparate contractors and
+monitors their progress. It was a convincing show that the team had the crisis under
+control, said John Engates, chief technology officer at
+Rackspace, a web hosting firm in San Antonio, who participated. Engates, who had been publicly critical of the launch, said
+he felt it was likely the website would be able to handle 50,000
+concurrent users on Saturday, although he did not know for sure. "Whenever you have a date and a number, you need to be
+pretty sure that you can hit that date and that number," Engates
+told Reuters. "It's just another loss of confidence if you don't make it." 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/7_MUnPBEgxQ/story01.htm

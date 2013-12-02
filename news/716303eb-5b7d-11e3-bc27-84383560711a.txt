@@ -1,0 +1,37 @@
+
+
+
+Dec 2 (Reuters) - Akamai Technologies Inc said it
+will spend about $370 million to acquire Prolexic Technologies
+Inc, a pioneer in fighting distributed denial of service
+attacks, cyberthreats that cripple networks by overwhelming them
+with Internet traffic. The move will bolster Akamai's security offerings, which
+already include some services for protecting websites against
+the distributed denial of service (DDoS) attacks. DDoS attacks are among the most common types of Internet
+threats. Criminals use them in extortion attempts, hacker
+activists launch them to make political statements and
+governments use them in military operations. High-profile DDoS attacks in recent years include a campaign
+launched last year against U.S. banks that has been linked to
+Iran along with ongoing assaults organized by Anonymous, a
+loosely knit collective of hacker activists. Akamai said the deal is expected to reduce its adjusted
+profit by 6-8 cents per share in the first full year after
+closing. Analysts on average expect Akamai to earn $2.16 per
+share in 2014, according to Thomson Reuters I/B/E/S. Akamai CEO Tom Leighton said on a conference call that he
+expects the deal will boost profits over the long term. "As we integrate the companies, we are very confident that
+we can grow and scale the business to drive significant profit
+growth over the longer term as the business and market
+opportunity grows," he said. Prolexic, founded in 2003, says its customers include 10 of
+the world's biggest banks along with energy firms, gaming sites,
+government agencies, healthcare companies and retailers. Its biggest competitors include telecommunications firms,
+such as AT  Inc and Verizon Communications Inc.
+Prolexic's investors include Camden Partners, Trident Capital
+and Intel Capital. Akamai's core business is speeding delivery of web content
+for firms including Apple Inc, Facebook Inc,
+Netflix Inc, News Corp and Nintendo Co
+ through more than 141,000 servers located around the
+globe. Over the past few years it has added security products in
+a bid to expand offerings to existing clients and boost revenue. Akamai said it expects the acquisition to close in the first
+half of 2014. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/luuaVIa70Qc/story01.htm

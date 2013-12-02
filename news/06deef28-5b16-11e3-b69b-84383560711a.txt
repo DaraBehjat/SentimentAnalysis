@@ -1,0 +1,138 @@
+         
+
+         
+
+
+         
+             Energy 
+         
+         | 
+     
+        12/01/2013 @ 1:22AM
+             | 4,867 views
+     
+		 British Thermal Unit: The Bitcoin For Electricity? 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                    5 comments, 4 called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+ 
+Two weeks ago, I had an opportunity to hear Jim Rogers, the Chairman of  Duke Energy   Duke Energy , speak about the future of electric utilities at a conference in Quincy, MA.  
+Rogers said that the two principal forces affecting change in the electric utility industry are: flat demand growth and rising prices.  
+While I have enormous respect for Mr. Rogers, I disagreed with his diagnosis.  
+“In the northeast, we have explosive demand growth and falling prices,” I said to Rogers during the Q A that followed his talk. “The issue is that both of these phenomena are occurring on the natural gas side of the investor-owned utility industry rather than the electric side.”  
+With a few exceptions, investor-owned utilities in the northeast own both natural gas and electric service companies. For various reasons, the vast majority of those utilities have business models built on the sale of electrons rather than British Thermal Units.  
+In New York and New England, the price of electricity is a function of the cost of natural gas plus the cost of the poles and wires that carry electrons from remotely-sited power plants to end users. It is not unusual for customers to spend two dollars on poles and wires for every dollar they spend on electrons.  
+The poles and wires that once reduced the price of electricity for end users are now doing the opposite. To make matters worse, electricity supplied through the power grid is frequently less reliable than electricity generated onsite. In other words, rather than adding value in the form of enhanced reliability, the poles and wires diminish the reliability of electricity.  
+Today, the cost of generating electrons currently accounts for less than half of the price of electricity, according to the  Edison   Edison  Electric Institute. The price consumers pay for electricity has increased as a result of the rising cost of poles and wires, which account for more than half of the typical residential customer’s monthly electric bill.  
+In  The Future of the Electric Grid , the Massachusetts Institute for Technology explained the long-term implications of this phenomenon:  
+
+  On the customer side, when the average delivered price of electricity is higher than the incremental cost of providing that energy, there is an incentive for ‘disintermediation’—reducing purchases of power from the regulated utility. 
+ 
+
+  This situation with respect to wholesale generation costs led many large industrial and commercial customers in states with high regulated rates in the 1990s to press for restructuring and retail competition so they could shift their purchases to lower-cost wholesale providers or self-generate. The coming decades could see a similar phenomenon among smaller commercial and residential customers. 
+ 
+Rogers was among the first utility executives to recognize this risk, which he refers to as “disintermediation.”  
+The concept of “disintermediation” emerged originally in the financial industry to describe new payment forms that bypassed market incumbents.  
+Credit card companies disintermediated banks from the value stream of payments.  Mobile  payment systems like Square are now threatening to bypass credit card networks.  
+In last year’s  annual report ,  Visa   Visa  lists “disintermediation from the payments value chain” as a material risk for its future business, stating that:  
+
+  Our position in the payments value chain is key to our business. Some of our competitors, including  American Express   American Express , Discover, private-label card networks and certain alternate payments systems . . . seek to derive competitive advantages from this business model. 
+ 
+Bitcoin is perhaps the most radical form of disintermediation to materialize to date. Rather than displacing specific incumbent institutions in the financial value stream, Bitcoin bypasses the entire multinational currency system.  
+Like Bitcoin, alternative systems for supplying customers with natural gas could bypass the power grid and the institutional juggernaut that supports it from the electricity value stream.  
+Natural gas poses a potentially existential bypass risk for electric utilities.  Distributed generation  is only the messenger.  
+“Consumers are realizing they don’t need the power industry at all,” said David Crane, the CEO of the independent power producer  NRG Energy , in an interview with  Bloomberg  TV.  
+Whether Crane’s prediction is right or wrong will depend on the wisdom or folly of decisions made by people like Jim Rogers about how to respond to the evolving cost structure of electricity and natural gas?  
+If they are foolish, they will focus their efforts on preventing disintermediation. If they are wise, they will their efforts on controlling the pace and mitigating the impact of disintermediation. 
+
+
+
+         
+         
+http://www.forbes.com/sites/williampentland/2013/12/01/british-thermal-unit-the-bitcoin-for-electricity/

@@ -1,0 +1,86 @@
+
+
+
+By  Roberta Rampton  and  Sharon Begley WASHINGTON  Nov 30 (Reuters) - Americans are getting their
+first look on Saturday at whether a five-week, round-the-clock
+technology overhaul has made it easier to use the troubled
+website that is the backbone of President Barack Obama's
+landmark healthcare overhaul. The White House had pledged that HealthCare.gov, which has
+been plagued by errors, outages, and slow speeds since its
+disastrous Oct. 1 launch - would be working for most people this
+weekend. Fixing the crisis, one of the biggest of Obama's presidency,
+has enormous political stakes for the administration and its
+Democratic allies who are heading into congressional elections
+next year. The administration said on Saturday that 90 percent of
+website users can now create an account on the system, which is
+meant to help millions of people sign up for new health
+insurance plans. But officials did not immediately provide information on
+whether a flurry of recent hardware and software upgrades has
+fixed other parts of the system to the point where a similar
+percentage of users could complete their enrollment. Officials have been careful to say that the overhauled site
+won't work for everyone and could still be overwhelmed by
+traffic at times. "There will be moments, most likely in the middle of the
+day, where demand will be greater than that capacity," Jeffrey
+Zients, the Obama confidante tasked with leading the rescue
+mission, told reporters earlier this week. His tech team created a new "queueing" feature that, in peak
+periods, will suggest a better time to return to the site. The
+administration has also directed users to visit it during
+off-peak hours in the morning, evening and weekend. The HealthCare.gov website is the main way for people in 36
+states to sign up for healthcare coverage under the 2010 Patient
+Protection and Affordable Care Act, also known as Obamacare. The Obama administration hopes eventually to enroll about 7
+million uninsured and under-insured Americans in 2014, with many
+of those consumers expected to qualify for subsidies. The healthcare overhaul is Obama's signature domestic
+achievement, a program designed to extend coverage and reduce
+healthcare costs. Opponents, including many Republicans, view it
+as a massive government intervention into private medicine that
+will inflate healthcare costs. To work, the program must enroll millions of young, healthy
+consumers whose participation in the new insurance exchanges is
+key to keeping costs in check. SUCCESS TOUGH TO MEASURE On Friday evening, ahead of the Obama administration's
+self-imposed Saturday deadline to get the insurance shopping
+website working for the "vast majority," the Centers for
+Medicare and Medicaid Services (CMS) announced it was taking
+down the website for an unusually long 11-hour maintenance
+period. The website's account creation and log-in functions appeared
+to work smoothly by 8 a.m. (1300 GMT) on Saturday, avoiding the
+crash and error messages seen at its launch. But technology
+specialists told Reuters that it would be difficult to
+independently assess whether the site has met the goal of
+functioning for most users most of the time, including handling
+50,000 users at once. "There won't be anything you can tell from the outside,"
+said Jonathan Wu, an information technology expert and
+co-founder of the consumer financial website ValuePenguin. Wu said HealthCare.gov is working better but any remaining
+problems lie much deeper within the site. Questions remain about the site's ability to direct payments
+to private insurance companies when consumers enroll in their
+plans. Portions of the system handling those functions are still
+being built, officials say. "The real tests are: Were my premium payment and subsidy
+accurately calculated? Am I getting the coverage I signed up
+for? If my income situation changes, will the reconciliation
+occur in a timely fashion?" said Rick Howard, a research
+director at technology consultant Gartner. Zients was set to brief reporters on the site's progress on
+Sunday. If the website does not work for the "vast majority" of
+visitors this weekend as the administration has promised,
+uninsured Americans could face problems getting coverage by an
+initial Dec. 23 deadline. It also could create ripples that extend to the 2014
+elections when control of the U.S. House of Representatives, now
+dominated by Republicans, and the Senate, where Democrats have a
+majority, will be up for grabs. Congressional Democrats facing re-election already have
+shown signs of distancing themselves from the president and his
+healthcare program. If the website does not show significant
+improvement soon, some Democrats - particularly the dozen U.S.
+senators from states led by conservative Republicans and who are
+up for re-election next year - might call for extending
+Obamacare's final March 31 enrollment deadline for 2014. That would delay the fines that are mandated by the law for
+those who do not have insurance by that date, a scenario that
+insurers say would destabilize the market. It also would fuel
+Republicans' arguments that Obamacare is fatally flawed and
+should be scrapped. HealthCare.gov's immediate success has also become vital to
+Obama's credibility, which polls indicate has been tarnished by
+the site's problems as well as his admission that he overreached
+in promising that everyone who liked their healthcare plan would
+be able to keep it under the new law. "It is a lot harder to reboot public trust than it is to
+reboot software," said David Brailer, chief executive of the
+Health Evolution Partners private equity firm and a health
+official in former President George W. Bush's administration. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/fRPoq7v11eg/story01.htm

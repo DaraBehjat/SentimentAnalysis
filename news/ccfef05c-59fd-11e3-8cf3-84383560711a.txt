@@ -1,0 +1,331 @@
+	 Energy bills: Green levy reform plan revealed 
+
+     
+         
+ 
+    
+    
+					            	            	    		 			 
+												 
+											 By James Landale 
+				 Deputy political editor 
+			 
+		
+         
+   
+
+     Energy prices continue to dominate debate at Westminster 
+   
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Cost of energy 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Osborne s energy bill  giveaway   
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Is the energy market a big fix? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Energy switching in just one day? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Are UK bills too high? 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       The BBC has learned the full details of how the government plans to roll back the largest so-called green levy in an attempt to cut energy bills.  
+         The details come in a letter - seen by the BBC - that was sent to energy firms by the government last night.  
+         It sets out how a scheme that forces energy companies to give free insulation to low income households will be reformed by law next year.  
+         The ECO scheme costs firms £1.3bn a year and adds about £50 to every bill.  
+         The document: 
+   
+      Reveals that the government plans to reduce the Energy Companies Obligation s (ECO) key energy efficiency target by 30% 
+      Confirms my report earlier this week that ECO will be extended for another two years until March 2017 
+          The document - marked in strictest confidence - is entitled  letter of comfort  which is Whitehall jargon for a statement of intent that is not legally binding. 
+         It says that ECO s Carbon Emissions Obligation Reduction target - known as CERO - will be reduced by 30%.  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25150590-56365');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25150590"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 David Cameron:  We are dealing with real policies to make a real difference 
+		 
+    
+		
+
+
+
+
+       This means that energy firms will not have to install so much expensive solid wall insulation in hard-to-treat homes.  
+         Instead, they will be given greater freedom to install cheaper cavity wall and loft insulation in easy-to-treat homes.  
+         The letter says that as a result only 100,000 solid wall insulations will have to be made over the next four years, about 25,000 per year.  
+         That amounts to a massive reduction - there were 80,000 solid wall insulation installations in 2012 alone. 
+         Building groups said this would severely damage the green energy industry and mean thousands of people will lose their jobs in coming weeks. It also means much less free insulation for fuel poor households, half of whom live in solid wall properties.  
+         Diluting the target also means that the government will be doing much less to reduce carbon emissions. If there is no action to compensate for this by cutting carbon elsewhere, this would amount to a huge concession by Liberal Democrats.  
+   
+	 Continue reading the main story 		 Energy Companies Obligation  
+		 
+	
+	 
+	 
+      Introduced in January 2013 
+      Aims to reduce energy consumption and support people in fuel poverty 
+      Funds improvements worth £1.3bn 
+      Provides subsidised insulation to families in  areas of low income  and for households on some benefits 
+   
+	 
+	        The letter says:  The government intends to make changes to the ECO order with a view to extending the period over which the obligation will run and reducing the expected cost of compliance. The government will consult on detailed proposals shortly and will subsequently look to introduce the necessary legislation as soon as possible. 
+         The changes include extending ECO beyond its current March 2015 deadline. The government s specific proposal in this respect is that a new binding target should be set for March 2017.   
+         It adds:  The Carbon Obligation (CERO) target of ECO to be met by 2015 will be reduced by 30% .  
+         A Number 10 source:  We do not comment on leaked documents. But the prime minister made clear today that he wants to help families by rolling back the levies on their energy bills and we will deliver on that. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25153235-56366');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25153235"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Ed Miliband says David Cameron has been  pleading with energy companies to get him off the hook 
+		 
+    
+		
+
+
+
+
+       Paul King, chief executive of the UK Green Building Council, said:  ECO is the lifeblood of the insulation industry and cuts to it will result in huge job losses and condemn hundreds of thousands of families to unaffordable energy bills, yet government appears to be in the pocket of some of the energy companies when it comes to deciding its fate. 
+         It comes as the government denied that it has asked for a commitment from energy firms not to raise prices until 2015. 
+         On Thursday, energy industry sources, including one of the  big six  energy suppliers told the BBC it had been asked to hold down prices so long as there was no significant move in global wholesale energy prices. 
+         However, Downing Street called the story  utterly misleading  and said people should wait for next week s Autumn Statement by Chancellor George Osborne, who would spell out the government s plans. 
+         Labour called the government s energy policy a  shambles . 
+   
+   
+
+   
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/uk-politics-25159260#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

@@ -108,13 +108,11 @@ def open_link_reuters(url):
 
 def open_link_nytimes(t, i):
 	url = t[i]
-	print url
 	t = "" 
 	article = urllib.urlopen(url)
 	start = False 
 	for line in article: 
 		# when to start parsing 
-		# TODO -- FIND REUTERS START POINT 
 		if "midArticle_start" in line:
 			start = True 
 		if start: 
@@ -124,6 +122,23 @@ def open_link_nytimes(t, i):
 		if "FILED UNDER" in line: 
 			t += str(url)
 			return t 
+
+def open_link_forbes(url):
+	t = "" 
+	article = urllib.urlopen(url)
+	start = False 
+	for line in article: 
+		# when to start parsing 
+		if "End User Block Article Head" in line:
+			start = True 
+		if start: 
+			text = strip_tags(line)
+			t += text 
+		# when to stop parsing and return	 
+		if "end div.body" in line: 
+			t += str(url)
+			return t 
+
 
 class RSSfeed(object):
 	"""Contains information about each article including date, source and 
@@ -144,10 +159,8 @@ def get_info(links):
 	for url in links:
 		if url not in article_d:
 			name = str(uuid.uuid1()) + '.txt'
-
 			# change the open_link_ function to specific news source
 			example = open_link_reuters(url)
-
 			article = open(name, 'w')
 			article.write(example)
 			article.close()
@@ -165,6 +178,14 @@ def print_article(t, i):
 	url = t[i]
 	print url
 	article = urllib.urlopen(url)
+	print type(article)
+	for line in article:
+		print line 
+
+def print_url(url):
+	print url
+	article = urllib.urlopen(url)
+	print type(article)
 	for line in article:
 		print line 
 
@@ -186,11 +207,13 @@ if __name__ == '__main__':
 
 	# print links
 
-	# print_article(links, 2)
+	# print_article(links, 0)
 	# print_article(links, 5)
 
-	# print open_link_reuters(links, 2)
-	# print open_link_reuters(links, 6)
+	# url = links[0]
+	# print open_link_forbes(url)
+	# url = links[0]
+	# print open_link_forbes(url)
 
 	get_info(links)
 

@@ -1,0 +1,413 @@
+	 Hearts: More cash from fans may be required, says administrator 
+
+     
+         
+ 
+								
+				
+				
+							 
+
+			    
+                               Hearts may ask fans for more funds if the club runs out of money before the end of the season, according to administrator Bryan Jackson. 
+
+  
+               
+A company voluntary arrangement was approved in principle  
+
+     at a meeting of some of the club s creditors on Friday.
+
+  
+               But Jackson needs to acquire the majority shareholding from UBIG, 
+    
+a process likely to take several months  
+
+    , and only has funds to last until March.
+
+  
+                There s nowhere else for me to go if we run into difficulties,  he said.
+
+  
+                We ll just have to take that as we go. The cash flow is fluent, it can change. 
+
+  
+     
+	 
+				 
+		    
+
+
+
+
+
+	 
+		 We do have funds, on the face of it, to get to the end of February into March 
+	 
+
+
+	 Administrator Bryan Jackson 
+        
+
+
+
+		 
+		
+		 
+			 
+
+                We ve had a couple of plusses because of the Cup games [against Hibernian and Celtic]. 
+
+  
+                Maybe we ll get another, plus with a bit of luck but you can also get minuses, depending on how things happen; it s very fluid.
+
+  
+                We do have funds, on the face of it, to get to the end of February into March. That s the timescale we initially worked to and we have to see what happens after that. 
+
+  
+               Supporters rallied to help the stricken Edinburgh club when they entered administration in June, season ticket sales exceeding the target set by administrators.
+
+  
+               And 
+    
+preferred bidder, fans  group Foundation of Hearts  
+
+    , offered creditors £2.5m towards debt of about £30m at Friday s summit.
+
+  
+               
+UBIG, who are in the process of being liquidated in Lithuania  
+
+    , abstained from the CVA vote.
+
+  
+     
+   
+
+   
+
+               And the investment firm are expected to hold a creditors meeting in January, after which it will become clear whether the majority shareholding in Hearts can be released to Jackson and FoH. 
+
+  
+                I ve got to convince them that the shares essentially have no value in terms of the club being in administration with a massive amount of debt,  explained Jackson.
+
+  
+                But, of course, we require them for technical purposes; the purposes of the CVA, but they ll have to be convinced that that s correct and they ll have to satisfy their own creditors.
+
+  
+                In some respects it s a big obstacle and it s a difficult one to predict because we re dealing with different legislation, a different country and different administrator, who has their own duties, their own obligations to their creditors and their court.
+
+  
+                If we don t get the deal done at all for the shares then, unfortunately, everything collapses. That s the reality of it.
+
+  
+                We just have to do everything we can at our end as quickly as we can and just hope that we get there as quickly as possible. 
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hearts CVA offer agreed in principle
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 29 Nov 2013 
+		
+			 Hearts 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+		
+
+
+    	
+
+	
+	 
+     Watch video                                                         Hearts finish line in sight - Murray
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 29 Nov 2013 
+		
+			 Scotland 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+		
+
+
+    	
+
+	
+	 
+     Watch video                                                         Spring before Hearts clear - Jackson
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 29 Nov 2013 
+		
+			 Scotland 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Delay for Hearts rescue hopes 
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 28 Nov 2013 
+		
+			 Hearts 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Liquidator for Hearts parent company
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 11 Nov 2013 
+		
+			 Hearts 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                         Progress  in Hearts sale process
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 22 Oct 2013 
+		
+			 Hearts 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hearts fans  group progress with bid
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 15 Aug 2013 
+		
+			 Hearts 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/football/25156354

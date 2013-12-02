@@ -1,0 +1,341 @@
+	 Fuel bill cuts will follow energy policy change 
+
+     
+         
+ 
+    
+    	
+	 
+    
+    
+		
+         
+   
+
+     Most energy providers have said they will pass on the savings generated 
+   
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Cost of energy 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Energy bill manoeuvres 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Osborne s energy bill  giveaway   
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Is the energy market a big fix? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Are UK bills too high? 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       Major energy firms have started to announce plans to pass on savings to customers following a new package of measures from the government. 
+         British Gas owner Centrica said it would cut bills by £53 in January, two months after a £123 price rise for the average dual-fuel customer. 
+         SSE also said it would pass on savings of around £50 and Npower plans a conditional price freeze until 2015. 
+         The moves come after the government said it would make changes to bills. 
+         Some subsidies for those in fuel poverty will be moved into general taxation and some green policy targets will be slowed down. It said this would cut energy bills by a total of £50 a year for the average household. 
+   
+	 Continue reading the main story 		 Analysis 
+		 
+	 
+		 Chris Mason 
+	 Political correspondent, BBC News 
+	 
+
+	 
+	       Energy bills are not going to rise by as much as they would have done, but they still cost a lot. 
+         Today s announcements from the energy companies come after a curious couple of months of political wrangling. 
+         Energy bills have proved to be the platform for a bigger tussle between the parties, over who can sound the most credible at a time when for many people prices are going up faster than wages.  
+         Labour s promise to freeze energy bills for 20 months if it wins the election has been derided by the coalition as a con, which says it won t work. 
+         But the advantage of it, right now, is it is easy to understand. 
+         This is the government attempting to fight back and illustrate its on the side of consumers. 
+  
+	 
+	        Homebuyers could instead be granted £1,000 to spend on energy-saving measures.  
+         However, overall prices are rising this winter for most energy customers, as the price rises outweigh any cuts that result from these government plans. The cuts will also come at different times, not necessarily at the depth of the winter. 
+   New plans 
+	       Major suppliers have been responding to the move, which comes shortly after announcements of inflation-busting winter price rises which angered many customers.  
+         Npower said it would not raise prices any more until spring 2015 unless wholesale costs went up. 
+         The company introduced a planned price rise of 10.4% over the weekend, but it said that would be reduced, once it has worked out how much changes to government policy would save it. 
+         SSE and British Gas said they would pass on the savings - the former by April, and the latter in January.  
+         Meanwhile, EDF has indicated it would not raise prices again before 2015. In November, it announced a 3.9% rise in bills to take effect in January. This was lower than many of its rivals in anticipation of a move by the government.   
+         E.On, which has not announced a price rise yet this winter, said that the government changes would mean prices would not be as high as they could have been. 
+         Scottish Power said it would pass on the cut in full, but added that other factors - such as wholesale costs could still put pressures on bills. 
+         The Energy Minister, Ed Davey, told the BBC the planned moves by the government would save households an average of £50 on fuel bills. 
+         But Labour leader Ed Miliband, in a speech on Monday, is to accuse ministers of using  smoke and mirrors  over its plan. He has pledged a 20-month price freeze if Labour wins the next election. 
+   Changes 
+	       Currently, the average dual fuel bill for households is £1,385.  
+   
+   
+
+   
+       Some of the saving will come in the form of a reduction in the Energy Companies Obligation (ECO), which requires energy companies to provide insulation or other energy-saving measures to 400,000 homes a year. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25185366-50643');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25185366"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Energy Secretary Ed Davey says the government s policy is a  real help for consumers 
+		 
+    
+		
+
+
+
+
+       In future, these measures will be paid for by a tax-funded programme of £500m, and will be granted via an average £1,000 stamp duty rebate for home buyers who need to improve energy efficiency at their new property.  
+         The total £50 cut in the average household bill is made up of: 
+   
+      A reduction of about £30 to £35 as a result of changes to ECO 
+      A rebate of £12 on electricity bills for customers in each of the next two years, owing to changes to the Warm Home Discount 
+      A one-off £5 cut in electricity bills by cutting network costs, which represent close to a quarter of a typical bill 
+          Richard Lloyd, executive director of consumer group Which?, said:  It is about time the government started getting the cost of energy under control and this will be a welcome step in the right direction for consumers who are struggling with the increased cost of living. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25188494-50644');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25188494"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Paul King from the Green Building Council says the bill reduction is a  really short-sighted move 
+		 
+    
+		
+
+
+
+
+       It is right to refocus the Energy Company Obligation so that it gives greater priority to those most in need of help, with lower-cost measures such as loft and cavity wall insulation. But in return for more time to get this right, the suppliers must now commit to greater transparency and to getting their costs down, fast. 
+         Meanwhile, the Environmental Audit Committee of MPs has accused the government of  shifting the goalposts  to reduce the number of households in England classed as in  fuel poverty . 
+  
+
+	 
+  	
+     
+	
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25181676#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

@@ -1,0 +1,300 @@
+	 High Street needs post-war scale rebuilding says report 
+
+     
+         
+ 
+    
+    	
+	 
+    
+    
+					            	            	    		 			 
+												 
+											 By Emma Simpson 
+				 Business correspondent, BBC News 
+			 
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25148438-22828');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25148438"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Alternative use must be made of empty commercial properties  
+		 
+    
+		
+
+
+
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Shop vacancy rate  stubbornly high 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Peter Day: Art of retail logistics 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Online retailers move into High Streets 
+
+		 
+
+
+																	 
+	 
+                       Rejuvenating town centres requires radical action on a scale not seen since the building programmes of post-war Britain, according to a new report.  
+         The Distressed Town Centre Property Taskforce says structural changes needed in retail are so fundamental, many towns and cities need reshaping. 
+         The taskforce was set up following Mary Portas s review of the High Street.  
+         The report  calls on the government to designate town and city centres as key national infrastructure. 
+   
+	 Continue reading the main story 	 Start Quote 
+There's still a need for vibrant retail, just less of it 
+End Quote 
+	 Mark Williams 
+	 Taskforce chairman 
+
+		        In its scale and range, it is an unprecedented group. For the past 13 months, senior retailers, property investors, landlords and bankers have been investigating the impact of the changes that have affected retail and property in England s towns and city centres.  
+         In other words, the folk who own and finance so much of our town centres have come up with their own solutions on what to do. 
+   Too many shops? 
+	       One of the main recommendations is that the government should designate town and city centres as key national infrastructure in order to open up new funding opportunities.   
+         The retail landscape has changed completely in the last five years, thanks to the recession and the shift to online shopping.   
+         It has left most towns with too many shops.  
+         The report found that in the past four decades, retail floor space in England increased by around 43 million square metres.  
+         That is the equivalent of building nearly 300 Bluewater Shopping centres across England, or seven of the new Westfield centres near the London Olympic site every year since the early 1970s.  
+         The chairman of the taskforce, Mark Williams, said:  There s still a need for vibrant retail, just less of it.   
+         Mr Williams, who is also a partner at the retail property firm, Hark Group, added:  Over the past 12 months, it has become increasingly clear that waiting for so called  normal  economic growth to return is unviable: Many more town centres will have embarked on a course of terminal decline. 
+   Scourge 
+	       Solutions, he says, will vary from place to place but for the overwhelming majority, a smaller retail core is necessary and alternative uses like housing and leisure need to be found.  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25149864-22829');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25149864"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Taskforce chair Mark Williams:  People do not shop in the same way 
+		 
+    
+		
+
+
+
+
+       But for local authorities, it hasn t been easy tackling the surplus of space and with it the scourge of empty properties.  
+         There are often a myriad of different landlords and competing interests to deal with, as well as getting funding.  
+         Friday s report spells out the problems along with recommendations for change.  
+         They include: 
+   
+      Government should designate town and city centres as infrastructure in order to open significant funding opportunities currently not accessible. A High Street Infrastructure platform should be set up to help to deliver this idea 
+      Bold and strategic land assembly is required. Government should pilot a joint venture vehicle and an associated High Street property fund to pool land assets and address fragmented ownership 
+      Make it easier for councils to use compulsory purchase powers in order to bring about the scale required for major urban regeneration 
+      Local authorities should take more risk in investing capital reserves now, which can be replenished as the economy recovers 
+      Significantly greater flexibility in the planning system is needed to enable quick and easy change of use from redundant retail premises to more economically productive uses 
+          Edward Cooke, the director of policy for the British Council of Shopping Centres, said:  All stakeholders have a role to play: Individuals, local councils, local and national businesses and central government.  
+         We believe these recommendations will deliver the direction and the funding necessary to make this happen. 
+   Demolish 
+	       The question is, who will be paying for all this potential change?  
+         The group says it is not asking the taxpayer to foot the entire bill. Often the problem is down to a gap in funding, which, if plugged, would make a development viable.  
+         The Taskforce believes post-financial crisis, the traditional funding models for town centre redevelopment are no longer fit for purpose.  
+         New ways of funding have to be found and that key bodies in the retail and property sectors are keen to play their part.   
+         The message from the retail property industry to the government is clear: they are prepared to demolish land and write off distressed buildings to regenerate town centres, if the public sector and government can make it easier rebuild. 
+         Mr Williams said:  There is a huge amount of private sector funds available to regenerate town centres. But it requires scale and planning. What it s not there is for piecemeal change, an ad hoc approach to fix the odd shop. 
+   
+	 Continue reading the main story 	 Start Quote 
+All stakeholders have a role to play: Individuals, local councils, local and national businesses and central government 
+End Quote 
+	 Edward Cooke 
+	 British Council of Shopping Centres 
+
+		        So we re looking about scale and critical mass. And in that sense the private sector will respond to local authorities and government initiatives.   
+   Bedfellows 
+	       The Taskforce says it is up to individual communities and local authorities to decide what is right for their area. But  future proofing  towns will require strong local leadership. 
+         The big commercial stakeholders in our towns and cities are not often comfortable bedfellows, but they have all signed up to this report. 
+         What is extremely pleasing is that a wide coalition of influential stakeholders has united behind agreed parking issues and develop local plans and good local vision,  said Tom Ironside, British Retail Consortium Director of Business and Regulation.  
+         The government, which encouraged the Taskforce to be set up, is now digesting the findings.  
+         The Housing Minister, Brandon Lewis, said:  It s a really interesting report with some really interesting things here which we need to look at. We are doing an awful lot for the High Street, we re empowering local communities to shape their town centres for what s right for their communities in the future. 
+  
+
+	 
+  	
+     
+	
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25147673#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

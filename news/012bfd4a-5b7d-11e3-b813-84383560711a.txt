@@ -1,0 +1,262 @@
+	 Charlton Athletic fans win bid to protect The Valley as ACV 
+
+     
+         
+ 
+								
+				
+				
+							 
+
+			    
+                               Charlton Athletic fans have succeeded in their attempt to have The Valley listed as an Asset of Community Value.
+
+  
+               The application by the Charlton Athletic Supporters  Trust was approved by Greenwich Council, and means the group must be notified if the ground is to be sold.
+
+  
+                An ACV recognises how important The Valley is to the local community,  CAS Trust chairman Barnie Razzell said.
+
+  
+                It is our hope that we will not ever have to use the legislation. 
+
+  
+     
+	 
+				 What is an Asset of Community Value (ACV) and how does a listing work? 
+				 
+		
+		 
+		     
+          A building, or other land, is an asset of community value if its main use is, or has recently been, to  further the social wellbeing or social interests of the local community  and it could do so in the future
+
+          The request must come from a voluntary or community body with a local connection and relate to land in the local authority s area, or in the neighbouring local authority s area
+
+          The listing lasts for five years and also includes should the stadium be put up for sale, a  right to bid , which can be lodged by the group concerned within a period of six weeks, with finance secured in a period of up to four-and-a-half months
+
+   
+
+		 
+			 
+
+               He added:  Fans will now have a right in law to participate in any discussion about the future of football at The Valley. 
+
+  
+               The ability to list buildings or land as an asset of community value was enabled by the Localism Act in 2011.
+
+  
+               Manchester United s Old Trafford, Liverpool s Anfield ground and Oxford United s 
+    
+Kassam Stadium  
+
+     are protected in the same way, while there are similar applications pending at Blackburn Rovers, Derby County and Leicester City.
+
+  
+               Charlton moved to The Valley in 1919 and it was their home until 1985 when, following financial struggles, the ground was closed after the 2-0 win over Stoke City on 21 September.
+
+  
+               The Addicks moved to Selhurst Park to groundshare with Crystal Palace, and The Valley fell into a state of disrepair.
+
+  
+               Charlton supporters formed a political party in order to campaign against Greenwich Council s decision in March 1989 to reject planning permission to rebuild the ground, and a revised scheme was accepted in April 1991.
+
+  
+               The Valley was not ready for the start of the 1991-92 season and Charlton moved to play their home games at West Ham United s Upton Park.
+
+  
+               However the Floyd Road stadium was eventually re-opened on 5 December 1992 when the Addicks beat Portsmouth 1-0, with Colin Walsh scoring the only goal of the game.
+
+  
+               During the 1990s and early 2000s the ground was expanded to its current capacity of more than 27,000 seats.
+
+  
+                The fans, the club and the council all agree on the importance of The Valley,  Razzell added.
+
+  
+                In football as in life, nothing is forever but this great news means that we, the fans, can be part of any discussion about the future of Charlton Athletic. 
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Owners fail with Kassam appeal
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 09 Oct 2013 
+		
+			 Oxford Utd 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Oxford United fans protect stadium
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 13 May 2013 
+		
+			 Oxford Utd 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Grounds for change over football stadiums
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Aug 2013 
+		
+			 Business 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/football/25156933

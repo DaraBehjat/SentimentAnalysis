@@ -1,0 +1,271 @@
+	 Apivita: Bees provide key ingredient for cosmetics firm 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25120484-8775');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25120484"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Niki Koutsiana describes how she was inspired to create her bee products company Apivita with her husband Nikos 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+				
+		 
+		
+	
+						 Start-up Stories 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Rose Gong, Jiayuan  Watch 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Weili Dai, Marvell 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Judy Estrin, Evntlive 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Si Shen, PapayaMobile 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+						
+
+	       	      
+	
+                       Entrepreneurs often talk about the hard work, the brilliant idea or the lucky break that was the secret of their success - but rarely do they talk about love. 
+         But in the case of Greek pharmacists Nikos and Niki Koutsianas it was the love between them that led to the creation of their company Apivita. 
+         The company, which makes natural cosmetics using bee products and Greek herbs, was officially founded in 1979. 
+         But Niki says the story really began seven years earlier when she met her now husband for the first time.  
+         At just 19 years old, she went to Nikos s small pharmacy to do an internship as part of her first year at the University of Athens  pharmacy school. 
+         When you fall in love everything is magical,  says Niki.  I fell in love with Nikos. 
+         She says she even fell in love with the bees his family kept - and she spotted a business opportunity. 
+         She realised what we could do with the power of nature and plants and the power of bee products,  says Nikos. 
+   'Very, very, very difficult' 
+	 
+   
+
+     Nikos grew up with bee-keeping parents 
+   
+       The key ingredient for Nikos was propolis, a natural resin gathered by bees from the bark and leaf buds of trees, which they then use to protect and maintain their hives.  
+         He combined this with herbs to make natural products for skin and hair, but he never thought of the commercial possibilities. 
+         If it wasn t for Niki, my wife, I would have never gone ahead with creating a business and establishing the business because I was more into the philosophical part of what I was doing,  says Nikos, who was influenced by the Ancient Greek physician Hippocrates,  the father of Western medicine . 
+         It was Niki who came up with the idea for the firm s very first product to sell - a black antibacterial soap that combined propolis with thyme. 
+   
+	 Continue reading the main story 	 Start Quote 
+We share a common passion and common vision for what we want... this sparks the passion that we need to continue doing it 
+End Quote 
+	 Niki Koutsianas 
+	
+
+		        To get the business started, she acted as a door-to-door saleswoman, going from pharmacy to pharmacy with a wooden box of the soaps - a process she acknowledges was  very, very, very difficult . 
+         In the 1970s, Greek customers yearned for the perceived luxuriousness of foreign brands. And natural, holistic products were virtually unheard of.  Nobody spoke about natural products. It was something very different and unknown,  says Niki. 
+         But the couple persisted and the number of pharmacies willing to stock their products gradually increased. 
+         However, the real breakthrough for the business came when they decided to export their products. 
+   Taking the plunge 
+	       Previously they had only sold their products to other pharmacies. But with the move abroad, they also decided to open standalone shops for the brand. 
+         Starting with Spain, they slowly expanded, and now export their products to 14 countries. 
+   
+	 Continue reading the main story 		 
+	 
+   
+
+   
+
+	 
+	       Apivita 
+   
+      HQ: Athens, Greece 
+      Year founded: 1979 
+      Sales for the nine months to end of September 2013: 23.7m euros (£19.7m; $32.2m) 
+      Number of employees: 200 
+      Ownership: Private 
+   
+	 
+		 
+			 Read more: Start-up Stories 
+		 
+	        And they finally decided the firm was growing fast enough to require their full attention.  
+         So after a decade of running Apivita as a sideline alongside the pharmacy where they first met and later got married in, the couple took the plunge to focus on it full time. 
+         Initially, without sufficient funds to have their own factory, they had to rent space in other factories to make their products.  
+         But with their products now selling strongly in their home country as well as abroad, they have built their own factory, a short distance outside Athens. And they have opened a large shop in the centre of Athens with its own spa and cafe. 
+         Perversely, they credit Greece s financial problems, which have seen it linger in recession for six years, for helping the popularity of their brand domestically, as Nikos says home-grown products are now in vogue.  
+   
+   
+
+     Nikos and Niki Koutsianas say their love for one another led to the creation of their firm  
+   
+Knowing their roles 
+	       They both admit that working together as well as being married was  very challenging  at times. 
+         Crucially, though, they say they were always very clear over their individual roles in the business.  
+         Nikos s role is to take care of what he describes as  the roots  of the business, essentially its philosophy, and to help create the products, while Niki s role is branding and marketing. 
+         However, ultimately, they both believe that it was their intimacy that has also made the business work. 
+         We share a common passion and common vision for what we want,  says Niki.  This sparks the passion that we need to continue doing it. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25124048#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

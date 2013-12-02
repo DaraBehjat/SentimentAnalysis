@@ -1,0 +1,337 @@
+	 Hull owner Assem Allam: Critics  can die as soon as they want 
+
+     
+         
+ 
+								
+				
+				
+							 
+
+			    
+                               Hull owner Assem Allam has told fans  they can die as soon as they want  in response to protests about his plans to change the club s name.
+
+  
+               Allam, who 
+    
+took over  
+
+     in 2010, infuriated some supporters with his idea to rebrand the club Hull Tigers.
+
+  
+               The Hull fans have formed a campaign group called 
+    
+City Till We Die.  
+
+
+  
+               But Allam 
+    
+told the Independent:  
+
+      They can die as soon as they want, as long as they leave the club for the majority who just want to watch good football. 
+
+  
+     
+	 
+				 Hull history 
+				 
+		
+		 
+		               Formed in 1904, they first wore black and amber shirts for their maiden Football League campaign the following year. They moved to their KC Stadium home, which they share with Super League side Hull FC, in 2002, after 56 years at Boothferry Park
+
+  
+
+		 
+			 
+
+               The 74-year-old Egypt-born businessman, who moved to Hull in 1968, first 
+    
+announced in August  
+
+     the company name had changed from Hull City AFC to Hull City Tigers, ending a part of the Yorkshire club s name which has been in effect since their formation in 1904. 
+
+  
+               Allam later stated a Tigers brand would be more marketable, and considered the word  City  to be  lousy  and  common . 
+
+  
+               A number of supporters protested during the game against Crystal Palace last week by unfurling a banner which read  We are Hull City .
+
+  
+               But the owner added:  How can they call themselves fans, these hooligans, this militant minority, when they disturb and distract the players while taking away the rights of others to watch the football, and of companies who have paid good money for advertising? 
+
+  
+               City Till We Die hit back at Allam s remarks.
+
+  
+                Thankfully, hooliganism at football in this country is now exceedingly rare,  the group said in a statement. 
+
+  
+                The intemperate suggestion that singing  City Till I Die  or holding a banner with Hull City s name on it constitutes disorder is ill-informed, unhelpful and will be considered by many to be offensive.
+
+  
+                We reiterate our advice to all City fans to continue their fine support for our fantastic team while positively expressing a preference for our current name. 
+
+  
+               When Hull were relegated from the Premier League in 2010 they were thought to be approximately £35m in debt but Allam insists he will walk away from the club immediately if the criticism of his proposals continues.
+
+  
+     
+		 Continue reading the main story 	
+
+
+
+
+	 
+		 You can't say what this guy says, it is just improper 
+	 
+
+
+	 Phil Brown 
+         Former Hull City manager 
+
+
+	 
+                I m a simple man,  added Allam.  Do they want me to stay? If it s,  No thank you , fine, in 24 hours the club is for sale, I do not put in one more pound and hopefully things happen quickly. 
+
+  
+               The owner has already 
+    
+offered to refund  
+
+     season ticket holders who are unhappy with the name changes.
+
+  
+               Phil Brown, who managed Hull in the Premier League during three years in charge at KC Stadium, told the BBC s Match of the Day Extra programme:  It s a strange atmosphere at the stadium.
+
+  
+                You expect excitement in the Premier League and there is not that in the air, just animosity.
+
+  
+                The owners do not understand the heritage in this country, they need to understand the needs of the fans. 
+
+  
+                You can t say what this guy says, it is just improper.
+
+  
+                Steve Bruce has to prepare for a Premier League game and now has to manage the guy above him. He knows in his heart of hearts Dr Allam has said the wrong thing.
+
+  
+                The supporters kept the club in the Premier League. Without them there was no chance of us surviving in that season. 
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hull offer refunds to unhappy fans
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 20 Nov 2013 
+		
+			 Hull 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hull chief dismisses fans  protests
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 12 Nov 2013 
+		
+			 Hull 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hull chief confirms name change plan
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 12 Nov 2013 
+		
+			 Hull 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Follow the Premier League with the BBC
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 16 Aug 2013 
+		
+			 Football 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/football/25174266

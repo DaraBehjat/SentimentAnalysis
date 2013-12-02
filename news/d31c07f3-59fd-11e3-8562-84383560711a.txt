@@ -1,0 +1,236 @@
+	 Hearts: Administration exit not possible until February 
+
+     
+         
+ 
+								
+									 
+																											 
+							                                                                                    														 
+																			 
+							 By Brian McLauchlin 
+							 BBC Scotland 
+						 
+					 
+				
+				
+							 
+
+			    
+                               Hearts will not be in a position to exit administration until February at the earliest.
+
+  
+               A creditors  meeting will go ahead at Tynecastle on Friday, with fans  group Foundation of Hearts offering £2.5m towards debts of around £30m. 
+
+  
+               But parent company UBIG s 50% holding cannot be sold or assigned until they have their creditors  meeting, which is scheduled for late January.
+
+  
+               Therefore, any agreement reached on Friday would be conditional.
+
+  
+               Earlier this month, administrator BDO sent out a proposal for a company voluntary arrangement [CVA] to take the Scottish Premiership club out of administration. 
+
+  
+               And the CVA requires the approval of creditors representing 75% of the club s debt.
+
+  
+               Ukio Bankas and UBIG are owed the vast majority of money and together own about 80% of the club s shares.
+
+  
+               A spokesman for FoH said:  The Foundation of Hearts believes the timescales mentioned are entirely consistent with the process of taking Hearts out of administration.
+
+  
+                Any agreement of a CVA is subject to all sorts of terms and conditions on all sides, and that is a time consuming process which cannot start until after the cooling off period (in the event of an approved CVA).  
+
+  
+               UBIG, which was controlled by former Hearts owner Vladimir Romanov, had its assets frozen in April after declaring insolvency and is now in the hands of liquidators.
+
+  
+               Hearts entered administration on 19 June and started this season in the Premiership with a 15-point deduction.
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hearts  CVA meeting is postponed
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 21 Nov 2013 
+		
+			 Hearts 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hearts signing ban to run until 2014
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 01 Aug 2013 
+		
+			 Hearts 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hearts full debt details revealed
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 31 Jul 2013 
+		
+			 Hearts 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/football/25144366
