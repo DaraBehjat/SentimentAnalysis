@@ -52,6 +52,7 @@ def company_index(index, companyList):
     company_d = {}
     for company in companyList:
         if company in data.items():
+            # TODO: figure out how to find specific filename of where company is mentioned
             filename = ''
             company_d[company].append(filename) 
 
