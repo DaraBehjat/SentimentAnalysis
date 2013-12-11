@@ -191,7 +191,6 @@ class Forbesfeed(RSSfeed):
                 return t 
 
 
-
 def main(self):
     links = self.create_link_list()
     self.get_info(links)
@@ -204,7 +203,11 @@ if __name__ == '__main__':
     reutersfeed = Reutersfeed()
     forbesfeed = Forbesfeed()
 
+    # main(cnnfeed)
+    # main(bbcfeed)
+    # main(reutersfeed)
     main(forbesfeed)
+
 
 
 
