@@ -1,0 +1,184 @@
+	 Fracking support from government climate change adviser 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     The chancellor announced new financial support for fracking last week 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 No case  to water down CO2 targets 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Anti-fracking protesters hold rally  
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Osborne outlines support for fracking 
+
+		 
+
+
+																										 
+	 
+                       Britain should push ahead with fracking, the chairman of the government s advisory body on climate change has said. 
+         Lord Deben said exploiting Britain s shale gas reserves would provide a secure source of energy for decades without wrecking the environment. 
+         Speaking to the Times , he dismissed environmental concerns raised by  people on the green end . 
+         Greenpeace says fracking is harmful and would fail to reduce energy bills. 
+   
+   
+
+     Lord Deben dismissed environmental concerns about fracking 
+   
+       Lord Deben - who as John Gummer was environment secretary under John Major - chairs the Committee on Climate Change, which was set up in 2008 to advise the government on emissions and analyse climate change science, economics and policy. 
+         It just isn t true that fracking is going to destroy the environment and the world is going to come to an end if you frack,  he said. 
+         And yet to listen to some people on the green end, that s what they say. 
+   Divine difficulty 
+	       The peer - a former environment secretary - said people  ought to be worried about the security of our energy supplies  and suggested it would be  much better  to have more UK-sourced gas. 
+         The carbon budgets have already assumed that we are going to use gas well on through the 2020s and into the 30s,  he added. 
+         But he said shale gas was unlikely to lead to reduced energy bills because  God has managed to put it in the places where it s going to be most difficult  to get planning permission to frack. 
+         Fracking - or hydraulic fracturing - is a process of drilling deep underground and injecting water, chemicals and sand into rock at high pressure to release shale gas. 
+         Chancellor George Osborne, giving his Autumn Statement last week, announced more financial support for companies extracting shale gas, with tax rates on early profits to be halved. 
+         The environmental effects of fracking, such as the  possible impact on water supplies , are disputed. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-23320540-133942');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","23320540"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 How fracking recovers natural gas from shale 
+		 
+    
+		
+
+
+
+
+       Fracking is widespread in the US, but in the UK exploratory drilling at sites including Balcombe in West Sussex and Barton Moss, Greater Manchester, have been hampered by protests. 
+         Campaign group Frack Off says the process could lead to  toxic and radioactive water contamination , air pollution and  devastating  effects on the countryside.  
+         Greenpeace says fracking is the  last thing we need  because it would provide more fossil fuel, contributing to climate change. 
+         It also says fracking would waste and possibly contaminate water supplies and harm the countryside. 
+         The costs of the process in Britain and the fact gas could be  sold to the highest bidder  - possibly overseas - would prevent it bringing down UK energy bills, Greenpeace says. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/uk-25327695#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
