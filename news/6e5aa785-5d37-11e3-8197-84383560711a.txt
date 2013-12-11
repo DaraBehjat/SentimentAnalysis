@@ -1,0 +1,262 @@
+	 UK government s infrastructure spending plan unveiled  
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25211724-7700');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25211724"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Danny Alexander:  Over many decades we have underinvested in our infrastructure 
+		 
+    
+		
+
+
+
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 CBI calls for infrastructure boost 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 UK  not planning for future needs 
+
+		 
+
+
+								 
+	 
+                       The government has unveiled its infrastructure spending plan for the next two decades, describing it as  a blueprint for Britain . 
+         The National Infrastructure Plan (NIP) includes the government selling off its 40% stake in the Eurostar rail service. 
+         About £375bn of investment in energy, transport, communications, and water projects is planned, although no new money will be forthcoming. 
+         The insurance industry also plans to spend £25bn over the next five years. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25214444-7701');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+       Speaking at the Institute of Civil Engineers in Westminster, Danny Alexander, Chief Secretary to the Treasury, said the plan was  a blueprint for Britain  that would lead to  long-term sustainable growth . 
+         Underground, overground, on shore, offshore, wired or wireless, tarmac or train track. You name it, we re building it right now,  he said. 
+         Earlier, he told the BBC that the UK had  underinvested... over several decades . 
+   
+	 Continue reading the main story 	 Start Quote 
+Scheme after scheme has been announced to great fanfare, but then little actually delivered 
+End Quote 
+	 Chris Leslie 
+	 Shadow chief secretary to the Treasury 
+
+		        He denied that there was a north-south divide in how spending was being allocated, saying:  There are projects going on in every part of the country. 
+         Last month, Eurostar posted a rise in revenues and passenger numbers compared with last summer, but Mr Alexander said no final decision had been made on the proposed sale. 
+         Previous infrastructure spending programmes have been criticised for slow progress, but he said that of the 646 projects outlined in this plan, 291 had already been started or completed. 
+         Katja Hall, chief policy director of the employers  organisation, the CBI, said:  With the majority of national infrastructure projects earmarked to be delivered by the private sector, the insurance industry s £25bn investment is good news. 
+   
+   
+
+     The current Wylfa nuclear power station is due to cease work next year 
+   
+       But Chris Leslie, shadow chief secretary to the Treasury, said:  With the country facing a cost-of-living crisis we need to invest in infrastructure to create jobs, boost living standards, and strengthen our economy for the long term.   
+   
+	 Continue reading the main story 		 National Investment Plan in brief 
+		 
+	
+	 
+	 
+      Further £50m for a redevelopment of the railway station at Gatwick Airport 
+      Government guarantee to support finance for the development of a new nuclear power station at Wylfa, North Wales 
+      Confirmation that a UK guarantee has now been agreed for the £1bn Northern Line extension to Battersea in London 
+      Funding for improvements to the A50 around Uttoxeter, in Staffordshire, to start no later than 2015-16 
+      Improvements to the A14 around the strategically important port of Felixstowe in Suffolk  
+      Target for the sale of corporate and financial assets will be doubled to £20bn between 2014 and 2020, including the government s shareholding in Eurostar 
+   
+	 
+	        The government s record on infrastructure had been one of  complete failure , he said. 
+         Jeremy Blackburn, UK head of policy for the Royal Institution of Chartered Surveyors (Rics), said the government should prioritise regional transport infrastructure investment. 
+         The better connected those areas are, the easier it is to move passengers, freight, goods and services,  he told the BBC. 
+         This would attract investment and help create jobs, he argued. 
+         Rics also called for more investment in commercial and residential property, and reiterated its support for the HS2 rail project. 
+   Insurance spending 
+	       Simultaneously to the NIP announcement, the insurance industry unveiled plans to invest £25bn in a range of infrastructure projects.  
+         The decision by insurers L G, Prudential, Aviva, Standard Life, Friends Life, and Scottish Widows to invest in infrastructure follows changes in European rules pushed for by the UK which incentivise investment in a wider range of assets. 
+         Prudential has already invested £40bn in UK infrastructure, including property.  
+   
+   
+
+     Felixstowe, the UK s largest container port, should benefit from the proposed improvements to the A14 trunk road in Suffolk 
+   
+       Group chief executive Tidjane Thiam said:  As a major long-term investor in the UK, Prudential is pleased to commit to harness our financial strength for the benefit of the UK economy. This initiative will help achieve sustainable economic growth. 
+         Legal   General, which has invested £3bn in the last two years on various infrastructure projects, including university accommodation, said it was keen to spend more on construction.  
+         Chief executive Nigel Wilson said:  We are very keen to help fund the creation of more housing - for sale, for private rent, and in the social sector - as having enough decent housing at sensible prices is crucial to the UK s recovery. ‬ 
+   'Political will' 
+	       In September, CBI director general John Cridland said the government s infrastructure policy was  faltering  amid fears that it lacked the  political will  to deliver. 
+         Critics have pointed to data showing infrastructure spending falling in recent times, not rising. 
+         Labour said that despite schemes being announced with great fanfare, little was being done. 
+         The Office for National Statistics says that infrastructure work is down 3.7% in the last year, and fell by 10% in 2012. Scheme after scheme has been announced to great fanfare but then little actually delivered,  said Mr Leslie. 
+   
+   
+
+   
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25201064#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

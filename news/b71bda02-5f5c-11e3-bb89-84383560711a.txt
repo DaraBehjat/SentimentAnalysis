@@ -1,0 +1,233 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/07/2013 @ 9:51AM
+             | 67 views
+     
+		 We're Not About To Run Out Of The Metals To Make Our Electronic Gizmos And Smartphones 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+There’s been an interesting little report prepared about the supplies of the various weird metals that drive the higher technology ends of the current global market. The sort of metals that I deal with (or at least have, for some of them) in fact. Rhenium for the nickel alloys in jet engines for example, tantalum for electronic capacitors and so on. You can read it  here . Two different articles about it are  here  and  here . Both use headlines with “irreplaceable” in them.  
+The Register:  
+
+  Gadget world’s metals irreplaceable, say boffins 
+ 
+Ars Technica:  
+
+  The metals in your smartphone may be irreplaceable 
+ 
+And that’s not quite what the report is actually saying. Or perhaps not quite what an economist would say the report should be saying would be more accurate. Here’s that report:  
+
+  It has long been a tenet of resource economics that if a material’s  price should increase due to scarcity or some other factor,  then the high price relative to historic norms will stimulate increased  exploration and thereby increased supply, as well as  encouraging the development by engineers and technologists of  a suitable substitute. 
+ 
+And the bulk of the paper is considering whether, for some metals and in some uses, such a suitable substitute can be found. But this concept of substituitability isn’t really the technological one that they’re using. To an economist everything is substituitable. OK, if we run out of Nd to make the little magnets that make your iPhone earbuds work we’ll just have to make slightly larger ones using Sm. Or if there’s none of that AlNiCo which will mean no earbuds at all but full headphones. That’s the sort of thing they’re saying here: but to the economist it all goes much further than that. Hiring a full marching band to accompany you on the subway, to serenade you with the Greatest Hits of Justin Beiber as you travel, that is also a substitute for running out of Nd. So the economist will insist that there is always a substitute, even if it’s one we won’t like very much.  
+Aside from that it’s a good report. Except for this part that seems to have been tagged on at the end:  
+
+  It thus appears that society will need to pay more attention to  the acquisition and maintenance of nonrenewable resources than  has been the case in the past. Growing populations, growing  affluence, and the materials diversity of modern technologies are  straining the resource capacities on which we draw. The situation  need not inspire panic, but should instead stimulate more diligent  and more comprehensive approaches to the balance between  supply and demand across the entire periodic table. 
+ 
+Well, no. Because even if we don’t have, in that technical sense, perfect substituitability before we start to worry about that we need to first work out whether it is even likely that we’ll, in any reasonable timescale, run out of any of these metals. And the answer there is that no, we won’t. We’re just not going to exhaust our mineral resources of gallium, germanium, rare earths, rhenium and so on in anything under millennia. And given this, and given that we really don’t know what technological limits are going to be thousands of years in the future, we simply should not be making any effort at all to worry about these things. We’ve not got shortages so why should we start acting like we have? 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+             
+             
+                    Metals Outlook: Gold Traders Likely To Position Ahead Of FOMC; Charts May Hint At Key Development
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Kitco News 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Gold   Silver To Hit New Highs: Rich Dad Poor Dad Author
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Kitco News 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Century Aluminum (CENX) Shares Cross Below 200 DMA
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Energy Stock Channel 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    These Charts Hold The Key To Gold And Silver's Next Move
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Jesse Colombo 
+	                     Contributor 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/timworstall/2013/12/07/were-not-about-to-run-out-of-the-metals-to-make-our-electronic-gizmos-and-smartphones/

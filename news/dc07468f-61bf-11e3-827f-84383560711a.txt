@@ -1,0 +1,226 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/10/2013 @ 11:44AM
+             | 85 views
+     
+		 Do Containers Mark The Death Knell For Virtualization? 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+A couple of months ago I wrote a  post  about vendors selling bare metal servers to customers. The post was pretty strongly worded, at the time I felt that we were seeing legacy vendors justify their position through “cloud washing”. I was concerned that bare metal servers didn’t really offer the advantages that cloud can bring – while cost savings are table stakes, agility, flexibility and scalability are all things that can’t be delivered by some mock cloud.  
+The main thrust of my blog post was a critique of vendors pushing the price metric as the most important thing in cloud. If cloud is entirely a cost saving move for your organization I’d suggest that you’re doing it wrong. As the world changes and agility becomes a non-negotiable requirement for enterprises, cloud’s ability to enable agility becomes all the more important. For this reason I’ve often said that even if a cloud solution is more expensive, it may well be the better option for a company.  
+In writing my post however I argued from the premise that cloud needs virtualization. Indeed my dogma about virtualization was analogous to vendors dogma about price being the key metric for customers.  Raj Dutt , a SVP at hosting provider  Internap  took exception to my assertions and said so in his  response  to my blog post. He detailed how bare metal can deliver all of the flexibility benefits of cloud, while doing so without the problems that virtualization can bring:  
+
+  I think it’s also worth pointing out the confusion and overlapping usage around “bare metal” terminology in the industry. A true bare-metal cloud delivers on the agility (and the shift in business models) that the cloud brings… We think bare-metal cloud has a lot of interesting implications, and we’re not alone. Before Voxel was bought by Internap, it was one of the first companies to make dedicated, bare-metal servers available over an API in 2009… We also understand the value of and offer a fully-virtualized cloud. There’s no doubt that the hypervisor gives you interesting options, and it’s a big enabler. We leave the choice with our customers as to whether they want their instances to be virtualized or not. 
+ 
+I spent some time recently talking with Dutt, and we spent much time looking at the return to prominence of the containerization concept. Containers have been in use for years, but have been re-popularized by the Docker open source project. Docker is an open-source project to create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run across different infrastructure classes – VMs, bare metal,  OpenStack  clusters, public clouds etc.  
+Just today Docker announced that  Baidu   Baidu , often called the “ Google   Google  of China” is utilizing Docker for its “Baidu Application Engine” developer platform. In discussing their reasons for making the move, Yifei Chen, tech leader of the team implementing the change at Baidu said that Docker enabled his developers to package, ship and run any application as lightweight containers in almost any Linux environment – bare metal, virtualized, public or private cloud – without delay or overhead  
+Anyway, back to Internap. Dutt pointed out the fact that  Facebook  and Google have built their vast infrastructure resources without using virtualization, but have found other ways of scaling and moving applications that don’t come with the performance and set-up costs that virtualization does – Dutt pointed out that spinning up a virtual machine can take several minutes compared to the near-instantaneous task of simply dropping a prepackaged container onto a server – all that is needed for Docker to work is a Linux environment.  
+One of the elephants in the room when it comes to virtualized clouds is the vendor-side drivers for pushing virtualization. Virtualization allows a cloud vendor to generate greater revenues that bare metal. A physical server can be sliced and diced and provided to multiple parties at the same time. A vendor, faced with the options of either selling a bare metal server for $500 or slicing it up 20 times and selling each slice for $20 is obviously drawn to the virtualized model – but the point here is that this doesn’t always deliver the best outcome for customers. With the rise of containerization and the ability to get the benefits of cloud without the performance and licensing issues of virtualization, are we going to see  time when virtualized cloud get disrupted?  
+We’re in both a macro paradigm shift and a micro one. The macro one takes us to a world where agility, flexibility, mobility and the cloud are the norms. From the micro perspective could we perhaps be looking at the disruptors being rapidly disrupted themselves? If the excitement around Docker is anything to go by, that could well happen. 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Docker And The Timely Pivot
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Ben Kepes 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Server Huggers And Henry T Ford's Faster Horse
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Ben Kepes 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    RedHat Announces OpenShift Enterprise 2 - And The PaaS Wars Get Ever-Murkier
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Ben Kepes 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Internap Delivers OpenStack Powered Hybrid Cloud
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Ben Kepes 
+	                     Contributor 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/benkepes/2013/12/10/do-containers-mark-the-death-knell-for-virtualization/

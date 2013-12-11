@@ -1,0 +1,201 @@
+	 Financial watchdog heavily criticises pension annuity deals 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     The annuities industry is accused of confusing customers 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Analysis: Old age pensions 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Savers  must keep track of pensions 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Pensioners  hit less hard by crisis 
+
+		 
+
+
+								 
+	 
+                       Some insurance companies and pension providers have been heavily criticised in a report on the sale of annuities to people when they retire. 
+         The Financial Services Consumer Panel - which works alongside the financial watchdog, the FCA - says firms confuse customers and charge high commissions. 
+         Retirees buy an annuity to provide an income from pension savings; some 400,000 are sold every year. 
+         Sales are expected to double over the next few years. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25316358-1457');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+       The report  from the Financial Services Consumer Panel (FSCP) said annuity deals have become more complicated and many retirees are entering into them without taking advice. 
+         Its research found some high quality service, but the report warned  the many examples of poor practice mean that the general outcome for consumers can be akin to a lottery. 
+         The FSCP recommends a study of the market to examine possible  exploitative  pricing of annuities sold by insurance companies to customers who have been saving with them for a pension. 
+         It also wants to look at hidden charges that make it difficult for consumers to make an informed decision. 
+         We urgently need to reform this market, particularly for those with smaller pension pots, who usually can t get independent advice,  said Sue Lewis, chair of the consumer panel.  
+   
+                         Have you bought a pension annuity? You can send us your thoughts and experiences using the form below.  
+  
+
+	
+	
+    
+       
+    
+     
+     
+     
+     
+       
+         (Required)   Name 
+         
+         
+       
+       
+         (Required)   Your E-mail address 
+         
+         
+       
+       
+         (Required)   Town   Country 
+         
+         
+       
+       
+         (Required)   Your telephone number 
+         
+         
+       
+     
+     
+       
+         (Required)    Comments 
+         
+         
+       
+     
+	     
+       If you are happy to be contacted by a BBC journalist please leave a telephone number that we can contact you on. In some cases a selection of your comments will be published, displaying your name as you provide it and location, unless you state otherwise. Your contact details will never be published. When sending us pictures, video or eyewitness accounts at no time should you endanger yourself or others, take any unnecessary risks or infringe any laws. Please ensure you have read the terms and conditions. 
+       Terms and conditions 
+       Send 
+       Clear 
+     
+   
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25312390#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

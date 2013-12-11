@@ -1,0 +1,31 @@
+
+
+BOSTON  Dec 4 (Reuters) - Security experts have uncovered a
+trove of some 2 million stolen passwords to websites including
+Facebook, Google, Twitter and Yahoo from Internet users across
+the globe. 
+Researchers with Trustwave's SpiderLabs said they discovered
+the credentials while investigating a server in the Netherlands
+that cyber criminals use to control a massive network of
+compromised computers known as the "Pony botnet." The company told Reuters on Wednesday that it has reported
+its findings to the largest of more than 90,000 websites and
+Internet service providers whose customers' credentials it had
+found on the server. The data includes more than 326,000 Facebook Inc 
+accounts, some 60,000 Google Inc accounts, more than
+59,000 Yahoo Inc accounts and nearly 22,000 Twitter Inc
+ accounts, according to SpiderLabs. Victims' were from
+the United States, Germany, Singapore and Thailand, among other
+countries. Representatives for Facebook and Twitter said the companies
+have reset the passwords of affected users. A Google spokeswoman
+declined comment. Yahoo representatives could not be reached. SpiderLabs said it has contacted authorities in the
+Netherlands and asked them to take down the Pony botnet server. An analysis posted on the SpiderLabs blog showed that the
+most-common password in the set was "123456," which was used in
+nearly 16,000 accounts. Other commonly used credentials included
+"password," "admin," "123" and "1." () Graham Cluley, an independent security expert, said it is
+extremely common for people to use such simple passwords and
+also re-use them on multiple accounts, even though they are
+extremely easy to crack. "People are using very dumb passwords. They are totally
+useless," he said. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/0ZjZC7mA03Y/story01.htm

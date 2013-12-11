@@ -1,0 +1,265 @@
+	 Nigeria move to avoid World Cup bonus row 
+
+     
+         
+ 
+								
+									 
+																									 
+							 By Oluwashina Okeleji 
+							 BBC Sport 
+						 
+					 
+				
+				
+							 
+
+			    
+                               Nigeria football officials are set to implement a code of conduct which they hope will prevent future rows with the national team over bonus payments.
+
+  
+               The move is designed to ensure there is no repeat of the dispute that almost caused the country to miss out on this year s Fifa Confederations Cup.
+
+  
+               
+Players threatened to strike over a 50% cut in their bonus  
+
+     for June s 2014 World Cup qualifiers in Kenya and Namibia.
+
+  
+               Sports minister Bolaji Abdullahi has forwarded a code of conduct, drafted by a committee at his ministry, for immediate implementation by the country s football federation.
+
+  
+                That s the right step to take [approach the football body] so that the Nigeria Football Federation can ratify and implement this before the World Cup,  Julius Ogunro, special assistant to the sports minister, told BBC Sport.
+
+  
+     
+		 Continue reading the main story 	
+
+
+
+
+	 
+		 This will hopefully bring an end to ugly incidents that often portray the country in a bad light during major tournament 
+	 
+
+
+	 Julius Ogunro, special assistant to the Nigerian Sports Minister 
+        
+
+
+	 
+                It [the code of conduct] was kept away to allow the team focus solely on securing a World Cup ticket.
+
+  
+                Now is the right time to get it done and the NFF as a parastatal of the sports ministry are well aware of its importance.
+
+  
+                We need to prevent a bonus row like the one which fuelled anger and almost embarrassed the country before the last Confederations Cup in Brazil. 
+
+  
+               Back in June, Nigeria s players had initially refused to to go to the Confederations Cup following their 1-1 draw in Namibia in a World Cup qualifier as they were unhappy with the bonus payments offered by the Nigeria Football Federation (NFF).
+
+  
+               The sports ministry intervened and made extra money available, eventually allowing the squad to travel to Brazil - two days late and only about 36 hours before Nigeria s opening game against Tahiti. 
+
+  
+               The five-part document spells out the obligations of the NFF, coaches and players called up to the national team. Non-compliance could lead to fines, suspensions or even expulsions.
+
+  
+               Pay rows have often surrounded Nigerian teams, with coaches not paid regularly, while players have resisted any attempts to review their win bonus during important qualifiers or at major tournaments.
+
+  
+               There have been several attempts to introduce a code but they have often been met by a stiff resistance from players in the past.
+
+  
+                This will hopefully bring an end to ugly incidents that often portray the country in a bad light during major tournament,  Ogunro said.
+
+  
+               The poor financial position of the NFF has already forced the country to cut their backroom staff and slashed the salaries and allowances of the various national team coaches, excluding coach Stephen Keshi.
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Nigeria code of conduct delayed
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Sep 2013 
+		
+			 African Football 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Nigeria FA firm on bonus payments
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 02 Aug 2013 
+		
+			 African Football 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Nigeria to investigate bonus row
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 08 Jul 2013 
+		
+			 African Football 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Nigeria settle bonus payment dispute
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 14 Jun 2013 
+		
+			 African Football 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/football/25204038

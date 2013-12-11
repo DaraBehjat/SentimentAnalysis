@@ -1,0 +1,270 @@
+	 Autumn Statement: George Osborne wants  balanced  recovery 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25255883-76179');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25255883"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Mr Osborne said that there was  no quick fix  and Britain must  stick to the plan 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+				
+		 
+		
+	
+						 Autumn Statement 2013 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 UK growth  hides disappointing news 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What it means for your finances 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 At-a-glance: Autumn Statement 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Analysis: Old age pensions 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+						
+
+	       	      
+	
+                       George Osborne has hit back at fears the UK s economic recovery is based solely on a boom in consumer spending. 
+         The chancellor said exports and investment were also picking up - but there was still work to be done to create a more  balanced  economy. 
+         He delivered an upbeat Autumn Statement on Thursday, claiming critics of his austerity plan had been proved wrong. 
+         But Labour accused him of complacency amid claims from a leading think tank that Britain is still in a  big hole . 
+         In its verdict on Mr Osborne s plan to get Britain back in the black by 2018,  the Institute for Fiscal Studies (IFS) said higher growth forecasts   hide some more disappointing news for the chancellor . 
+         And some of Mr Osborne s spending promises, such as free school meals, are unfunded after 2015, it added. 
+   Taken by surprise 
+	       IFS director Paul Johnson told the BBC:  We are still in a big hole. We are still borrowing a lot more than £100bn this year which is a lot more than the chancellor hoped back in 2010.  
+   
+	 Continue reading the main story 		 
+	 Start Quote 
+There is an issue about the sustainability and quality of this recovery - and that's without debating whether the OBR is being too hopeful in its view of how British export markets may recover, and how business may break their habits of recent years and start investing again 
+End Quote 
+
+
+			 
+		 
+	 Robert Peston 	 Business editor 
+	 
+
+	 
+	
+	 
+		 
+			 Read more from Robert 
+		 
+	        There is an awful lot of austerity still to come. 
+         The independent Office for Budget Responsibility - which produces forecasts for the government - has been taken by surprise by the speed at which the UK s recovery is growing after years of recession and stagnation. 
+         On Thursday, it said the economy would grow 1.4% this year - more than double the level expected at the time of the Budget in March - and 2.4% in 2014. 
+         It also revised down expectations for government borrowing by £73bn over the next five years. 
+         It noted that the higher-than-expected growth this year had been fuelled by consumer spending and rising house prices, rather than business investment and trade. 
+         But Mr Osborne said the OBR also expected  exports to pick up, investment to pick up, jobs to go on being created . 
+   
+	 Continue reading the main story 		 Download the documents 
+		 
+	 
+   
+
+   
+PDF download  Full Autumn Statement documents [2.33MB] 
+	 
+	       Most computers will open PDF documents automatically, but you may need Adobe Reader 
+  
+	 
+		 
+			 Download the reader here 
+		 
+	        Now we have absolutely got to work hard to deliver that,  he added, but warned against being too  gloomy  about Britain s prospects, adding that 400,000 new jobs had been created in the past year. 
+         He said he wanted to see more investment in the regions and manufacturing industry to build a more  balanced  economy. 
+         We want to see a responsible recovery,  he added,  We have to make sure that Britain earns its way in the world and not to repeat the mistakes of the past .  
+         The UK went through one of the deepest recessions in the world, said the chancellor, and as the economy improved  the prospects for families are probably going to improve as well .  
+   'Living standards' 
+	       He was speaking on a visit to a JCB factory in the Midlands that is creating 2,500 new jobs. 
+         Labour has rejected Mr Osborne s claims of success, pointing to figures suggesting that working people were an average £1,700 a year worse off since the 2010 election because of prices rising faster than wages. 
+         There has not been a Parliament in living memory where we have had a fall in living standards like this,  shadow chancellor Ed Balls said on Thursday.  
+         He branded Mr Osborne an  out-of-touch Chancellor  who was  in denial  about the state of the economy. 
+         Key points from the Autumn Statement included:  
+   
+      The date when the state pension age rises to 68 will be brought forward to the mid-2030s - it had not been due to kick in until 2046 - and the age could rise to 69 by the late 2040s 
+      An extra £1bn of cuts from the budgets of government departments for each of the next three years 
+      Car  tax discs to be scrapped  and replaced by electronic vehicle excise duty system 
+      Next year s  planned 2p-a-litre fuel tax rise scrapped 
+      Borrowing falls more than forecast and employment forecasts are revised up 
+      Pensioners living abroad  will have to prove they are alive more often  in a crackdown on fraud and error 
+      A  major crackdown on tax evasion  and avoidance aims to recoup £9bn over five years 
+      Employer National Insurance contributions for under-21s earning less than £42,285 scrapped from April 2015 
+      Tax breaks to encourage  fracking  for gas 
+   
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/uk-politics-25256147#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

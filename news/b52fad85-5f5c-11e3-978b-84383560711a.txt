@@ -1,0 +1,148 @@
+	 Bob Dylan s Fender Stratocaster sells for nearly $1m 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25273395-35415');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25273395"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Bob Dylan s Fender Stratocaster goes under the hammer 
+		 
+    
+		
+
+
+
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Bob Dylan: From electric to metal 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 France probes Dylan s Croat comments 
+
+		 
+
+
+								 
+	 
+                       The electric guitar played by Bob Dylan at the 1965 Newport Folk Festival has been sold at auction in New York for a record $965,000 (£591,000). 
+         The Fender Stratocaster had been in the possession of a New Jersey family for 48 years after he left it on a plane. 
+         The pilot s daughter had it authenticated on a television programme on US broadcaster PBS. 
+         The festival in Newport, Rhode Island, is often cited as the performance where Dylan  went electric . 
+         Dylan s move  changed the structure of folk music , Newport Folk Festival founder George Wein, 88, told the Associated Press news agency. 
+         The minute Dylan went electric, all these young people said,  Bobby s going electric. We re going electric, too. 
+         But at the time, the three-song set drew boos from the crowd, who had come expecting Dylan s traditional acoustic folk performance. 
+         Dawn Peterson said on the PBS programme History Detectives that her father, the private plane s pilot, asked Dylan s management firm what to do with the guitar but nobody ever got back to him.  
+         Experts matched the wood grain on the instrument with a close-up colour photo taken during Dylan s set at the festival. 
+         Recently, Dylan and Ms Peterson quietly settled a legal dispute over the instrument. Details of the settlement are not known. 
+         Auction house Christie s had estimated the guitar would sell for $300,000-$500,000. The buyer has not been identified. 
+         The previous record for a guitar sold at auction was a Fender owned by Eric Clapton, nicknamed  Blackie , which sold at Christie s for $959,500 in 2004. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/world-us-canada-25273104#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

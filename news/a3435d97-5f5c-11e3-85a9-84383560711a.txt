@@ -1,0 +1,7 @@
+                      comments       Friday Links   By Andrew Bergmann and Tal Yellin   @CNNMoneyTech     December 6, 2013: 4:51 PM ET                     NEW YORK (CNNMoney)   -    A weekly collection of design, data and interactive links.     Design/Data viz   Ekisto  | Interactive visualization of three online communities   Fourth down bot  | Calculating the best call on 4th down   Records for life  | Redesigning the child health record    DIWire  | The first desktop wire bender   Lego paintings  | Classic paintings made with LEGO     Photo/Video   Play the Road  | A project that synchronizes driving and music in real time   Smartphone projector  | $3 DIY projector   Victory Journal  | Personal stories told with bold layouts   Robot jellyfish  | Four-winged robot flies like a jellyfish   Wyoming Wildscapes II  | Time-lapse video     Code   Hello Processing  | Learn to code in one hour   Poly-maker  | Create custom polygons (Chrome only)     See last week's links     Have a nice weekend!   @dubly  and  @talyellin                First Published: December 6, 2013: 4:51 PM ET                  
+
+cnnad_createAd("c6de9fcd10923c2e","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=628x215_bot&cnn_money_rollup=technology&cnn_money_section=quigo&params.styles=fs&page.allowcompete=no","215","628"); 
+
+   
+      Join the Conversation   
+http://rss.cnn.com/~r/rss/money_latest/~3/PgsqSQ3CgH0/index.html

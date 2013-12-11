@@ -1,0 +1,160 @@
+	 Growth in job vacancies hits  15-year high 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Growth in salaries for permanent staff was found to be the highest in six years 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 UK services growth remains strong 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 House prices continue rapid rise 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 A better day for the chancellor 
+
+		 
+
+
+								 
+	 
+                       The growth in job vacancies hit the fastest rate in 15 years in November, according to the latest survey from the body that represents recruitment firms. 
+         Its job vacancies index, which uses data from 400 recruitment firms, rose to the highest level since July 1998. 
+         The strongest demand was for engineers, followed by nursing staff and other medical and care workers. 
+         The report also showed that growth in salaries for permanent staff was the highest in six years. 
+         Bernard Brown, partner and head of business services at KPMG, one of the report s sponsors, said there has been a change in sentiment this year:  Six months ago - after almost five years of pain - most employers were wondering just how real the signs of recovery were. 
+   Jobs fear persists 
+	 
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25298495-198348');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+       Business certainly seems to be more confident,  he said. 
+         The report is produced by the research firm Markit and is also sponsored by the Recruitment and Employment Confederation. 
+         Although demand for staff is high, the availability of candidates to fill permanent and temporary posts fell in November, continuing a recent trend, the report showed. 
+         It may be that people are still worried about job security but it is more likely that we are seeing a return of the traditional winter slowdown in recruitment as staff are more focused on Christmas than careers,  said Mr Brown. 
+   'Dysfunctional planning ' 
+	       A separate report on Monday showed that business confidence grew in October for the tenth consecutive month.  
+         The latest business trends report by accountants BDO also said that growth in the first half of next year is likely to be  robust . 
+         Peter Hemington, a partner at BDO, said that with economic recovery in place, the government should focus on other issues that concern business. 
+         The UK clearly has some substantial long-term problems in terms of an underperforming education system and a dysfunctional planning regime.  
+         Only time will tell whether the coalition government s radical plans for educational reform will work, but at least there is plenty of energy behind implementing these,  he said. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25294524#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

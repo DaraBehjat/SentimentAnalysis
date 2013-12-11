@@ -1,0 +1,151 @@
+         
+
+         
+
+
+         
+             Energy 
+         
+         | 
+     
+        12/03/2013 @ 9:01AM
+             | 39 views
+     
+		 EEI Commercial On Net Metering: At Risk Of Further Polarizing The Debate 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+
+  
+   Image: lordn.wordpress.co 
+ 
+Net Metering And Other Challenges  
+Last month, the Edison Electric Institute aired an advertisement on television in Arizon addressing the issue of net metering for solar power. (If you don’t know what net metering is, you should probably stop reading right now. You are in the wrong place.) Nonetheless, a quick description for neophytes: net metering allows customers with a generating asset (such as rooftop solar) to sell any surplus back to the utility, usually at the same rate as they pay on their utility bill for power consumed. In many cases, this allows customers to nearly zero out their electric bill.  
+The net metering policy exists in some shape or form in 43 states, and though there have been some efforts by utilities to roll it back, so far the regulators have generally held firm.  Last week, the Arizona Corporate Commission broke ranks somewhat, rendering a decision stating that owners of rooftop solar will pay $.70 per installed kilowatt per month.  
+The net metering issue is one of numerous issues utilities are dealing with these days. Earlier this year, the Edison Electric Institute (EEI) issued a report entitled  Disruptive Challenges: Financial Implications and Strategic Responses to a Changing Retail Electric Business . The report highlighted trends likely to affect U.S. electric utilities in the near future. It noted that solar prices were falling rapidly, natural gas prices were low, and efficiency was a growing trend, and stated:  “ the industry and its stakeholders must proactively assess the impacts and alternatives available to address disruptive challenges in a timely manner .”  
+“I Shouldn’t Have To Pay For My Neighbor’s Solar” – Edison Electric Institute Enters the Fray   
+With respect to the perceived solar threat, in particular, EEI has now actively engaged in the fray for hearts and minds around the solar net metering issue. EEI recently came under fire in Arizona, when the  Arizona Capitol Times reported that the organization was shopping stories to local media outlets  that would benefit Arizona Public Serve (APS).  APS has been lobbying strongly against net metering.  
+EEI also recently aired an ad entitled  “It’s Time For Common Sense”  that portrays a mother with two boys getting breakfast in the kitchen.  Soft guitar music plays in the background as the mother intones “It takes a lot to power these kids. And I’m glad people are using solar to power their homes.  Everybody uses the electric grid. The current policies shift the costs of maintaining the grid from solar homes to non-solar homes. I shouldn’t have to pay for my neighbor’s solar. A secure reliable electric grid benefits all of us. Everyone who uses the grid should help pay for it. That’s only fair.”  
+Who Should Pay For The Grid?  
+At one level, it makes complete sense. If some customers with rooftop solar produce as much electricity as they consume, and therefore pay no electric bill, why should they pay nothing to the utility? They still use the grid and get value from the grid, which essentially serves as a battery for their solar unit.  So why should they pay little or nothing? Taken to an extreme, let’s say 50% of us have rooftop solar and pay nothing on our power bills, while the rest of society foots the bill to keep the electric grid viable. Clearly there is an equity issue at stake here – at least in the long term.  
+But it’s not as simple as that either. Rooftop solar helps to avoid unhealthy emissions and CO2. There is an equity issue there as well. It also mitigates the need for construction of new power facilities and reduces stress on the grid during peak demand.  In short, it has a non-zero value to the grid and the utility.  
+In an effort to glean perspective from spokespersons on both sides of the issue and gain a better perspective, I spoke with Adam Browning , Executive Director of the Vote Solar Initiative and David Owens, Executive Vice President of Business Operations.  
+Browning comments,  
+
+  Utilities are given a monopoly in order to serve the public interest and make money.  Across the U.S. the majority of utilities, if their business plans remain unchanged, will result in massive pain and suffering through climate change, not to mention immediate public health issues. So the problem is that too any people starting to go solar?  I find that incomprehensible. 
+ 
+Browning further comments,  
+
+  The inability of the vast majority of utilities to take a real leadership position with respect to climate change is an issue here. We are now trying to empower people to choose to do the right thing by themselves. The utilities are trying to block that. I haven’t seen much leadership with respect to the challenge of our generation. Utilities don’t change without pressure. 
+ 
+
+  The precipitating subject here is an internet ad that should have that woman thanking her neighbor for the value provided to the grid, for allowing her children to grow up in a clean nation and that would give her children a healthy future.  Until we address the value solar also brings to the grid, we aren’t ready for the conversation. 
+ 
+David Owens from EEI disagrees.  I asked David Owens why EEI is taking this particular tack, airing the ad at this time. Owen freely acknowledged that rooftop solar has value for the grid, but feels that it is time to discuss what we want the grid to be, and who is going to pay for it. He also wanted to make it absolutely clear: rooftop solar depends on the power grid, and there are costs involved, notwithstanding suggestions and advertisements to the contrary.  
+
+  One of our goals was to respond to some of the misstatements that a rooftop solar facility has no dependency on the electricity grid.  We thought it was important to say that rooftop solar does in fact require the grid. When the sun isn’t shining or during the evening hours, unless you have a battery with sufficient storage to take you through those periods, you are still connected to the grid. 
+ 
+Owens acknowledges that the issue is complex, and that the utilities are entering a brave new world:  
+
+  By 2020 we will have 135 million smart meters.  So every household will have a smart meter enabling two-way communication between the utility and the customer.  We also know we have two-way power flow. Our customer can produce energy that can benefit the utility, and we are acknowledging that.  It can help augment overall power supply, help achieve our goals in reduction of CO2 emissions.  But we also see one comment element; it’s called the grid.  You’ve got to have a smart, intelligent grid. 
+ 
+On a few points, most of us can agree: the march of new technologies – be they solar, electric vehicles, batteries, or intelligent sensors in energy-consuming assets – is just commencing. It will take more intelligence at the grid level to integrate and optimize all of those disparate and rapidly evolving technologies. The optimization of the electricity grid will involve two-way communications of both information and energy, both of which are brand new phenomena  
+It’s A Ratemaking Issue  
+Owens comments that the current grid will need a vast overhaul in order to make this work, and that will take resources and a change in thinking, regulation, and ratemaking:  
+
+  That means you’ve got to look at your current rate structure and acknowledge that volumetric ratemaking may not be adequate.  You have to unbundle the rate and make it clear what the infrastructure is and how you enhance it and what those infrastructure costs are. That’s really what the ad was about.  The ad was about ‘let’s make sure we don’t shift the costs.’ 
+ 
+The world is moving towards faster, smarter cleaner, and more decentralized power grids. But in so doing, this will pose enormous challenges to the established way of doing things. Change will bring about winners and losers, and potentially cause excessive turbulence. The trick in successfully integrating potentially disruptive changes into an infrastructure you still need is to minimize that turbulence.  
+Browning is right that we need to focus on issues related to unhealthful emissions and carbon dioxide, and we need to move very quickly if we are to address this looming concern. The vast body of scientific evidence appears to be telling us that – to the contrary – we are moving far too slowly to address this critical issue. Yet EEI’s Owens makes a number of valid points that simply cannot be wished away. We need the power grid to do more than it does today, and to be a better and more robust nervous system. And there is a risk in this transition: according to the Economist, in the face of their EnergieWende, the valuation of German utilities has declined by almost half a trillion Euros since 2008.  That is a risk we truly want to avoid, for numerous and obvious reasons. 
+
+
+
+         
+         
+http://www.forbes.com/sites/peterdetwiler/2013/12/03/eei-commercial-on-net-metering-at-risk-of-further-polarizing-the-debate/

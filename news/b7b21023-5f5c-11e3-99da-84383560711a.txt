@@ -1,0 +1,183 @@
+         
+
+         
+
+
+         
+             Retail 
+         
+         | 
+     
+        12/07/2013 @ 4:04AM
+             | 7,374 views
+     
+		 iBeacon In Apple's Retail Stores Has Limited Appeal 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                    2 comments, 0 called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+Apple   Apple  has begun to roll out the new iBeacon messaging and location technology at its U.S. retail stores, but the company’s hard line on selling products at list price seems to limit the technology’s usefulness. Instead of attracting customers into the stores and drawing them to specific products, iBeacon messages are limited to two-sentence encouragements to trade in an old iPhone or reminders to use the Apple store app for product reviews. What’s more, the messages only appear if a user configures an iOS device to receive iBeacon signals, and specifically agrees to receive in-store notifications. The new service also assumes store visitors will be looking at their iOS device while they stroll the store, or are willing to pull out their iPhone when it receives an iBeacon message.  [I am an Apple stockholder.]  
+Earlier this week Apple gave a reporter from the Associated Press an advance look at iBeacon technology during a visit to the Fifth Avenue (NYC) store, and said the service would debut on Friday. However, since then there have been only a few other sightings of iBeacon messages. Individual stores are apparently still installing stand-alone iBeacon devices at strategic locations within the stores, and loading software on existing display products to activate them as iBeacon devices. A few visitors have received iBeacon information, but say that repeat messages are common, and none seem specific to the shopper.  
+Before the roll-out, one of the most-promoted capabilities of iBeacon was the ability to offer coupons, rebates or price reductions to specific store visitors, based on their location within the store. A shopper in the shoe department might be reminded to buy socks, or would even receive a 10 percent off coupon for socks. At a grocery store, a shopper in the pasta aisle would be directed to the location of spaghetti sauce or French bread, both discounted.  
+Notoriously, Apple doesn’t offer discount on its products, except for Black Friday and the education market. Every day, for every person, Apple products sell at list price. Therefore, there is no way for iBeacon to attract a person passing an Apple store with a discount offer, no way of promoting an add-on product with dollars off (a case for an iPhone), or even suggesting a mail-in rebate on the purchase of a major product. Without price as an attraction, what can iBeacon do for Apple retail?  
+The iBeacon service falls into two categories: all-store messages that apply to either all visitors or specific ones, and product-specific messages sent within a limited area. The latter category would generally be used for a single product area, such as the iPad mini display table. But there is some flexibility for short-range messages, since iBeacon can rotate among several messages, making it useful for the Apple store accessory shelving area. On the other hand, rotating messages imply that shoppers would often see messages they weren’t interested in or which didn’t apply to their visit. Will Apple store shoppers quickly grow weary of iBeacon and its messages?  
+Despite these limitations, one of the features mentioned by Apple is the ability to greet arriving visitors, including those who have designated Personal Pickup for an on-line purchase. iBeacon might also help manage the Genius Bar queues, letting customers know how long they might have to wait for service. The service could also be used to provide enhanced and more accurate product availability information, much like the on-line store now does for Personal Pickup purchases.  
+But iBeacon’s inability to provide more granular location information may limit its usefulness beyond that. Shoppers who want product specific information can’t use iBeacon to obtain it. The retail industry has already adopted QR and other coding schemes to provide product-level information. But like iBeacon, the codes require that shoppers install a reader app, and be willing to pull out their iPhone to scan the code and read the product information on a small screen. So far, adoption of QR codes has been slow—an estimated 25 percent of smartphones users have used a QR code within the last year. iBeacon may be in for the same fate, at least at Apples stores.  
+For Apple, the full promise of iBeacon may be just that—a promise. Fulfillment of all iBeacon benefits will come only when other retailers adopt the technology, and when they begin using price to determine how many shoppers are willing to use an iPhone as their in-store guide. 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    		     SAP Voice:  
+How Apple's Understated Technology Can Transform Entire Industries
+
+
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Reuven Gorsht 
+	                     @SAP 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    		     CenturyLink Voice:  
+How Apple's iBeacon Will Change Everything For Retail Analytics
+
+
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Natasha Baker 
+	                     @CenturyLink 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/garydallen/2013/12/07/ibeacon-in-apples-retail-stores-has-limited-appeal/

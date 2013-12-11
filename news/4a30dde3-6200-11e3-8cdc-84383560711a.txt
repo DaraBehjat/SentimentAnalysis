@@ -1,0 +1,44 @@
+
+
+
+By Herbert Lash NEW YORK  Dec 10 (Reuters) - Transactions in trades of less
+than 100 shares boosted reported volume by 3 percent on the
+first day that "odd lots" were included in the public
+dissemination of stock quotes and sale prices, trading data
+showed on Tuesday. Almost one out of every six trades, or 17.5 percent, that
+were reported on Monday to the "consolidated tape" were odd
+lots, according to the Consolidated Tape Association, a group
+that includes all the U.S. stock exchanges, among others. More than half the trading in high-priced stocks, such as
+Google Inc, was transacted in odd lots, as a common lot
+of 100 shares in the company costs more than $100,000. One out of every four trades on Nasdaq were odd lots, and
+made up 5.5 percent of the exchange's volume, the highest
+figures for all the U.S. exchanges, according to the CTA data. Some stocks traded almost entirely in odd lots. Of stocks
+that traded more than 100,000 shares, 27 had half or more of
+their trades done in odd lots. More than 83 percent of trades in White Mountain Insurance
+Group Ltd were odd lots, making it the stock with the
+highest percentage of transactions with fewer than 100 shares. But only 290 trades were executed in White Mountain,
+compared with 21,028 trades in Google, 67.5 percent of which
+were transacted in odd lots, the CTA data showed. Shares in White Mountain, a mid-cap stock, closed at $598.15
+on Monday, according to Thomson Reuters, with volume at 109,991
+shares. Google volume totaled 1.48 million shares on Monday, the
+CTA said. Before Monday, when odd lots began to print to the
+consolidated tape, this data was only available on proprietary
+data feeds the New York Stock Exchange and Nasdaq sell. The "consolidated tape" is a service all brokerages must buy
+to show customers they have obtained the best prices available. Questions about odd-lot trades were raised almost four years
+ago by U.S. security regulators, especially regarding their
+impact on price discovery, a key attribute of the market where
+buying and selling determines a security's price. Research by Professor Maureen O'Hara of Cornell University
+and two others had shown that odd lots contributed, in some
+stocks, to 30 percent of price discovery. Yet that information
+was not being reported to the consolidated tape until Monday. O'Hara said in an e-mail she was pleased for getting
+recognition for the study "What's Not There: Odd-Lot Bias in TAQ
+Data," which was also co-authored by Chen Yao and Mao Ye, both
+with the University of Illinois at the time. The odd-lot study raised questions about the fairness of
+excluding trade information, which O'Hara said was content-rich,
+to the 2.5 million subscribers of the consolidated tape. "Most academic research gets dismissed, so it is fun to have
+a paper that actually changed a market," said O'Hara, a leading
+academic in the study of how electronic markets work through
+so-called signal processing. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/Kfr4yHqapX0/story01.htm

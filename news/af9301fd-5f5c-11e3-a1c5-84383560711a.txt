@@ -1,0 +1,232 @@
+	 Autumn Statement: UK growth  hides disappointing news 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25264214-698');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25264214"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Paul Johnson from the IFS:  There s even more austerity than we d expected 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+				
+		 
+		
+	
+						 Autumn Statement 2013 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Osborne wants  balanced  recovery 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What it means for your finances 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 At-a-glance: Autumn Statement 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Analysis: Old age pensions 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+						
+
+	       	      
+	
+                       Higher UK growth forecasts  hide some more disappointing news for the chancellor , warns the influential Institute for Fiscal Studies (IFS). 
+         It says the increased forecast is just a result of growth coming a bit sooner than had been expected. 
+         The think-tank warns things like free school meals are unfunded after 2015. 
+         It says the pace of cuts in public service spending will accelerate from 2.3% a year between 2011 and March 2016 to 3.7% a year until early 2019. 
+   
+	 Continue reading the main story 		 Download the documents 
+		 
+	 
+   
+
+   
+PDF download  Full Autumn Statement documents [2.33MB] 
+	 
+	       Most computers will open PDF documents automatically, but you may need Adobe Reader 
+  
+	 
+		 
+			 Download the reader here 
+		 
+	        The IFS has warned previously of the extent of spending cuts that Chancellor George Osborne will have to make after the next election if he is still in the job. 
+         It says that announcements made in the Budget in March as well as in Thursday s Autumn Statement about things like not increasing fuel duties and creating marriage allowances in the tax system, will add an extra £7bn of spending into the period from 2015-16.  
+         The chancellor continues to make specific promises on spending increases whilst stating that he will keep total spending at the same level. He can t keep doing that,  Paul Johnson from the IFS says. 
+         He also stresses the uncertainty of the amount of money that will be raised by anti-avoidance measures and the increased bank levy. 
+   'Not a bottomless pit' 
+	       And he says that there will now have to be additional austerity as a result of the chancellor s pledge to balance the budget by the end of the next parliament without raising taxes. 
+         There s even more austerity than we d expected because the chancellor has decided he wants to continue for an additional year in order to get the books into surplus - he doesn t need to do that for his own fiscal rules,  Mr Johnson told the BBC.  
+         Much of the attention on the Autumn Statement has focused on the decision to raise the state pension age to 68 in the mid-2030s and 69 in the late-2040s. 
+         Mr Osborne told the BBC:  The reason we do this is because our country is getting older and we want to go on being able to afford really good pensions for people. There is not a bottomless pit of money. 
+         The alternative is a pension system that would collapse because it was unaffordable,  he added. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25258963#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

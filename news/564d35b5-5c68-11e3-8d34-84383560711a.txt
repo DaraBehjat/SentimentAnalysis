@@ -1,0 +1,191 @@
+	 Detroit judge rules bankruptcy process can proceed 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Detroit s pensioners held several protests outside the courthouse where the eligibility hearings took place 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 American nightmare  in Detroit 
+
+		 
+
+
+											
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Detroit bankruptcy in 60 seconds   Listen 
+
+		 
+
+
+											
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Detroit pensioners: Why pick on us?   Watch 
+
+		 
+
+
+														 
+	 
+                       A federal judge has ruled Detroit should be granted protection from its creditors, marking the largest public bankruptcy in US history. 
+         US bankruptcy judge Steven Rhodes said payments to retired staff, which make up half of the city s liabilities, could be  impaired  as a result.  
+         Detroit is now expected to submit a plan to rid its balance sheet of $18bn (£11bn) of liabilities. 
+         The city filed for bankruptcy protection more than four months ago. 
+         A coalition including retired city employees, police and fire-fighter unions, and others sued in July to block the filing. 
+         However, Mr Rhodes said Detroit s bankruptcy was a  foregone conclusion , adding the city should have probably filed years ago. 
+         Now, the city s emergency manager, Kevyn Orr, is expected to present a plan by the end of this year for how the city will deal with its more than 100,000 creditors. 
+         City officials say they hope Detroit can emerge from bankruptcy by the end of 2014. 
+   'Good faith' 
+	       Mr Rhodes was charged with deciding whether Detroit had met the conditions that made it eligible for bankruptcy.  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-24628490-27454');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","24628490"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Erma and Gordon MacDonald:  If they take my pension away, then we ll be in bad shape 
+		 
+    
+		
+
+
+
+
+       As well as proof of insolvency, Detroit had to provide evidence that it tried to negotiate in  good faith  with creditors, or that such talks were simply impossible because of the number of parties and other factors. 
+         Unions and pensioners  groups had argued that they were not given an opportunity to find another solution to a bankruptcy filing. 
+         They had also argued that the Michigan state constitution explicitly protects pension benefits from being cut. 
+         However, Mr Rhodes ruled that it has long been understood that when a bankruptcy proceeding has begun, contracts are generally broken to creditors. 
+         Since pension benefits are essentially contracts, that means they are not entitled to any special protection.  
+         This sets up a contentious clash that could see severe cuts to the once-sacred pension benefits to Detroit s retired fire-fighters and police officers. 
+         Mr Rhodes tried to reassure those worried about potentially life-altering cuts by saying the court would not  lightly or casually  make changes to existing pensions before exhausting other options. 
+   
+   
+
+     Detroit has more than 150,000 abandoned buildings, including former schools, train stations, and factories 
+   
+Dramatic decline 
+	       City managers have said that bankruptcy is the only way to manage Detroit s debts and liabilities, and Mr Rhodes supported that conclusion. 
+         The judge cited testimony from the city s police chief James Craig detailing the  deplorable  conditions inside the precinct. 
+         During his testimony, Mr Craig said that when he came to lead Detroit s force from Cincinnati, Ohio, he was forced to bring his own bullet-proof vest, because there were not enough to go around in the department. 
+         In May, Mr Orr presented a report on Detroit s financial situation. 
+         It said Detroit s expenditures had exceeded revenues by an average of $100m each year from 2008 to 2012. 
+         An estimated 40% of the city s streetlights do not work, while there are almost 150,000 vacant and abandoned plots in the city, according to the Detroit Future City report. 
+         Detroit has seen a dramatic decline in economic activity and population, as the big carmakers - once the city s main source of employment - shifted production to cheaper locations in the US and overseas. 
+         The city is now home to about 700,000 residents, down from the peak of 1.8 million in 1950. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25203691#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

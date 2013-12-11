@@ -1,0 +1,142 @@
+         
+
+         
+
+
+         
+             Business 
+         
+         | 
+     
+        12/03/2013 @ 9:20AM
+             | 50 views
+     
+		 Future Robots Will Be Soft And Shaped Like Squids 
+
+
+
+
+             
+         
+
+         
+             
+	                    
+	                 	 
+	                     
+	                     
+	                     
+							 Nany Langmeyer , PTC 
+	                     
+             
+         
+         
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+
+  
+   Photo Credit: Tufts University 
+ 
+Someday soon, your life may be saved by a weird-looking octopus, squid, or caterpillar – a squishy, form-changing, animal-like device that’s actually a soft robot.  
+Scientists are exploring the fluidity and deformable nature of animals like those mentioned above, as well as insects, starfish, and lizards. Their goal is to combine the maneuverability of these creatures with the autonomous nature of the hard-shelled robots we’re all familiar with—think R2-D2.  
+The ability of soft robots to climb onto textured surfaces and irregular shapes, crawl along wires and ropes, and burrow into complex, confined spaces will take them to places the hard robots of today can’t venture. In the biomedical field, they could assist in surgeries, while in search and rescue missions; they could crawl into hazardous situations to aid victims.  
+While a life-saving soft robot may not be a reality for several years, teams from various disciplines—computer science, organic chemistry, biomechanics, biomimetic robotics, flexible electronics, mechanical engineering, and materials development—are all making advances. Contributions to this field are also being made by neuroscience, polymer chemistry, control systems, and biomedical engineering.  
+Two groups at the forefront of this research are located in the Boston area. At Tufts University, professor  Barry Trimmer  heads one of the first groups to explore soft animal neuromechanics and how soft structures can be controlled through electrical motors.  
+At Harvard, a team of researchers led by professor George Whitesides, has developed a soft, silicone-based robot that looks much like an octopus. With a focus more on chemistry, the  Whitesides Research Group  is exploring elastomers, such as silicon polymer, and how the use of pneumatics—inflation and pressure—can change the shape of soft robots and power them.  
+According to Trimmer, soft robotics requires a new perspective for engineers. Typically, engineering theory deals with stiff materials and engineers have been trained to make sure what they build—whether it’s a bridge or a car—has minimal deformity under normal activity.  
+Soft materials, because they can change shape, are often considered to be problem that needs solving. “Soft material engineering is not taught much, and the engineering world needs to catch up fast,” Trimmer says. “Rarely are engineers encouraged to think about how they can build out of completely different materials.  
+“This would give them access to a whole new world of capabilities. Think of the proteins and sugars found in human bodies. These are amazing materials with fantastic properties that have never been used or exploited,” Trimmer says.  
+While this type of study won’t supersede current engineering, it will be an important part of the design of structures in the future. The promised applications are however some way off.  
+“There are still huge issues that need to be addressed,” Trimmer notes, “particularly in terms of developing a good framework and tools to support our theoretical approach.”  
+One area that needs to be advanced is soft material simulation tools. There is no means yet to build or model a device in a computer and simulate how it’s going to work as engineers do currently with structures such as aircraft.  
+Another challenge is the electronics that power the soft robots. “A rotary electric motor won’t work because it’s built of stiff materials and will limit the capability of a soft robot,” Trimmer says.  
+The Harvard team is using pressurized gas or liquid to power their robots, but it still has to use pumps and values and other equipment to drive the pressure. Trimmer’s group is exploring micro-coil shaped memory alloy wire, which can pull great force when current is passed through it. Trimmer and his team are also looking for a solution that is more like muscle, with electrically active polymers; the group is also using stem cells to grow muscles for their research.  
+The final major challenge is the control of movement of the robots. “Currently, engineering theory around controlling movement is for rigid systems,” Trimmer says. “This fails miserably when applied to deformable structures.” 
+
+
+
+         
+         
+http://www.forbes.com/sites/ptc/2013/12/03/future-robots-will-be-soft-and-shaped-like-squids/

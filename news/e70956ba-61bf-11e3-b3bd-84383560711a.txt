@@ -1,0 +1,169 @@
+	 Comic Relief money invested in arms and tobacco shares 
+
+     
+         
+ 
+    
+    	
+	 
+    
+    
+					            	    		 			 
+														 By Declan Lawn 
+				 BBC Panorama 
+			 
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25313570-100989');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25313570"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Extracts from Panorama - All in a Good Cause 
+		 
+    
+		
+
+
+
+
+                       Millions of pounds donated to Comic Relief have been invested in funds with shares in tobacco, alcohol and arms firms, BBC Panorama has learned. 
+         The BBC has also seen evidence which suggests Save the Children censored criticism of energy firms, to avoid upsetting corporate partners.  
+         Comic Relief said it used its funds to  deliver the greatest benefits to the most vulnerable people . 
+         Save the Children said its campaigns were unaffected by any partnerships. 
+   Comic Relief 
+	       Comic Relief has raised nearly £1bn for worthwhile causes in the UK and abroad. 
+         It pays out the money it receives to other charities, sometimes over several years. 
+         That means Comic Relief holds tens of millions of pounds at any one time.  
+         The charity uses a number of managed funds which invests that money on the charity s behalf, including in the stock market. 
+         Panorama has learnt that between 2007 and 2009, some of these investments, amounting to millions of pounds, appear to contradict several of its core aims. 
+         Despite its mission statement claiming it is committed to helping  people affected by conflict , in 2009 the charity had £630,000 invested in shares in weapons firm BAE Systems. 
+         Comic Relief also had more than £300,000 invested in shares in the alcohol industry despite its mission statement saying it is  working to reduce alcohol misuse and minimise alcohol related harm . 
+         The majority was invested in Diageo, which manufactures dozens of alcoholic drinks and was criticised by the Health Select Committee in 2009 for exploiting weaknesses in the regulation of alcohol advertising. 
+         Comic Relief also appeals for money to fight tuberculosis and has given over £300,000 to a charity called Target Tuberculosis.  
+         Target TB believes that smoking may be responsible for over 20% of TB cases worldwide.  
+         While raising funds in 2009, nearly £3m of Comic Relief money was invested in shares in tobacco companies. 
+   'Risking their reputation' 
+	       During that time, entrepreneur and Dragon s Den star Duncan Bannatyne was a full trustee of Comic Relief.  
+         In 2008 he made a BBC documentary attacking a tobacco company for targeting African children. 
+         He told Panorama he  wouldn t put donors  money into tobacco companies  and said charities should invest ethically. 
+   
+   
+
+     Duncan Bannatyne, a trustee of Comic Relief in 2009, says he would not invest in tobacco firms 
+   
+       Ethical fund manager Helen Wildsmith looks after the cash of thousands of charities. 
+         She said she was surprised that a charity as high profile as Comic Relief would risk its reputation and future donations. 
+         If people who ve been giving them money, after watching the television, next year think twice and don t give that money, because they re concerned about their investment policy, then that could be argued to be a breach of fiduciary duty. 
+         Comic Relief has now changed the way it presents its accounts and it is currently impossible for the public to tell which funds the charity currently invests in. 
+         It declined to comment on whether any money invested since 2009 is in shares in alcohol, arms, or tobacco companies.  
+         Comic Relief said its approach is within regulatory guidelines. 
+         We put the money into large managed funds, as many other leading charities and pension funds do,  they said. 
+         On balance, we believe this is the approach that will deliver the greatest benefits to the most vulnerable people. 
+   
+	 Continue reading the main story 		 Panorama: Find out more 
+		 
+	 
+   
+
+   
+
+	 
+	 
+      Declan Lawn presents Panorama - All in a Good Cause 
+      BBC One, Tuesday 10 December at 22:35 BST  
+   
+	 
+		 
+			 Then available in the UK on the BBC iPlayer 
+		 
+	        And Comic Relief co-founder and  former chair of trustees Peter Bennett-Jones told the Guardian  the investments were made according to legal guidelines stating that they must yield the best possible financial return. 
+         The Charity Commission, he said, made it clear that trustees  should only adopt an ethical investment approach with specific justification and not on the grounds of individual moral views . 
+         Sam Younger, Charity Commission chief executive, said:   If a charity says  we need to invest for the maximum financial return  that is right,   
+         If they go on to say  we therefore can t have an ethical investment policy , that s wrong,  he said. 
+   Save the Children 
+	       Panorama has also seen evidence to suggest that Save the Children censored its criticism of the energy industry to avoid upsetting potential and existing corporate partners. 
+         Its 10 year relationship with British Gas ended in November 2012 having yielded £1.5m.  
+         Dominic Nutt, its former head of news from 2007 to 2009, told the BBC that he was keen to campaign on the issue of rising energy prices when he worked at the charity but was stopped from doing so. 
+         Every year I would prepare a line on that, to go to the media, to criticise British Gas. Every year, it would be quashed,  he said. 
+         It was a clear,  We can t do that, because we take money from British Gas...  - that would have come down from on high.   
+         Save the Children ran a fuel poverty campaign in January 2012 which criticised the Big Six Energy suppliers but it singled out British Gas as doing the most to help poorer families. 
+         Justin Forsyth, current CEO of Save the Children, said:  We would never decide not to campaign on something because of a corporate partnership. 
+         And we re quite explicit when we go into these corporate partnerships that we won t muzzle our voice,  he said. 
+         Panorama has also seen internal emails from the Save the Children s Corporate Partnerships team, who were pitching to become EDF s charity partner - a deal which could have earned Save the Children £600,000 over three years. 
+         The emails raised concerns about risking a potential partnership with EDF by running a fuel poverty campaign. 
+         Justin Forsyth said:  With this specific case we were never going to launch a campaign on energy prices. 
+  
+
+	 
+  	
+     
+	
+  
+   
+ 	 
+http://www.bbc.co.uk/news/uk-25273024#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

@@ -1,0 +1,125 @@
+	 Google robots may pose challenge to Amazon drones 
+
+     
+         
+ 
+    
+    
+					            	    		 			 
+														 By Leo Kelion 
+				 Technology reporter 
+			 
+		
+         
+   
+
+     Meka s M1 robot is one of the systems that has been acquired by Google 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Amazon testing drones for deliveries 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Google patents social media helper 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Robot cow-herder a hit with farmers 
+
+		 
+
+
+											 
+	 
+                       Google has revealed it has taken over seven robotics companies in the past half a year and has begun hiring staff to develop its own product. 
+         A spokesman confirmed the effort was being headed up by Andy Rubin, who was previously in charge of the Android operating system. 
+         The spokesman was unwilling to discuss what kind of robot was being developed. 
+         But the New York Times reports that at this stage Google  does not plan to sell the resulting product  to consumers. 
+   
+   
+
+     Google has hired a team of Japanese engineers who make humanoid robots 
+   
+       Instead, the newspaper suggests, Google s robots could be paired with its self-driving car research to help automate the delivery of goods to people s doors.  
+         It notes the company has recently begun a same-day grocery delivery service in San Francisco and San Jose, called Google Shopping Express. 
+         That would pitch the initiative against  Amazon s Prime Air Project,  which envisages using drones to transport goods to its customers by air. 
+         Any description of what Andy and his team might actually create are speculations of the author and the people he interviewed,  said Google of the NYT article. 
+         One UK-based expert welcomed the news. 
+         This is a clear sign that days of personalised robotic technology entering the mainstream market is imminent,  said Prof Sethu Vijayakumar, director of the Robotics Lab at the University of Edinburgh. 
+         Movement and sensing systems for robotics technology have made great strides. Now, with mainstream companies like Google taking up the challenge, other elements such as robust software integration, standardisation and modular design will pick up pace. 
+   
+   
+
+     Google now owns a company that makes a robot arm designed to handle packaged goods 
+   
+       The search giant s robotics project is based in Palo Alto, California, and will have an office in Japan - one of the world s leading nations in the field. 
+         Speaking to the NYT, Mr Rubin said Google had a  10-year vision  for bringing the effort to fruition. 
+         I feel with robotics it s a green field,  he said. 
+         We re building hardware, we re building software. We re building systems, so one team will be able to understand the whole stack. 
+   
+   
+
+     Meka s parts have been developed with human-robot interactions in mind 
+   
+       The companies acquired by Google to jumpstart its effort are: 
+   
+      Autofuss - a San Francisco company that employed robotics to create adverts. It has worked on several campaigns for Google s Nexus-branded products. 
+      Bot   Dolly - a sister company to Autofuss that specialised in precise-motion robotics and film-making. Its systems were used to make the film Gravity. 
+      Holomni - a Mountain View, California-based company that specialised in caster wheel modules that could accelerate a vehicle s motion in any direction. 
+      Industrial Perception - a Palo Alto-headquartered business that focused on the use of 3D vision-guided robotic technologies to automate the loading and unloading of trucks, and handle packages. 
+      Meka Robotics - A spin-off from the Massachusetts Institute of Technology (MIT) that built robot parts that appeared friendly and safe to humans. Its products included heads with big eye sensors, arms and a  humanoid torso . 
+      Redwood Robotics - a San Francisco-based company that focused on creating next-generation robot arms for use in manufacturing, distribution and service industries such as healthcare. 
+      Schaft - a spin-off from the University of Tokyo that focused on the creation and operation of humanoid robots. 
+   
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/technology-25212514#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

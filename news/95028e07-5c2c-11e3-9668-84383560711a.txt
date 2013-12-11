@@ -1,0 +1,14 @@
+
+
+Dec 3 (Reuters) - The following U.S.- and Canada-listed companies reported earnings on Tuesday. This list shows whether they
+beat, met or missed Wall Street analysts' forecasts. It also shows the difference between analysts' expectations and reported
+results. The figures are provided by Thomson Reuters I/B/E/S.
+    
+ Company Name              Ticker      Qtr  Industry                  Curr  EPS Est  EPS Act Diff EPS  Rev Est  Rev Act Diff Rev
+ BANK OF MONTREAL                      Q4   BANKING                    CAD     1.58     1.64     0.06   4021.2   4188.0    166.8
+ LTX-CREDENCE CORP                     Q1   SEMICONDUCTORS/COMPONENT   USD    -0.12    -0.10     0.02     32.0     32.8      0.7
+ REX AMERICAN RESOURCES                Q3   ALTERNATIVE ENERGY         USD     0.73     1.11     0.39    189.9    166.5    -23.4 
+
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/zD7yGxeKjDk/story01.htm

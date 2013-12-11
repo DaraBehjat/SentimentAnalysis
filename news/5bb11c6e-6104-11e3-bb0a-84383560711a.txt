@@ -1,0 +1,277 @@
+	 Rosaria Piseri: My seaweed obsession led to a business 
+
+     
+         
+ 
+    
+    
+					            	    		 			 
+														 By Katie Hope 
+				 Business reporter, BBC News 
+			 
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25217963-40712');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25217963"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Seaweed product entrepreneur Rosaria Piseri says setting up AlgAran was  like a dream - a difficult dream 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Start-up Stories 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 How bees drove one firm s success 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Rose Gong, Jiayuan  Watch 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Weili Dai, Marvell 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Judy Estrin, Evntlive 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       It s green, slimy and can be a bit smelly - but for entrepreneur Rosaria Piseri, a lifelong fascination with seaweed is what drove her to create a business. 
+         Living in landlocked Milan, she had always yearned to be near the sea, and, at 46, with her children grown up, she decided to up sticks and move to an island on the west coast of Ireland to pursue her unusual passion. 
+         The move eventually led to the creation of her company, AlgAran, which makes and sells edible organic seaweed products and remedies, as well as seaweed-infused moisturisers, face masks, shampoo, soap and other cosmetics. 
+         The company s name reflects its birthplace - the Aran Islands - which have a long tradition of using seaweed, both in food and as a fertiliser.  
+   'Amazing effects' 
+	 
+   
+
+     Rosaria Piseri has always been fascinated by seaweed 
+   
+       Ms Piseri first became interested in seaweed when she discovered the impact it had when used as a natural fertiliser to enhance the size of grapes. At the time, she was working for a company that supplied products used in wine-making in her native Italy. 
+         Its effectiveness drove her to read up on it, and eventually she discovered a company in Ireland that had just started to produce seaweed extracts, and she decided to visit. 
+         It was wonderful. I mean the seaweed could [have] really, really amazing effects on plants,  she says. 
+   
+	 Continue reading the main story 	 Start Quote 
+I was really led by just a passion. And I thought, 'This is going to be a business, this is going to be a business.' I just had this feeling that it was going to work 
+End Quote 
+	 Rosaria Piseri 
+	
+
+		        Impressed, she arranged to import a small amount for her own personal use as a fertiliser, and subsequently began to import more to sell to friends. 
+         After this her fascination grew, and she spent all her time researching seaweed, to the point where she says she was shunned by her friends because it was all she ever talked about. 
+         I was really led by just a passion. And I thought,  This is going to be a business, this is going to be a business.  I just had this feeling that it was going to work. 
+   A promise 
+	       However, it was the death of a close friend from cancer that persuaded her to dedicate herself full time to creating a business. 
+         When her friend was diagnosed, Ms Piseri started to research whether seaweed extracts had any medicinal uses that could help. Sadly, her friend passed away before Ms Piseri could find anything out. 
+   
+	 Continue reading the main story 		 
+	 
+   
+
+   
+
+	 
+	       AlgAran 
+   
+      Year founded: 2004 
+      HQ: Donegal, Ireland 
+      Annual sales: Not disclosed 
+      Number of employees: Five 
+      Ownership: Private 
+   
+	 
+		 
+			 Read more: Start-up Stories 
+		 
+	        So it was a kind of a promise I made her. I want to keep going in this, I want to know more. 
+         Ms Piseri initially got a job working on the Aran Islands for the company that had supplied her with seaweed in Italy, and subsequently moved to another company in Donegal that had just started to process seaweed for agriculture.  
+         She then decided to stay permanently in Ireland and started her own company in 2004 - using seaweed as the basis for a food product. 
+         Michael McCloskey, a local seaweed harvester she had met at the company in Donegal, joined her as a business partner, providing empty premises he owned to set up offices and a factory. 
+         Part of her research was secretly testing out her products on unsuspecting dinner guests to see if they would like them, using traditional Italian recipes with seaweed as an additional ingredient. 
+   
+   
+
+     The seaweed is sold as an ingredient to add to food as well as cosmetics 
+   
+       She says they were amazed when she told them what they had been eating. 
+         However, initial sales were slow, in part due to people s resistance to eating a foodstuff that in Ireland had long been associated with poverty. Just as they began to pick up, helped by a new agreement with an Italian distributor, the financial crisis in the eurozone started to hit demand. 
+         The breakthrough for the company came when Ms Piseri decided to start exporting to Japan last year. The tsunami and earthquake in 2011 had destroyed much of the country s home-grown seaweed, commonly used in food dishes, creating a strong demand for imports. 
+         Demand is now so high that the company is unable to keep up, and it has had to send back orders. 
+   
+   
+
+     The company makes seaweed infused moisturisers, face masks, shampoo and soap 
+   
+       The company now has five staff who have to harvest the seaweed according to the tides, and then process it within three hours to preserve the nutrients within.  
+         If the tide in the summer is let s say [15:00, 16:00], then you have to work until late,  says Ms Piseri. 
+         Despite the long hours, she says the fact that both the company and the products she makes are her own creations makes it worthwhile, and keeps her motivated. 
+         Her advice to a would be entrepreneur? Get planning early, and write a business and marketing plan at the very outset. Something she says she failed to do.  
+         Ultimately, she says, the process of starting a business is like having a baby. 
+         You have to be sure that you are going to nourish the baby, that you are going to grow the baby, that you will be available for the baby. So the company is much the same, business is much the same. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25196870#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

@@ -1,0 +1,17 @@
+
+
+Dec 9 (Reuters) - The following U.S.- and Canada-listed companies reported earnings on Monday. This list shows whether they beat,
+met or missed Wall Street analysts' forecasts. It also shows the difference between analysts' expectations and reported results. The
+figures are provided by Thomson Reuters I/B/E/S.
+    
+ Company Name              Ticker      Qtr  Industry                  Curr  EPS Est  EPS Act Diff EPS  Rev Est  Rev Act Diff Rev
+ FOREST CITY ENTERPRISES               Q3   INVESTMENTS                USD    -0.02     0.67     0.69    388.1       --       --
+ LAYNE CHRISTENSEN COMPANY             Q3   MACHINERY                  USD    -0.36    -0.97    -0.61    244.7    216.5    -28.2
+ RESERVOIR MINERALS INC                Q3   NONFERROUS BASE METALS     CAD    -0.03    -0.03     0.00       --       --       --
+ 
+
+ (Bangalore Newsroom +91 80 4135 5800; within U.S. +1 646 223 8780) 
+
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/yWQ7VP3WueE/story01.htm

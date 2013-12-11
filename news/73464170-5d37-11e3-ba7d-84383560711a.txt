@@ -1,0 +1,442 @@
+	 Fifa World Cup 2014: Three stadiums to miss Fifa deadline 
+
+     
+         
+ 
+								
+				
+				
+							 
+
+			    
+                               Three stadiums being built for the 2014 World Cup in Brazil will not be ready for the 
+    
+deadline of the end of the year,  
+
+     according to Fifa.
+
+  
+               Arena Pantanal in Cuiaba, Curitiba s Arena da Baixada and Sao Paulo s Arena Corinthians stadium are all set to to miss the 31 December date.
+
+  
+               
+Two workmen were killed  
+
+     in an accident in Sao Paulo last month.
+
+  
+     
+	 
+				 Arena Corinthians 
+				 
+		     
+   
+
+   
+
+
+		 
+		     
+               Location:
+
+     Sao Paulo
+
+               Construction started: 
+
+    2011
+
+               Capacity: 
+
+    45,000, although an additional 20,000 removable seats will take capacity to 65,000 for the tournament
+
+               Estimated construction cost: 
+
+    £218m
+
+               Construction site size: 
+
+    198,000m²
+
+               Construction workforce: 
+
+    Estimated 6,000 
+
+               Original completion date: 
+
+    December 2013
+
+               Post-World Cup use: 
+
+    Brazil club Corinthians to play home games
+
+   
+
+		 
+			 
+
+                We re feeling sad for the families. Sao Paulo will be ready for the opening match,  president Sepp Blatter said. 
+
+  
+                We deplore the loss of the two people who lost their lives. 
+
+  
+               Blatter added that the issues with the stadiums are  so small we can close our eyes .
+
+  
+               The 43,000-seater Arena Pantanal, where a plan for a retractable roof has been abandoned, and the 41,000 Arena da Baixada are also behind schedule.
+
+  
+               But Fifa general secretary Jerome Valcke says they will all be ready by February. 
+
+  
+               Valcke said:  We don t know when the green light [to resume work] will be given [in Sao Paolo].
+
+  
+                We are not in a crisis mood, looking at an alternative to Sao Paulo but Curitiba is facing the most problems and clearly won t be delivered before February 2014.
+
+  
+                The people from Curitiba attended a meeting [on Monday] and promised to organise themselves to get the stadium ready by the end of February 2014. 
+
+  
+               The draw for next year s tournament, which starts on 12 June in Sao Paulo, takes place on Friday.
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        What you need to know about World Cup draw
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 03 Dec 2013 
+		
+			 World Cup 2014 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        England draw pot could change
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 03 Dec 2013 
+		
+			 World Cup 2014 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Hodgson hopes for kind World Cup draw
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 02 Dec 2013 
+		
+			 World Cup 2014 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+		
+
+
+    	
+
+	
+	 
+     Watch video                                                         World Cup weather 
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 01 Dec 2013 
+		
+			 Feeds 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        No plans to move World Cup - Fifa
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 28 Nov 2013 
+		
+			 World Cup 2014 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Two die in Brazil stadium accident
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 27 Nov 2013 
+		
+			 World Cup 2014 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Brazil venues struggle to meet World Cup deadline
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 26 Nov 2013 
+		
+			 Latin America  &  Caribbean 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        2014 Fifa World Cup draw information
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 04 Dec 2013 
+		
+			 World Cup 2014 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/football/25208432

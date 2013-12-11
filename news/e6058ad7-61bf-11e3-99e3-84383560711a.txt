@@ -1,0 +1,152 @@
+	 General Motors names Mary Barra as new boss  
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Mary Barra, 51, joined the company as an engineering student 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 GM withdraws Chevrolet from Europe 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 US Treasury lost $10bn on GM bailout 
+
+		 
+
+
+								 
+	 
+                       US car giant General Motors (GM) has promoted product development chief Mary Barra to the post of chief executive.  
+         She replaces Daniel Akerson, and is the first woman to run a US carmaker. 
+         Mr Akerson, who is also currently chairman of the company, will leave both of his posts in mid-January. His wife has recently been diagnosed with advanced cancer.   
+         Earlier this week the US government sold its remaining shares in GM, the world s second biggest carmaker. 
+         Overall, it lost around $10bn (£6bn) on its bailout of the carmaker in the aftermath of the financial crisis in 2008 and 2009.  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25299798-93270');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25299798"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 GM will no longer be known as  Government Motors  says specialist Jeff Bennett 
+		 
+    
+		
+
+
+
+
+       The US Treasury spent $49.5bn bailing out GM, and took a 61% stake in the company. 
+   'Satisfaction' 
+	       Ms Barra has been in charge of design and engineering, and before that was head of human resources at the company. 
+         She joined GM as a student in 1980.  
+         In a message to the company s employees on Tuesday, Mr Akerson said:  I will leave with great satisfaction in what we have accomplished, great optimism over what is ahead and great pride that we are restoring General Motors as America s standard bearer in the global auto industry.   
+         Current chief financial officer, Dan Ammann, was named GM president. He will also take responsibility for the Cadillac and Chevrolet brands.  
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25322185#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

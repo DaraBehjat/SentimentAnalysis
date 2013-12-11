@@ -1,0 +1,182 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/06/2013 @ 6:49PM
+             | 593 views
+     
+		 FTC May Target More Mobile Apps For Secretly Passing Your Data To Advertisers 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+
+  
+   The FTC has put the spotlight on Goldenshore’s duplicitous sharing of user data with ad networks; image via Google Play 
+ 
+Yesterday the Federal Trade Commission  announced its first wrist-slap and settlement with a mobile app developer for secretly funneling data on tens of millions of its users to ad networks. The regulators accused Moscow-based Goldenshores Technologies, which created an Android flashlight app to generally  strong reviews , of collecting location data and device numbers even after asking users if they wanted to opt out. The FTC has told Goldenshores to delete the personal data it collected and readily inform users from now one of how their data was being used.  
+Mobile privacy is “an area that we’ve been really interested in, and we’ve been monitoring what’s going on in this space,” said Kerry O’Brien, an assistant regional director for the FTC in San Francisco. The regulator relies on tip-offs, consumer complaints and app reviews to suss out who might be mis-using user data.  
+O’Brien wouldn’t comment on whether the FTC was working on other cases like this one against more app developers, or if more charges were on the way.  
+However, if research is anything to go by, the FTC is likely looking at other potential cases, particularly of apps who aren’t clearly informing users how their data is used. O’Brien points to a  recent study  by Carnegie Mellon University researchers which found that out of the top 100 Android apps, 56 collected device idea, contact lists or location data, often times unbeknownst to end users. Goldenshores’ Flashlight app was at the top of the list of apps whose users were surprised by how their data was being collected, followed by  Toss It  and Rovio’s Angry Birds.  
+“Odds are [the FTC] are probably looking at other apps,” says Prof. Jason Hong, who led the Carnegie Mellon study — which actually helped prompt the FTC’s charges against Goldenshores — and is now scaling up his research to include hundreds of thousands of apps. “How many other apps are doing this kinds of behavior? A lot of them are. For ad purposes. It’s not that developers like Goldenshores are malicious, but they’re offering their apps for free and need a revenue model, and so they suck in lots of data… like your location data.”  
+Bradley Shear, a Washington D.C. based lawyer specializing in privacy and social media, agrees Goldenshores was not alone in failing to disclose how consumer data was used. “I believe [this is] much more widespread than the public thinks and that’s why the FTC has come down on these issues,” he said. “The big message from the FTC is that the industry needs to clean up its act and mobile app developers need to think about putting privacy and design into the creation of the apps.” As more consumers  download free apps , developers are hard pressed to make money any other way but by linking to an advertising network or trying to shop premium services.  
+In their haste, many app developers are not fully aware of the consumer data they are funneling back to advertisers who categorize data into large data libraries and personal profiles, something that developers I spoke to for  this story  on ad network Flurry confirmed.  “We’ve interviewed some developers and one big problem is that a lot don’t know what’s going on inside these [third-party] libraries because they want to bank their app and make money off to it,” said Hong, adding that libraries were set pieces of code that developers could use to make their software functionality easier. “It’s the libraries that are causing the problems, not the apps themselves.”  
+ 
+
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Want To Track My Online Footprints? What's It Worth To You?
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Erika Morphy 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Delete By Default: Why More Snapchat-Like Messaging Is On Its Way
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Parmy Olson 
+	                     Forbes Staff 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/parmyolson/2013/12/06/ftc-may-target-more-mobile-apps-for-secretly-passing-your-data-to-advertisers/
