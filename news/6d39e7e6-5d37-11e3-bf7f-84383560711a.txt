@@ -1,0 +1,1000 @@
+	 EU fines banks over rate-rigging  
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25199933-27541');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25199933"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 European Commission vice-president Joaquin Almunia describes the rate-rigging as  appalling examples of misconduct 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+				
+		 
+		
+	
+						 Big Banking 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 We ve kept businesses alive - RBS 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Cable hands RBS file to watchdog 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Parties row over Co-op  smears 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 JP Morgan in record $13bn settlement 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+						
+
+	       	      
+	
+                       The European Commission has fined eight banks - including RBS - a total of 1.7bn euros (£1.4bn) for forming illegal cartels to rig interest rates. 
+         The cartels operated in markets for financial derivatives, which are products used to manage the risk of interest rate movements.  
+         Two of the eight, Barclays and UBS, were excused their financial penalties for revealing the cartels  existence. 
+         The Commission said  it was shocking that competing banks were in collusion.  
+         UBS and Barclays stood to pay the largest fines of 2.5bn euros and 690m euros, but avoided paying anything because they assisted the investigation.  
+         A number of banks were engaged in the rigging of interest rate products intended to reflect the cost of interbank lending in euros, while another group fixed prices for products based on the Japanese yen. 
+         The rates are used to set the price of trillions of dollars of products, including mortgages. 
+         Some were involved in both markets and more than one cartel, including RBS, which was fined a total of 391m euros (£325m). 
+   'Scandal' 
+	 
+	 Continue reading the main story 	 Start Quote 
+What is [also] shocking about the... scandals is  the collusion between banks who are supposed to be competing with each other 
+End Quote 
+	 Joaquin Almunia 
+	 European Commission 
+
+		        Aside from RBS, Barclays and UBS, the other organisations involved were Deutsche Bank, which received the biggest fine of 725.36m euros, Societe Generale, JP Morgan, Citibank and the brokers RP Martin. 
+         Banks that have not yet settled fines but are being investigated are HSBC and Credit Agricole, as well as JPMorgan, which accepted a fine for rigging in one market but not another.  
+         The fine, the first for interest-rate rigging from the EU, is also a record for its regulators.  
+         Other global authorities have fined financial institutions including UBS, RBS, Barclays, Rabobank and ICAP for manipulating rates. 
+         A handful of individuals are facing criminal charges. 
+         Previous fines 
+         Barclays and RBS, which is 81% owned by the government, have already been fined for rigging the price of interest rate products based on the London interest rate market, Libor.  
+         Barclays paid £290m and RBS £391m for their involvement. 
+         Barclays was the first to be fined for that, a move that put it ahead of the pack and drew to it both public and political attention.  
+         That was followed by the departures of both its chief executive, Bob Diamond, and its chairman, Marcus Agius.  
+         Barclays said it  voluntarily  reported this latest wrongdoing to the Commission and  co-operated fully  with the investigation. 
+         UBS has been given the heaviest fine, of $1.5bn (£917m) - and was also in line for the largest in this investigation, but avoided it by co-operating.  
+   
+	 Continue reading the main story 	 Start Quote 
+Today is another sobering reminder of... past failings and nobody should be in any doubt about how seriously we have taken this issue 
+End Quote 
+	 Sir Philip Hampton 
+	 RBS chairman 
+
+		 'Sobering' 
+	       Joaquin Almunia, the commission s vice-president in charge of competition policy, said:  What is shocking about the... scandals is not only the manipulation of benchmarks, which is being tackled by financial regulators worldwide, but also the collusion between banks who are supposed to be competing with each other.  
+         Healthy competition and transparency are crucial for financial markets to work properly, at the service of the real economy rather than the interests of a few.   
+         Sir Philip Hampton, chairman of RBS, said the bank condemned the behaviour of those involved in attempted rate-rigging. 
+         He said things had since changed at the 81% state-owned bank:  We acknowledged back in February that there were serious shortcomings in our systems and controls on this issue, but also in the integrity of a very small number of our employees. 
+         Today is another sobering reminder of those past failings and nobody should be in any doubt about how seriously we have taken this issue. 
+  
+
+
+
+
+
+
+
+
+
+	 
+			 
+			 
+			 
+			 
+			 
+	 
+
+		
+		
+				
+						
+						
+		 
+	
+							>
+	
+		
+												class = "left"
+			>
+			
+					 
+												class = "left"
+			>
+			
+					 
+												class = "left"
+			>
+			
+					 
+												class = "left"
+			>
+			
+					 
+		 
+		
+		
+					
+		
+									class="subheading" 
+			>
+	
+		
+										colspan="4"
+					class = "left"
+			>
+			 Euro interest rate derivative cartel fines
+							 
+					 
+		 
+		
+		
+					
+		
+									class="subheading" 
+			>
+	
+		
+												class = "left"
+			>
+			 Participant
+							 
+					 
+												class = "left"
+			>
+			 Duration of participation
+							 
+					 
+												class = "left"
+			>
+			 Fine (euros)
+							 
+					 
+												class = "left"
+			>
+			 Reduction under leniency notice*
+							 
+					 
+		 
+		
+		
+				
+		
+							>
+	
+		
+												class = "left"
+			>
+			       Barclays 
+  
+					 
+												class = "left"
+			>
+			       32 months 
+  
+					 
+												class = "left"
+			>
+			       0 
+  
+					 
+												class = "left"
+			>
+			       100% 
+  
+					 
+		 
+		
+		
+				
+		
+									class="row2"
+			>
+	
+		
+												class = "left"
+			>
+			       Deutsche Bank 
+  
+					 
+												class = "left"
+			>
+			       32 months 
+  
+					 
+												class = "left"
+			>
+			       465,861,000 
+  
+					 
+												class = "left"
+			>
+			       30% 
+  
+					 
+		 
+		
+		
+				
+		
+							>
+	
+		
+												class = "left"
+			>
+			       Societe Generale 
+  
+					 
+												class = "left"
+			>
+			       26 months 
+  
+					 
+												class = "left"
+			>
+			       445,884,000 
+  
+					 
+												class = "left"
+			>
+			       5% 
+  
+					 
+		 
+		
+		
+				
+		
+									class="row2"
+			>
+	
+		
+												class = "left"
+			>
+			       RBS 
+  
+					 
+												class = "left"
+			>
+			       8 months 
+  
+					 
+												class = "left"
+			>
+			       131,004,000 
+  
+					 
+												class = "left"
+			>
+			       50% 
+  
+					 
+		 
+
+
+       *Barclays received full immunity for revealing the existence of the cartel 
+  
+
+
+
+
+
+
+
+
+
+	 
+			 
+			 
+			 
+			 
+	 
+
+		
+		
+				
+						
+						
+		 
+	
+							>
+	
+		
+												class = "left"
+			>
+			
+					 
+												class = "left"
+			>
+			
+					 
+												class = "left"
+			>
+			
+					 
+												class = "left"
+			>
+			
+					 
+		 
+		
+		
+					
+		
+									class="subheading" 
+			>
+	
+		
+										colspan="4"
+					class = "left"
+			>
+			 Yen interest rate derivative cartel fines
+							 
+					 
+		 
+		
+		
+					
+		
+									class="subheading" 
+			>
+	
+		
+												class = "left"
+			>
+			 Participant
+							 
+					 
+												class = "left"
+			>
+			 Duration of participation
+							 
+					 
+												class = "left"
+			>
+			 Fine (euros)
+							 
+					 
+												class = "left"
+			>
+			 Reduction under leniency notice*
+							 
+					 
+		 
+		
+		
+				
+		
+							>
+	
+		
+												class = "left"
+			>
+			       UBS (five infringements) 
+  
+					 
+												class = "left"
+			>
+			       various duration 
+  
+					 
+												class = "left"
+			>
+			       0 
+  
+					 
+												class = "left"
+			>
+			       100% for all infringements 
+  
+					 
+		 
+		
+		
+				
+		
+									class="row2"
+			>
+	
+		
+												class = "left"
+			>
+			       RBS (three infringements) 
+  
+					 
+												class = "left"
+			>
+			       various  
+  
+					 
+												class = "left"
+			>
+			       260,056,000 
+  
+					 
+												class = "left"
+			>
+			       25% for one infringement 
+  
+					 
+		 
+		
+		
+				
+		
+							>
+	
+		
+												class = "left"
+			>
+			       Deutsche Bank (two infringements) 
+  
+					 
+												class = "left"
+			>
+			       various 
+  
+					 
+												class = "left"
+			>
+			       259,499,000 
+  
+					 
+												class = "left"
+			>
+			       35%, 30% 
+  
+					 
+		 
+		
+		
+				
+		
+									class="row2"
+			>
+	
+		
+												class = "left"
+			>
+			       JP Morgan (one infringement) 
+  
+					 
+												class = "left"
+			>
+			       one month 
+  
+					 
+												class = "left"
+			>
+			       79,897,000 
+  
+					 
+												class = "left"
+			>
+			
+					 
+		 
+		
+		
+				
+		
+							>
+	
+		
+												class = "left"
+			>
+			       Citigroup (three infringements) 
+  
+					 
+												class = "left"
+			>
+			       various 
+  
+					 
+												class = "left"
+			>
+			       70,020,000 
+  
+					 
+												class = "left"
+			>
+			       35%, 100%, 40% 
+  
+					 
+		 
+		
+		
+				
+		
+									class="row2"
+			>
+	
+		
+												class = "left"
+			>
+			       RP Martin (one infringement) 
+  
+					 
+												class = "left"
+			>
+			       one month 
+  
+					 
+												class = "left"
+			>
+			       247,000 
+  
+					 
+												class = "left"
+			>
+			       25% 
+  
+					 
+		 
+
+
+       *UBS received full immunity for revealing the existence of the cartels. Citigroup received full immunity for one infringement and avoided a 55m-euro fine 
+         Source: Europa 
+  
+
+
+
+
+
+
+
+
+
+	 
+			 
+			 
+			 
+			 
+			 
+			 
+	 
+
+		
+		
+				
+						
+						
+		 
+	
+													class="heading"
+						>
+	
+		
+										colspan="6"
+					class = "left"
+			>
+			 UK and US financial regulatory fines
+							 
+					 
+		 
+		
+		
+				
+		
+													class="colheading"
+						>
+	
+		
+												class = "left"
+			>
+			
+					 
+												class = "left"
+			>
+			2008
+					 
+												class = "left"
+			>
+			2009
+					 
+												class = "left"
+			>
+			2010
+					 
+												class = "left"
+			>
+			2011
+					 
+												class = "left"
+			>
+			2012
+					 
+		 
+		
+		
+				
+						
+					 
+						
+						
+		 
+	
+							>
+	
+		
+										colspan="6"
+					class = "left"
+			>
+			       * Includes repayments of monies gained by illegal or unethical practices 
+  
+					 
+		 
+		
+		
+				
+						
+					 
+						
+						
+		 
+	
+							>
+	
+		
+												class = "left"
+			>
+			       FSA/FCA 
+  
+					 
+												class = "left"
+			>
+			       £22.7m 
+  
+					 
+												class = "left"
+			>
+			       £35m 
+  
+					 
+												class = "left"
+			>
+			       £89.1m 
+  
+					 
+												class = "left"
+			>
+			       £66.1m 
+  
+					 
+												class = "left"
+			>
+			       £311.6m 
+  
+					 
+		 
+		
+		
+				
+		
+									class="row2"
+			>
+	
+		
+												class = "left"
+			>
+			       SEC 
+  
+					 
+												class = "left"
+			>
+			       $256m 
+  
+					 
+												class = "left"
+			>
+			       $345m 
+  
+					 
+												class = "left"
+			>
+			       $1030m 
+  
+					 
+												class = "left"
+			>
+			       $928m 
+  
+					 
+												class = "left"
+			>
+			       $1021m 
+  
+					 
+		 
+		
+		
+				
+		
+							>
+	
+		
+												class = "left"
+			>
+			       FINRA 
+  
+					 
+												class = "left"
+			>
+			       $26.9m 
+  
+					 
+												class = "left"
+			>
+			       $49.6m 
+  
+					 
+												class = "left"
+			>
+			       $42.5m 
+  
+					 
+												class = "left"
+			>
+			       $73.7m 
+  
+					 
+												class = "left"
+			>
+			       $68m 
+  
+					 
+		 
+		
+		
+				
+		
+									class="row2"
+			>
+	
+		
+												class = "left"
+			>
+			       CFTC 
+  
+					 
+												class = "left"
+			>
+			       $630m* 
+  
+					 
+												class = "left"
+			>
+			       $280m* 
+  
+					 
+												class = "left"
+			>
+			       $200m* 
+  
+					 
+												class = "left"
+			>
+			       $290m 
+  
+					 
+												class = "left"
+			>
+			       $475m 
+  
+					 
+		 
+		
+		
+				
+		
+							>
+	
+		
+												class = "left"
+			>
+			       CFPB 
+  
+					 
+												class = "left"
+			>
+			       n/a 
+  
+					 
+												class = "left"
+			>
+			       n/a 
+  
+					 
+												class = "left"
+			>
+			       n/a 
+  
+					 
+												class = "left"
+			>
+			       n/a 
+  
+					 
+												class = "left"
+			>
+			       $53.1m 
+  
+					 
+		 
+
+
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25215560#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

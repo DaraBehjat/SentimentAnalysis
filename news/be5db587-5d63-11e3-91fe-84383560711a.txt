@@ -1,0 +1,182 @@
+
+
+THOMSON REUTERS , Diary of UK and Irish Corporate events 
+    
+    For full list of companies reporting each day click on First Financial Holdings
+Inc
+    For a full list of all Western European Corp events, click on 
+    For a full list of major european corp events with forecasts, click on 
+      Iberdrola USA Inc Farmers National Bancorp
+    
+   --- -----    ----   ---------------------------          ----------    ----------
+       DATE     GMT    COMPANY NAME                         EVENT         RIC 
+   --- -----    ----   ---------------------------          ----------    ----------
+       05/Dec          AER LINGUS GROUP PLC                 TRAFFIC       
+       05/Dec  BMO     A.G.BARR PLC                         TRADING       
+       05/Dec  15:00   BAOBAB RESOURCES PLC                 AGM           
+       05/Dec  10:00   CARETECH HOLDINGS PLC                ANALYST       
+       05/Dec  BMO     CARETECH HOLDINGS PLC                PRELIM        
+       05/Dec  11:00   CVS GROUP PLC                        AGM           
+       05/Dec  12:00   DOLPHIN CAPITAL INVESTORS LTD        CONFCALL      
+       05/Dec  BMO     DOLPHIN CAPITAL INVESTORS LTD        TRADING       
+       05/Dec  11:30   EGDON RESOURCES PLC                  AGM           
+       05/Dec          EASYJET PLC                          TRAFFIC       
+       05/Dec  11:00   GOLDPLAT PLC                         AGM           
+       05/Dec          MULBERRY GROUP PLC                   H1            
+       05/Dec  BMO     OMG PLC                              PRELIM        
+       05/Dec  14:30   PETROFAC LTD                         Capital Market 
+       05/Dec  BMO     DS SMITH PLC                         H1            
+       05/Dec          S  PLC                              Q3 TRADE      
+       05/Dec          UNILEVER PLC                         INVESTOR      
+       -----   ----    ---------------------------          ----------    ----------
+       06/Dec  11:00   ASSOCIATED BRITISH FOODS PLC         AGM           
+       06/Dec          AIR PARTNER PLC                      AGM           
+       06/Dec  BMO     AIR PARTNER PLC                      Q1 TRADE      
+       06/Dec          BERKELEY GROUP HOLDINGS PLC          H1            
+       06/Dec  12:00   ISG PLC                              AGM           
+       06/Dec  12:00   JAMES HALSTEAD PLC                   AGM           
+       06/Dec          MEDICX FUND LTD                      PRELIM        
+       06/Dec  11:00   SHORE CAPITAL GROUP LTD              MEET          
+       06/Dec          STHREE PLC                           TRADING       
+       -----   ----    ---------------------------          ----------    ----------
+       09/Dec          ANITE PLC                            ANALYST       
+       09/Dec          ANITE PLC                            H1            
+       09/Dec  11:00   ALTERNATIVE NETWORKS PLC             ANALYST       
+       09/Dec          ALTERNATIVE NETWORKS PLC             PRELIM        
+       09/Dec  BMO     APC TECHNOLOGY GROUP PLC             PRELIM        
+       09/Dec  10:30   CONROY GOLD AND NATURAL RESOURCES    AGM           
+       09/Dec  BMO     JELF GROUP PLC                       PRELIM        
+       09/Dec          KARELIAN DIAMOND RESOURCES PLC       AGM           
+       -----   ----    ---------------------------          ----------    ----------
+       10/Dec  12:30   ANGLO AMERICAN PLC                   INVESTOR      
+       10/Dec          ASHTEAD GROUP PLC                    Q2            
+       10/Dec  10:00   BILLING SERVICES GROUP LTD           AGM           
+       10/Dec          CARPETRIGHT PLC                      H1            
+       10/Dec          DEBENHAMS PLC                        S/HOLDERS     
+       10/Dec          IOMART GROUP PLC                     H1            
+       10/Dec          LITEBULB GROUP LTD                   PRELIM        
+       10/Dec  BMO     PHOTO-ME INTERNATIONAL PLC           H1            
+       10/Dec          PRUDENTIAL PLC                       INVESTOR      
+       10/Dec  11:00   TRISTEL PLC                          AGM           
+       10/Dec  BMO     TUI TRAVEL PLC                       PRELIM        
+       10/Dec  09:15   TUI TRAVEL PLC                       ANALYST       
+       10/Dec  10:00   UTILITYWISE PLC                      AGM           
+       10/Dec          VICTREX PLC                          PRELIM        
+       10/Dec          WHITBREAD PLC                        TRADING       
+       10/Dec  BMO     ZYTRONIC PLC                         PRELIM        
+       10/Dec  09:30   ZYTRONIC PLC                         ANALYST       
+       -----   ----    ---------------------------          ----------    ----------
+       11/Dec  BMO     BEGBIES TRAYNOR GROUP PLC            H1            
+       11/Dec  07:00   CARILLION PLC                        Q4 TRADE      
+       11/Dec          HEATHROW AIRPORT HOLDINGS LTD        TRAFFIC       
+       11/Dec  12:00   INTERNATIONAL BIOTECHNOLOGY TRUST    AGM           
+       11/Dec  20:45   INDIGOVISION GROUP PLC               INVESTOR      
+       11/Dec  BMO     IMAGINATION TECHNOLOGIES GROUP PLC   H1            
+       11/Dec  09:30   IMAGINATION TECHNOLOGIES GROUP PLC   ANALYST       
+       11/Dec          PZ CUSSONS PLC                       TRADING       
+       11/Dec  09:30   RIO TINTO PLC                        INVESTOR      
+       11/Dec  10:00   SAREUM HOLDINGS PLC                  AGM           
+       11/Dec  BMO     STAGECOACH GROUP PLC                 H1            
+       11/Dec          SENIOR PLC                           TRADING       
+       -----   ----    ---------------------------          ----------    ----------
+       12/Dec          DOMINO PRINTING SCIENCES PLC         PRELIM        
+       12/Dec  11:30   FIDELITY SPECIAL VALUES PLC          AGM           
+       12/Dec          GO-AHEAD GROUP PLC                   TRADING       
+       12/Dec          MOSS BROS GROUP PLC                  TRADING       
+       12/Dec  11:30   NORTHERN VENTURE TRUST PLC           AGM           
+       12/Dec          SUPERGROUP PLC                       H1            
+       12/Dec          SPORTS DIRECT INTERNATIONAL PLC      H1            
+   *   12/Dec  BMO     TERRACE HILL GROUP PLC               PRELIM        
+       12/Dec          JOHN WOOD GROUP PLC                  TRADING       
+       12/Dec          WHITBREAD PLC                        INVESTOR      
+       -----   ----    ---------------------------          ----------    ----------
+       13/Dec  12:00   BELLWAY PLC                          AGM           
+       13/Dec          BELLWAY PLC                          TRADING       
+       13/Dec          DOMINO'S PIZZA GROUP PLC             TRADING       
+       13/Dec  11:00   EARTHPORT PLC                        AGM           
+       13/Dec  11:30   M J GLEESON GROUP PLC                AGM           
+       -----   ----    ---------------------------          ----------    ----------
+       16/Dec          AGGREKO PLC                          TRADING       
+       16/Dec          COHORT PLC                           H1            
+       16/Dec          F  GLOBAL SMALLER COMPANIES PLC     H1            
+   *   16/Dec  BMO     GCP INFRASTRUCTURE INVESTMENTS LTD   PRELIM        
+       16/Dec  10:30   OPHIR ENERGY PLC                     MEET          
+       16/Dec  09:00   PARKMEAD GROUP PLC                   AGM           
+       -----   ----    ---------------------------          ----------    ----------
+       17/Dec  12:30   BRITISH ASSETS TRUST PLC             ANALYST       
+       17/Dec  12:00   CIRCLE OIL PLC                       EGM           
+       17/Dec          DIXONS RETAIL PLC                    H1            
+       17/Dec          EDINBURGH DRAGON TRUST PLC           AGM           
+       17/Dec          NATIONAL EXPRESS GROUP PLC           TRADING       
+       17/Dec  11:00   PHYSIOMICS PLC                       AGM           
+       17/Dec  06:15   SMITHS GROUP PLC                     INVESTOR      
+       17/Dec  09:00   TANFIELD GROUP PLC                   S/HOLDERS     
+       17/Dec  15:00   VISLINK PLC                          MEET          
+       17/Dec  15:30   XENETIC BIOSCIENCES PLC              MEET          
+       -----   ----    ---------------------------          ----------    ----------
+       18/Dec          DARTY PLC                            H1            
+       18/Dec  11:00   EPISTEM HOLDINGS PLC                 AGM           
+       18/Dec  09:30   EURASIAN NATURAL RESOURCES CORP      MEET          
+       18/Dec  12:00   HENDERSON FAR EAST INCOME LTD        AGM           
+       18/Dec  10:30   NANOCO GROUP PLC                     AGM           
+       -----   ----    ---------------------------          ----------    ----------
+       19/Dec  00:00   BRITISH EMPIRE SECURITIES GENERAL    AGM           
+       19/Dec  10:30   CORAC GROUP PLC                      MEET          
+       19/Dec  14:30   CHRISTIAN DIOR SA                    MEET          
+       19/Dec          GOODWIN PLC                          H1            
+       19/Dec  11:00   HENDERSON FAR EAST INCOME LTD        S/HOLDERS     
+       19/Dec  14:30   SCHRODER INCOME GROWTH FUND PLC      AGM           
+       -----   ----    ---------------------------          ----------    ----------
+       20/Dec  11:00   BOWLEVEN PLC                         S/HOLDERS     
+       20/Dec          BERENDSEN PLC                        TRADING       
+       20/Dec          HANGAR 8 PLC                         AGM           
+       20/Dec  14:00   JPMORGAN JAPANESE INVESTMENT TRUST   AGM           
+       20/Dec  09:00   KEDCO PLC                            AGM           
+       20/Dec  10:30   MINING INVESTMENTS RESOURCES PLC     AGM           
+       -----   ----    ---------------------------          ----------    ----------
+       23/Dec  10:00   BERKELEY MINERAL RESOURCES PLC       AGM           
+       23/Dec  10:00   RAVEN RUSSIA LTD                     MEET          
+       23/Dec          STHREE PLC                           ESM           
+       -----   ----    ---------------------------          ----------    ----------
+       27/Dec          POLYUS GOLD INTERNATIONAL LTD        ESM           
+       -----   ----    ---------------------------          ----------    ----------
+   *   30/Dec  09:30   SEADRILL PARTNERS LLC                S/HOLDERS     
+       -----   ----    ---------------------------          ----------    ----------
+       31/Dec  BMO     INDEPENDENT RESOURCES PLC            Second H1     
+       31/Dec          WEST AFRICAN MINERALS CORP           H1            
+       -----   ----    ---------------------------          ----------    ----------
+       03/Jan  BMO     NEXT PLC                             TRADING       
+       -----   ----    ---------------------------          ----------    ----------
+
+
+
+       Event types: 
+                    H1 - First Half                YR / = Full Year
+                    Q1/Q2/Q3/Q4 = Quarters         AGM  = Annual General Meeting
+                    SGM = Special General Meeting  MEET = General Meeting
+                    TRADING = Trading statement    NEW BIZ = New Business
+                    CONFCALL = Conference Call     TRAFFIC = Traffic Figures 
+                    NEWSCONF = News Conference     INVSCONF = Investor Conference 
+                    BOARD = Board Meeting          S/HOLDERS = Shareholders Meeting
+                    EGM = Extraordinary General Meeting
+                    ESM = Extraordinary    Shareholders Meeting
+                    KPIs = Key Performance Indicators
+                    ANALYST = Analyst Meeting / Presentation / Briefing
+                    INVESTOR = Investor Seminar/ Investor Day / Investor Forum 
+                    W/HOLDERS = Warrant Holder Meeting
+
+       All times are listed in GMT, or AMC - 'After U.S. Market Close'- or BMO 'Before 
+      U.S.Market Opens'- BMO ,or DBH- During U.S.business hours, or blank if not known.
+   
+      All releases normally expected at around 0600 GMT, unless otherwise stated.
+    
+    --------------------------------------------------------------------------------  
+
+    If you have any questions or comments on the diary, please contact:
+    diaries@thomsonreuters.com.
+
+    --------------------------------------------------------------------------------- 
+
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/PbLV69IevQs/story01.htm

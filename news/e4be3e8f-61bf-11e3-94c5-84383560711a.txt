@@ -1,0 +1,260 @@
+	 Carney warns on housing as survey shows prices to rise 
+
+     
+         
+ 
+    
+    	
+	 
+    
+    
+		
+         
+   
+
+     Mark Carney said he is concerned about a  potential  UK housing market bubble 
+   
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Your Home 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Where can I afford to live? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Help to Buy scheme 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 One city s house price surge 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Buying your first property  
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       Bank of England governor Mark Carney has said he is concerned about the  potential  for a UK housing market bubble, but will tighten lending requirements if necessary. 
+         There is a history in the housing market of moving from stall speed to warp speed,  Mr Carney said.  We want to avoid that. 
+         Meanwhile, a survey suggested house prices will continue  surging ahead . 
+         A separate forecast said borrowing would rise. 
+         Mr Carney was speaking at the Economic Club of New York. 
+         His speech came as the Royal Institution of Chartered Surveyors (Rics) found that more surveyors expected prices to rise than at any time in the last 14 years. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25316360-91504');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+       A separate forecast by mortgage lenders predicted that borrowing would keep increasing in 2014. 
+         But the Council of Mortgage Lenders (CML) added an  unbridled  housing boom was  unlikely . 
+         The last time such a clear majority of surveyors expected price rises was in September 1999. 
+   Short of boom years 
+	       It s no secret that the housing market is on the way up and prices are surging ahead in many parts of the country,  said Simon Rubinsohn, chief economist for Rics. 
+   
+	 Continue reading the main story 		 
+	 Start Quote 
+Prudential tinkering, to prevent a consumer-led economic revival collapsing rapidly into financial mayhem, may well be smart and imaginative. But... 
+End Quote 
+
+
+			 
+		 
+	 Robert Peston 	 Business editor 
+	 
+
+	 
+	
+	 
+		 
+			 Read more from Robert 
+		 
+	        Meanwhile, the CML is predicting that gross mortgage lending will rise from £170bn in 2013, to £195bn next year, reaching £206bn in 2015. 
+         In its forecast a year ago, the CML had predicted that mortgage lending would actually fall next year.    
+         But the forecasts suggest that lending will still fall a long way short of the boom years. 
+         In 2007, gross lending amounted to £363bn. 
+         In the years after 2015, the CML said it believes that housing market activity  may well ease back of its own accord . 
+         Analysts say this might happen if the Bank of England raises interest rates, since mortgages would become more expensive. 
+   'Households will cope' 
+	       The Office for Budget Responsibility (OBR), an independent watchdog, has said it expects a rate rise to happen sometime in 2015, when it is anticipated that UK unemployment will fall to 7%. 
+   
+	 Continue reading the main story 		 BBC housing calculator  
+		 
+	 
+   
+
+   
+
+	 
+	 
+      Lets you see where you can afford to live - and if it would it be cheaper to rent or buy 
+      Enter how many bedrooms, which end of the market and how much you want to pay each month 
+      As you move the payment slider, parts of the UK light up to show you where you can afford 
+      Based on pricing and rental data from residential property analysts Hometrack 
+   
+	 
+		 
+			 BBC housing calculator 
+		 
+	        The Bank of England has said it would not consider raising interest rates until the unemployment rate hits this key target. 
+         The CML has said it believes most borrowers will be able to handle any such increase. 
+         We think there are good grounds to be optimistic that the vast majority of households will cope with a slow but certain transition to more normal interest rates,  said Bob Pannell, the CML s chief economist. 
+         Rics said the decision to end the Bank of England s support for mortgages under a scheme for banks called Funding for Lending (FLS) would also have an impact in slowing the market down. 
+         But it believes mortgages are likely to remain relatively cheap for a while to come. 
+         The improvement in wholesale and retail funding markets may mean the impact on mortgages is relatively limited,  said Mr Rubinsohn. 
+         The OBR expects house prices to rise by 5.2% in 2014, and 7.2% in 2015.  
+  
+
+	 
+  	
+     
+	
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25306584#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

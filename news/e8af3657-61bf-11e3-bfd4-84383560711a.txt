@@ -1,0 +1,561 @@
+	 Formula 1 to award double points for final race from 2014 
+
+     
+         
+ 
+								
+									 
+																											 
+							                                                                                    														 
+																			 
+							 By Andrew Benson 
+							 Chief F1 writer 
+						 
+					 
+				
+				
+				                    
+			      	 
+                    
+							 
+
+			    
+                               Formula 1 is to award double points at the final race of the season from 2014 in an attempt to heighten interest in the World Championship. 
+
+  
+               The plan is one of 
+    
+a number of changes next season,  
+
+     along with the adoption of a cost cap - details of which are still to be finalised - from 2015.
+
+  
+     
+	 
+				 Does the final race matter? 
+				 
+		
+		 
+		               If the new system had been in place for the last two decades, three world titles would have been won by a driver other than that year s eventual world champion.
+
+  
+               In 2012, Fernando Alonso would have beaten Sebastian Vettel; in 2008, Felipe Massa would have denied Lewis Hamilton; and in 2003 Kimi Raikkonen would have edged out Michael Schumacher.
+
+  
+
+		 
+			 
+
+               Drivers will also choose a race number for the duration of their career.
+
+  
+               Governing body the FIA also announced the adoption of a new five-second penalty for minor infringements.
+
+  
+               But it will be the introduction of double points and a cost cap that will provoke most interest.
+
+  
+               The decision to award double points, counting towards the drivers  and constructors  championships, at the final race of the season was made  to maximise focus on the championship until the end of the campaign , according to an FIA statement.
+
+  
+     
+	 
+				 Analysis 
+				 
+		     
+		 
+		                        			 
+			 Andrew Benson 
+		 Chief F1 writer 
+
+
+
+		 
+		               It will surprise no-one that the original idea to award double points at the final race of the season came from Bernie Ecclestone. F1 s impresario is close to Sebastian Vettel, but is more than intelligent enough to realise that, in an era dominated by the German and his Red Bull team, a bit of extra pizazz to keep interest going for longer each year might come in handy.
+
+  
+               Reaction on social networks has by and large been negative. Purists, for example, object to the idea that a win at soulless Abu Dhabi next year will be worth double one at a classic track such as Spa, Suzuka or Monaco.
+
+  
+               Inside F1 teams, though, senior figures are more phlegmatic. They are not that worried about the purists - they reckon they will watch anyway. And if this new idea, gimmicky though it is, attracts more casual fans, all the better.
+
+  
+               In the context of the current state of F1, this and other changes such as giving drivers numbers for their careers are largely irrelevant fripperies. With so many teams struggling with cash-flow, the most important revelation is that a cap on budgets has been agreed  in principle .
+
+  
+               In terms of keeping the grid close together, and even keeping some teams alive - the key issues in F1 right now - that could be a game-changer.
+
+  
+
+		 
+			 
+
+               The move reduces the possibility of a championship being settled before the final race by increasing the number of points available to a driver from 25 to 50.
+
+  
+               Two of the last four seasons have been settled with a number of races still remaining - Red Bull s Sebastian Vettel won with five races to go in 2011 and with four left in 2013.
+
+  
+               If the new system had been in place for the last two decades, three world titles would have been won by a driver other than that year s eventual world champion.
+
+  
+               In 2012, Fernando Alonso would have beaten Sebastian Vettel; in 2008, Felipe Massa would have denied Lewis Hamilton; and in 2003 Kimi Raikkonen would have edged out Michael Schumacher.
+
+  
+               Teams have been working to reduce costs for a number of years as a result of financial circumstances caused by the global economic slow-down.
+
+  
+               A resource-restriction agreement was introduced in 2011 but it has been fraught with difficulties and attempts to introduce a cap on total spending by each team have so far been rejected, primarily by Red Bull.
+
+  
+               But the idea was approved at a meeting on Monday of F1 s strategy group, a rules think-tank composed of the FIA, six of the 11 teams and commercial boss Bernie Ecclestone, who represents the commercial rights holder.
+
+  
+               An FIA statement said:  The principle of a global cost cap has been adopted. The limit will be applied from January 2015.
+
+  
+                A working group will be established within the coming days comprising the FIA, representatives of the commercial rights holder and team representatives.
+
+  
+                The objective of the working group will be to have regulations approved by the end of June 2014. 
+
+  
+               The idea behind allocating numbers to drivers throughout their careers is to enhance their ability to exploit the commercial potential of merchandise.
+
+  
+     
+
+
+ 
+
+
+
+
+
+
+         
+                                    
+        		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+            
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+		             
+                
+                     
+             
+            
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-20489820-56350');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+                    
+             
+              
+         
+          
+    	
+    		 
+       
+    		
+                 
+         Sebastian Vettel wins 2012 F1 title at thrilling final race in Brazil 
+         
+     
+
+require(
+    ["sportui/empswitch"], function(empswitch) {
+        empswitch.init(); 
+    }
+);
+
+
+
+
+               The statement added that  number one will still be reserved for the current world champion, should he choose to use it. 
+
+  
+               It added:  If more than one driver chooses the same number, priority will be given to the driver who finished higher in the previous year s championship. 
+
+  
+               The FIA also approved an extra tyre test in Bahrain on 17-19 December  on safety grounds  to allow supplier Pirelli to assess plans for next season, when there are 
+    
+swingeing rule changes affecting the cars and the engines.  
+
+
+  
+               Red Bull, Mercedes, Ferrari, McLaren, Force India and Toro Rosso will all take part.
+
+  
+
+			
+			                
+				 
+                
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Teams reject forced pit-stop plan 
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 10 Dec 2013 
+		
+			 Formula 1 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        All aboard the  power train  - 2014 rules explained
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 03 Dec 2013 
+		
+			 Formula 1 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Ferrari expect strong changes to FIA
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 27 Nov 2013 
+		
+			 Formula 1 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Todt re-elected president of FIA
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 06 Dec 2013 
+		
+			 Formula 1 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        New Jersey, Mexico and Korea dropped
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 04 Dec 2013 
+		
+			 Formula 1 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Bahrain to become night race in 2014
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 29 Nov 2013 
+		
+			 Formula 1 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        New Jersey on 2014 F1 calendar
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 27 Sep 2013 
+		
+			 Formula 1 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: MOTORSPORT
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+		             
+    			
+    			
+    				
+    			
+    
+    			
+    			
+    			
+    			
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+  
+
+    
+
+
+
+
+
+
+                                                             (function(){ gloader.load( ["glow", "1", "glow.net"], { async: true, onLoad: function(glow) { glow.ready(function() { commentsParams = { version : '2.2.52', bbc_id_env : 'id.bbc.co.uk', base_non_secure_url : 'http://www.bbc.co.uk/modules/comments/', base_secure_url : 'https://ssl.bbc.co.uk/modules/comments/', ajax_load_url : 'http://www.bbc.co.uk/modules/comments/index/getcomments/', ajax_preview_url : 'https://ssl.bbc.co.uk/modules/comments/index/preview/', user_auth_url : 'http://www.bbc.co.uk/modules/comments/getauth/', translations_url : 'http://www.bbc.co.uk/modules/comments/getjstranslations/', items_per_page : 20, sort_order : 'Descending', sort_by : 'Created', filter : 'none', current_page : 1, page_count : 30, comment_count : 597, site_name : 'sportcommentsmodule', forum_id : '__CPS_25310466', title : 'Formula 1 to award double points for final race from 2014', preset : 'opinion', parent_uri : 'http://www.bbc.co.uk/sport/0/formula1/25310466', postFreq : 0, character_limit : 400, loc : 'en-GB', timezone : 'Europe/London', policy_uri : 'comment', allow_not_signed_in_commenting : '', rtl : false, textarea_height : '16px' ,logged_in : false  };  glow.net.loadScript("http://static.bbci.co.uk/modules/comments/2.2.52/javascript/comments.js", { useCache : true }); }); } } ); })();         Comments        This entry is now closed for comments        Jump to comments pagination         All Comments  597                     Order by:   Latest First   Highest Rated   Lowest Rated                                          rate this           +1              rate this           +1        Comment number  597.     Philip      46 Minutes ago        Is it April the first today? This is F1, not whacky races.            Report this comment  (Comment number 597)   Link to this  (Comment number 597)                                            rate this           0              rate this           0        Comment number  596.     Cuprar      48 Minutes ago        Somehow I cant help but feel this all Hamiltons fault            Report this comment  (Comment number 596)   Link to this  (Comment number 596)                                            rate this           +2              rate this           +2        Comment number  595.     Sokol      57 Minutes ago        When will this folly end! All the races should be awarded points equally. There are already enough changes happening next year. Let's see how these changes will unfold. This is totally unnecessary   wrong on so many levels.            Report this comment  (Comment number 595)   Link to this  (Comment number 595)                                            rate this           +1              rate this           +1        Comment number  594.     pimpmast3r      57 Minutes ago        the problem is that money is king in F1 and what the FIA want is closer racing and you are not going to get that with the difference in the budgets at the top compared to the bottom. cap what can be spent and get rid of the gimmicks like this and things will work them selves out!            Report this comment  (Comment number 594)   Link to this  (Comment number 594)                                            rate this           0              rate this           0        Comment number  593.     maff1980      57 Minutes ago        They need to reduce down force I am not an aerodynamics expert but surely they could set a max down force value at say 150 mph in a wind tunnel? Also agree with what other people are saying get rid of auto gearboxes, KERS, DRS, launch control, anti-stall, team radio, and so on! Plus make it so they can race flat out all race without exploding or running out of fuel!            Report this comment  (Comment number 593)   Link to this  (Comment number 593)                           Comments 5 of 597         Show more                 Add your comment               Sign in  with your BBC iD,  or  Register  to comment and rate comments                                                  All posts are  reactively-moderated   and must obey the  house rules .                     
+
+
+
+            
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/formula1/25310466

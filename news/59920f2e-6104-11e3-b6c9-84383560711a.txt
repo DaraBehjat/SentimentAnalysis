@@ -1,0 +1,165 @@
+	 Duncan Smith says Universal Credit  not a debacle 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Mr Duncan Smith told MPs:  Within budget, we are delivering a Universal Credit solution 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Universal Credit 2017 deadline slips 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Universal credit 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Universal credit - an IT fiasco? 
+
+		 
+
+
+														 
+	 
+                       Work and Pensions Secretary Iain Duncan Smith has rejected claims his flagship welfare policy is a  debacle . 
+         Mr Duncan Smith is being questioned by MPs amid fears the Universal Credit system will miss key targets and concerns over the IT system being used. 
+         He said £40.1m had been written off on software and computing costs in implementing the new system. 
+         Labour claims only a fraction of those expected to be switched to the new benefit will transfer over on schedule. 
+         Downing Street has said it has confidence in the minister s handling of the troubled project. 
+         Universal Credit will merge six working-age benefits - income-based jobseeker s allowance, income-related employment and support allowance, income support, child tax credit, working tax credit and housing benefit - into a single payment in a far-reaching change designed to encourage work incentives and to reduce fraud. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25298498-7509');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+       The project has been beset by problems since it began in 2010 and Mr Duncan Smith acknowledged on Thursday that Universal Credit would not be paid to about 700,000 people until after a planned 2017 deadline. 
+         Labour has claimed the £2bn project is  in tatters , citing figures in last week s Autumn Statement that only a handful of people will be claiming Universal Credit next year and figures for 2015-16 will be about 400,000 compared with initial expectations of 4.5 million. 
+         But Mr Duncan Smith told the Commons Work and Pensions Committee:  There s no debacle on Universal Credit. 
+         He added that  within budget, we are delivering a Universal Credit solution , saying:  We could not do it unless the equipment we were building was up and working. 
+         Earlier, he told BBC Radio 4 s Today programme that the project - which he insists will deliver £38bn of long-term economic benefits - was on track and the  vast, vast majority  would be claiming the benefit by 2017. 
+         Currently about 2,000 people are claiming the single benefit in a series of  pathfinder  pilots. 
+         The project was  reset  earlier this year following a review by infrastructure and IT experts from the Cabinet Office and amid criticism of poor leadership by civil servants at the Department for Work and Pensions (DWP). 
+   'Shrouded in secrecy' 
+	       The DWP is expected to confirm how much of the initial investment in IT equipment is likely to be written off - meaning that it will have no long-term commercial value. 
+         On Today, Mr Duncan Smith insisted the IT system being used to roll out Universal Credit  seems to be absolutely fine  following recent tests and that it was right to get the system fully operational before pressing ahead. 
+         The Government Digital Service would oversee testing of the system, he added, to see how it  behaves  for different types of claimants before large numbers of people were migrated onto the new benefit.  
+         But, For Labour, shadow work and pensions secretary Rachel Reeves said the project was  shrouded in secrecy  and there was little evidence that it would achieve its long-term objectives. 
+         This is supposed to be the flagship policy of the government to make sure work pays for more people,  she told the BBC News Channel. 
+         One campaign group, the Joseph Rowntree Trust, said abandoning the project now would be disastrous as it was  the only opportunity we have to reform a failing and overly complex system . 
+         And the Institute for Government said problems with the project highlighted a deeper  muddle of accountability  in Whitehall, arguing that senior civil servants should have more willingness to express concerns and challenge the direction of policy while also being subject to greater scrutiny by Parliament. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/uk-politics-25295561#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

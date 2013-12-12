@@ -1,0 +1,230 @@
+	 US fast-food workers stage nationwide strike 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Protestors are calling for a federal minimum wage rise to $15 (£9) per hour, up from the current $7.25 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Fast food workers in pay protest  Watch 
+
+		 
+
+
+											
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 US city considers landmark wage law  Watch 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 One US town s battle over the minimum wage 
+
+		 
+
+
+								 
+	 
+                       Fast-food restaurant workers across the US are staging a 24-hour strike in protest against low wages. 
+         Walkouts were reported in New York, Chicago, Washington DC, and also Detroit, Michigan; Raleigh, North Carolina; and Pittsburgh, Pennsylvania. 
+         Organisers hope workers in as many as 100 cities will participate in what is the latest in a series of such actions.  
+         Unions want a $15-an-hour (£9.19) federal minimum wage. The current one, set in 2009, is $7.25 per hour.  
+         President Barack Obama, who has backed a Senate measure to increase the minimum to $10.10, specifically mentioned fast-food workers  who work their tails off and are still living at or barely above poverty , in an economic policy speech on Wednesday. 
+   'We can't survive' 
+	       His Democratic allies, who control the upper chamber of Congress, have said a vote on the matter could be held this month.  
+         But even if it passes the Senate, it is not clear if it would be approved by the Republican-led House of Representatives. 
+   
+   
+
+   
+       Nearly 100 protestors gathered around a Wendy s restaurant in Brooklyn, New York, at midday, carrying signs saying  stick together for $15/hr . 
+         Shaquena Davis told the BBC she worked at the fast-food restaurant, making $7.25.  
+         I got kicked out of school because I couldn t pay the bill,  she said.  I m living in a one-bedroom apartment with five people. 
+         Kachelle Krump, 23, works at a Burger King in the area. She told the BBC she works 16 to 20 hours a week and would like more hours, but that management had been unhelpful. 
+         I have a child who is seven years old - she s in school, she needs things,  said Ms Krump. 
+   
+	 Continue reading the main story 		 
+	 Start Quote 
+President Obama is the most powerful man in the world, according to one cliche, but he can't get anything he wants done 
+End Quote 
+
+
+			 
+		 
+	 Mark Mardell 	 North America editor 
+	 
+
+	 
+	
+	 
+		 
+			 Read more from Mark 
+		 
+	        Of her employer, Burger King, she said:  It s a billion dollar company. Share a little. 
+         In Detroit, about 50 demonstrators turned out for an early morning rally in front of a McDonald s, including a handful of employees who walked off the job. However, the restaurant stayed open. 
+         Another 40 demonstrators rallied at a Burger King in Atlanta.  
+         The American fast-food industry has come under increasing scrutiny because part-time jobs, including retail and food positions, have made up most of the job growth since the recession.  
+         It is not yet clear how many fast-food restaurants will be affected by Thursday s industrial action. 
+         The workers  last nationwide strike, in August, was patchy, with some restaurants appearing to function normally while others were unable to do business. 
+         The National Restaurant Association, an industry lobbying group, called the strikes a  campaign engineered by national labour groups , claiming the vast majority of participants were in fact union protestors. 
+         The association said firms already face  great uncertainty . 
+         Calls to double the minimum wage only intensify the challenges faced by job creators. 
+   
+   
+
+     Protesters held a midday strike outside a Wendy s restaurant in Brooklyn 
+   
+
+   
+
+     Protesters picketed outside a Chicago, Illinois, McDonald s on Thursday 
+   
+
+   
+
+     Dozens of people protested outside a New York City McDonald s  
+   
+
+   
+
+     Demonstrators at the Times Square McDonald s 
+   
+       This week, a measure in the tiny airport town of SeaTac, Washington state, to raise the minimum wage to $15 per hour  passed by 77 votes . 
+         As a result, some 6,300 workers at SeaTac s airport, which primarily serves the region s largest city, Seattle, will be paid the highest minimum wage in the nation. 
+         Saba Belachew is one of those workers. She told the BBC:  It will really change my life. I don t have to work two jobs. [I can] support my family, go back to school. I m so excited. 
+         However, Alaska Airlines, the airport s biggest airline, has sued to block the measure. 
+         Regardless, union organisers in SeaTac said they were hoping the success of their vote would inspire workers protesting around the nation. 
+         What we need is a social movement in this country that says enough is enough,  said David Rolf, the president of the local Service Employees International Union. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-24817210-38040');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","24817210"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 SeaTac in Washington state is the first US city to pass a  living wage 
+		 
+    
+		
+
+
+
+
+
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/world-us-canada-25239433#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

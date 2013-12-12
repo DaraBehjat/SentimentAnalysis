@@ -1,0 +1,494 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/11/2013 @ 10:59AM
+             | 361 views
+     
+		 Big-Data Visualization Is Worth A Thousand Spreadsheets 
+
+
+
+
+             
+         
+
+         
+             
+	                    
+	                 	 
+	                     
+	                     
+	                     
+							 Teresa Meek , NetApp 
+	                     
+             
+         
+         
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                    8 comments, 5 called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+Data-visualization companies are creating buzz with visual representations that let you “see” your data and manipulate it—instead of reading columns of numbers.  
+Big data is a big plus: You can collect, organize, and store vastly more information than before. Data about your customers, products, suppliers, sales, and finances—everything that makes your company run—can be quantified, stored in one place, and analyzed.  
+But analyzed how?  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Once you have all this information, how do you present it in a way that’s not overwhelming? Many companies are  X -ing out of their spreadsheets and PowerPoint presentations and turning instead to data visualization.  
+What Is Data Visualization?   It’s simply representing numbers in pictures, charts or maps, so that viewers can see a trend at a glance. And if they change a variable, the picture also changes—at will.  
+“People are drowning in data—on the Web, on spreadsheets, and in databases on tablets and devices,” says Elissa Fink, CMO of Tableau Software, a Seattle data-visualization company that went public in May. “We try to help people by seeing it in real time and interacting with it.”  
+“The only way people can understand data is to visualize it. That’s how our brain works,” says Roman Stanek founder and CEO of GoodData, another company that provides data-visualization services.  
+The companies take data provided by client organizations and create a visual “story” with color and design. Some store the data themselves, others allow customers to store it on their own servers if they prefer. Either way, the pictures can be accessed, shared, and manipulated by anyone the client grants access to.  
+How is that so different from a PowerPoint chart?  
+The chart is static, Fink says. If you look at a chart that shows sales are up in the west, you may want to know why. “Guess what—the chart didn’t think of asking that question, so you’re not going to know.”  
+But by interacting with the chart, you can click to add other variables and find out  which products are selling more , which sales reps sold them, and which customer segments bought them. You can click on a bar in a chart to expand it by time or by geography. You can ask and answer questions as you look, and share the results in real time with others.  
+Color Me Interested   Another big advantage: Unlike numbers, colors immediately capture your attention and focus it where it’s needed.  
+Fink became sold on data visualization before she started working in that industry. She was doing quality checking for a financial-services product, to determine whether it was ready for release. As she pored over spreadsheets, nothing was jumping out in the numbers to give her an answer. So she visualized the data, and immediately noticed one small area of red in a sea of green.  
+“I knew the data should distribute more evenly than that. Sure enough, we had a major problem with the red area,” she said.  
+Andrew Lucyszyn, director of business intelligence and data analytics at SIGMA Marketing Insights, uses Tableau’s data visualization to help his clients literally see how their marketing is doing by combining data from a variety of sources into a visual presentation.  
+For example, for the construction equipment manufacturer Ditch Witch, he combined company sales and finance data with competitor sales data from a different database into a single map. It gave the company a visual insight into how well it’s performing across different segments of their customer base in various sectors.  
+For the Henry Ford Museum in Dearborn, Michigan, he provided visualization for the effectiveness of an email marketing campaign. A chart showing return visits by those who got the messages could be broken down in a number of ways, including by life-stage—young families, older people, retirees—or location.  
+“It’s views they can manipulate in the browser, and split, subdivide or filter. It gives them a much better handle on how effectively they are doing their marketing,” Lucyszyn said.  
+He often collaborates with clients in examining and manipulating the charts and maps in real time. “I’ll say, there’s a gap in this segment. Does it mean what we both think it means? It’s much more effective than chucking a 75-page PowerPoint over a wall, then getting it bound and saved ’til the next Ice Age.”  
+Nevertheless, he still has a few clients who prefer to stick to their spreadsheets. “But nine times out of ten, the best way to present data is in a visualization approach.”  
+The Bottom Line   Big data provides business and enterprise with  more data than ever —but it can be overwhelming. Information is powerful, but only if you understand it.  
+Data visualization speaks to the human need to understand things visually. It also lets businesses interact with their data and  share it in real time . It’s no wonder more companies are starting to provide this service.  
+What’s your opinion? Do you like visual, interactive presentations, or would you rather stick with spreadsheets?  Weigh in with a comment  below, and follow  Teresa Meek  (Google+)  @Domesticus1  (Twitter)  
+Now Read This  (more from NetApp Voice )  •  The Internet Of Things: With Great Challenge Comes Huge Opportunity  •  CxO Beware: Hacker-Snipers Aiming At You Right Now  •  The Crisis Of Corporate Learning (And 3 Steps To Solve It)  •  Anonymity Will Soon Be Illegal [100 Words Into The Future]  •  Read more from our talented writers 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    		     NetApp Voice:  
+The Internet Of Things: With Great Challenge Comes Huge Opportunity
+
+
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Richi Jennings 
+	                     @NetApp 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    		     NetApp Voice:  
+CxO Beware: Hacker-Snipers Aiming At You Right Now
+
+
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Teresa Meek 
+	                     @NetApp 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    		     NetApp Voice:  
+The Crisis Of Corporate Learning (And 3 Steps To Solve It)
+
+
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     David Amerland 
+	                     @NetApp 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    		     NetApp Voice:  
+Anonymity Will Soon Be Illegal [100 Words Into The Future]
+
+
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Zoe Goodacre 
+	                     @NetApp 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/netapp/2013/12/11/big-data-visualization/

@@ -1,0 +1,74 @@
+
+
+BOSTON  Dec 3 (Reuters) - A U.S. senator has asked 20 of the
+world's biggest automakers for information on how they secure
+their vehicles from cyber attacks, in light of reports by
+security experts who say they have identified ways to hack into
+cars. 
+Edward Markey, a Democrat from Massachusetts, asked the
+companies to respond to a series of questions including how they
+test electronic components and wireless networks to make sure
+that attackers cannot gain access to onboard networks. He cited
+recent research by security experts who uncovered cyber
+vulnerabilities in cars that they said hackers might be able to
+exploit to cause them to crash. The letter, dated Monday, also asked about measures the
+carmakers take to ensure the privacy of information collected by
+automobile computer systems. "As vehicles become more integrated with wireless
+technology, there are more avenues through which a hacker could
+introduce malicious code and more avenues through which a
+driver's basic right to privacy could be compromised," Markey
+said in the letter. "These threats demonstrate the need for robust vehicle
+security policies to ensure the safety and privacy of our
+nation's drivers," he added. Recipients of the letter included BMW, Chrysler
+Group LLC, Ford Motor Co, General Motors Co
+, Mazda Motor Corp, Toyota Motor Co and
+Volkswagen AG. The Auto Alliance, an industry group whose members include
+those seven companies, released a statement on Tuesday saying
+that automakers were reviewing the letter. "Auto engineers are incorporating security solutions into
+vehicles from the first stages of design and production, and
+their security testing never stops," the group said in the
+statement. "Vehicle hardware has built-in security features that
+help protect safety critical systems, and auto control systems
+are isolated from communications-based functions like navigation
+and satellite radio." Concerns that hackers could attack cars with potentially
+lethal results have been growing for several years. A group of U.S. computer scientists startled the industry in
+2010 with research showing that viruses could take control of
+computers running car brakes, lights, locks and other systems. A
+year later the same researchers identified ways to remotely
+infect cars over Bluetooth and other wireless systems. They kept the details of their work a closely guarded
+secret, declining to identify the manufacturer of the car they
+studied. () The National Highway Traffic Safety Administration responded
+by beginning an auto cybersecurity research program. "While increased use of electronic controls and connectivity
+is enhancing transportation safety and efficiency, it brings a
+new challenge of safeguarding against potential
+vulnerabilities," the agency said in a statement on
+Tuesday. "NHTSA recognizes these new challenges but is not aware
+of any consumer incidents where any vehicle control system has
+been hacked." Researchers have recently begun going public with details
+about vulnerabilities in automobiles in a bid to pressure
+manufacturers to boost security. This past summer at the Defcon hacking conference in Las
+Vegas, security experts from the United States and Europe
+released detailed research describing cyber vulnerabilities in
+car models from at least three manufacturers. The letter from Markey cited one of those presentations in
+his letter, a study by researchers Charlie Miller and Chris
+Valasek that was funded by the Pentagon's Defense Advanced
+Research Projects Agency. The two released a 100-page White Paper detailing their
+findings, which included ways to force a Toyota Prius to  brake
+suddenly at 80 miles an hour (128 kph), jerk its steering wheel,
+or accelerate the engine. They also described a method for
+disabling the brakes of a Ford Escape traveling at very slow
+speeds, so that the car keeps moving no matter how hard the
+driver presses the pedal. Markey said he believed that automakers had played down the
+severity of its findings. Stuart McClure, chief executive of Cylance Inc and an expert
+on auto security, said that while onboard computer systems are
+vulnerable to hacking, they do not yet present much risk to the
+average driver. Such attacks are far more cumbersome to engineer
+than ones on PCs, he said. But he said that the government ought to look into how
+automakers secure data that customers provide them when
+obtaining leases and loans. "If I want to get a whole bunch of social security numbers
+and private data, I'm going to hack into their corporate servers
+and gain access to the data belonging to the millions of people
+who ever got a car from them," he said. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/xWbAV1GmAQw/story01.htm

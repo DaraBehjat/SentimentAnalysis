@@ -1,0 +1,252 @@
+         
+
+         
+
+
+         
+             Pharma  &  Healthcare 
+         
+         | 
+     
+        12/11/2013 @ 11:47AM
+             | 7,219 views
+     
+		 Obamacare Exchanges Claim 258,497 Sign-Ups In November, But No Word On How Many Are Actually Enrolled 
+
+
+
+
+             
+         
+
+         
+             
+	                    
+	                 	 
+	                     
+	                     
+	                     
+							 Avik Roy , Contributor 
+	                     
+             
+         
+         
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                    12 comments, 8 called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+
+  The U.S. Department of Health and Human Services  reported today  that Obamacare’s subsidized health insurance exchanges signed up 258,497 Americans in November. That’s about two-and-a-half times the number that they signed up in October, roughly in-line with expectations. While these numbers fall well short of the administration’s initial expectations, they do indicate that the administration is gradually resolving some of the technical issues that have bedeviled the exchanges. The issue is this: “signing up” for insurance isn’t the same thing as enrolling in, and being covered by, a health plan. And the administration isn’t releasing true enrollment numbers because their back-end infrastructure is still messed up.  
+The pace of sign-ups is increasing  
+Here’s the good news. The pace of sign-ups is increasing. In the last week of November, HHS reports that nearly 140,000 Americans “selected a marketplace plan,” which I will abbreviate as “SAMP” to distinguish from true enrollments (see below). That compares to nearly zero SAMPs in the first week of October.  
+The total number of exchange SAMPs, counting both October and November, is 364,682— 106,185 in October , and 258,497 in November. Of the 364,682, nearly two-thirds—62 percent—came from the states that have implemented their own exchanges, led by California (107,087) and New York (45,513).  
+ 
+The administration’s definition of ‘enrollment’ is misleading  
+But there’s a significant catch. What the administration is defining as “enrollment” isn’t what the private sector defines as enrollment. In the real world, you aren’t enrolled in a health plan until the insurance carrier has received your payment for the first month’s premium. The Obama administration, on the other hand, is counting as “enrolled” a person who has “selected a Marketplace plan.”  
+Why does this distinction matter? Just because you’ve selected a plan on the Obamacare website doesn’t mean that you’re enrolled. First of all, selecting a plan doesn’t mean you’re signed up for it; the exchanges have had substantial problems with the so-called 834 forms that insurers need to obtain your information. As many as a third of people who have chosen a plan may not have had their information correctly sent to insurers.  
+Second of all, even if your information has been sent over to the insurer, you aren’t enrolled until you’ve paid for the plan, and the insurer has received your payment. And a few weeks ago, one of Obamacare’s top IT officials, Henry Chao, testified before Congress that—incredibly— the administration has yet to build the system  needed to pay the insurers.  
+White House leaning on insurers to pay claims retroactively  
+In the meantime, HHS has set up a “fix” of dubious legality, in which the government pays insurers based on insurers’ own estimates of what they are owed. In addition, insurance industry sources tell me that the administration is leaning on carriers to pay for claims  retroactively , so that people who consume medical services while uninsured will not blame the administration for it.  
+For the insurers who have been cooperating with the administration and participating in the exchanges—companies like Aetna, Humana, UnitedHealth, WellPoint, and Molina—this is a slap in the face. It’s starting to look like the insurers have battered-wife syndrome: they have such a dim view of their own political standing that they feel they have no choice but to do whatever the administration tells them to do.  
+ 
+HHS discloses nothing on enrollment of healthy and young people  
+Eventually, the exchanges’ problems will get fixed. But it may take six months or more to work out all of the kinks. The most important problems with Obamacare’s exchanges have nothing to do with the website, and everything to do with the fact that the plans sold on these exchanges are larded up with costly features that most people don’t need.  
+It is the cost of Obamacare-based coverage that is discouraging healthy and young people from signing up for the plans. Tellingly, HHS has disclosed nothing on this front. For example, we don’t have a breakdown of the demographics of the signer-uppers in terms of age and income, let alone health status. If the Obama administration won’t disclose this information, Congress should obtain it by subpoena. Taxpayers have a right to know how their trillions in health care subsidies are being spent.  
+*   *  *  
+Avik’s new book,  How Medicaid Fails the Poor , is now available in  paperback ,  Kindle , and  iBooks  versions.  
+Follow  @Avik  on Twitter,  Google+ , and  YouTube , and  The Apothecary  on  Facebook .  
+Or, sign up to receive a  weekly e-mail digest  of articles from  The Apothecary.  
+*  *  *  
+INVESTORS’ NOTE : The biggest publicly-traded players in Obamacare’s health insurance exchanges are Aetna (NYSE: AET ), Humana (NYSE: HUM ), Cigna (NYSE: CI ), Molina (NYSE: MOH ), WellPoint (NYSE: WLP ), and Centene (NYSE: CNC ), in order of the number of uninsured exchange-eligible Americans for whom their plans are available. 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Obamacare's Website Won't Be Working By November 30 -- But What If It Isn't Working By November 2014?
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Avik Roy 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Medicare Deputy CIO: Somewhere Between '30-40%' Of Obamacare's Exchange Software Has Not Yet Been Built
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Avik Roy 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    The Obamacare Exchange Scorecard: Around 100,000 Enrollees And Five Million Cancellations
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Avik Roy 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Enrollment In Obamacare's Federal Exchange, So Far, May Only Be In 'Single Digits'
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Avik Roy 
+	                     Contributor 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/theapothecary/2013/12/11/obamacare-exchanges-claim-258497-sign-ups-in-november-but-no-word-on-how-many-are-actually-enrolled-in-coverage/

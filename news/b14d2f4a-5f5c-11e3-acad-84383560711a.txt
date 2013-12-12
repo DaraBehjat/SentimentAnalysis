@@ -1,0 +1,140 @@
+	 NatWest online services hit by cyber attack 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     The attack came just a few days after a major IT failure at the RBS group 
+   
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 Big Banking 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 EU fines banks over rate-rigging  
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 We ve kept businesses alive - RBS 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Cable hands RBS file to watchdog 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Parties row over Co-op  smears 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       A deliberate attempt to disrupt services at NatWest left some customers struggling to access online banking on Friday. 
+         The surge of traffic - known as a distributed denial of service attack - was blamed by the RBS Group, which owns NatWest, for the access problems. 
+         The disruption lasted for an hour from 11:30 GMT. 
+         It came less than a week after a major computer failure left some customers unable to use cards and cash machines. 
+   Details safe 
+	       On Friday, a number of customers reported problems getting on to the bank s website, from which they normally access their accounts online. 
+         The RBS Group - which includes RBS, NatWest and Ulster Bank - said that NatWest was worst affected by the  deliberate  disruption. 
+         Due to a surge in internet traffic deliberately directed at the NatWest website, customers experienced difficulties accessing some of our customer websites today,  a spokeswoman for RBS said.  
+         This deliberate surge of traffic is commonly known as a distributed denial of service (DDoS) attack. We have taken the appropriate action to restore the affected websites. At no time was there any risk to customers. We apologise for the inconvenience caused. 
+         She stressed that the latest incident was not connected to Monday s IT failure and no customer information was compromised at any time. 
+         The incident on Monday also affected cash machines and card payments and prompted an apology from the boss of the RBS group, Ross McEwan. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25262790#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

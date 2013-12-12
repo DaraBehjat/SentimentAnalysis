@@ -1,0 +1,158 @@
+	 Supermarket sells discounted products to low-income families 
+
+     
+         
+ 
+    
+    	
+	 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25297742-374');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25297742"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 A shop in Barnsley has started selling heavily-discounted items donated by some of the big supermarkets 
+		 
+    
+		
+
+
+
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 Discounted food for people on benefits  Watch 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Supermarket savings 
+
+		 
+
+
+								 
+	 
+                       The UK s first  social supermarket  has opened for business, selling cheap products to people on welfare support. 
+         The Community Shop will sell items ranging from food to toothpaste up to 70% cheaper from a store at Goldthorpe, a former mining village near Barnsley. 
+         It is backed by big retailers, and customers must be receiving benefits and live in a certain postcode area. 
+         The shop sells retailers  surplus stock, and items with damaged packaging or incorrect labelling. 
+         The idea for the supermarket is modelled on similar welfare outlets on mainland Europe. 
+         Customers will be checked to ensure they are eligible to use the supermarket, and membership cards will be issued. 
+         Marks and Spencer, Tesco, Asda, and Tetley are among the many organisations supplying products for the supermarket. 
+   First 
+	       There are many charitable and co-operative food projects in the UK, such as the food banks run by the Trussell Trust, which provides a minimum of three days emergency food and support to people experiencing crisis in the UK.  
+         But the Community Shop is the first of its kind, said Sarah Dunwell, director of social affairs at Company Shop, the organisation that is running the supermarket. 
+         All the products are wholesome or fit-for-purpose, but for some reason were not going to make it onto the shelves of a supermarket,  she said. 
+         We think that people who are really struggling to stretch their household budget should be able to access this food,  Ms Dunwell said. 
+         The Company Shop is the UK s largest commercial re-distributor of surplus food and products. 
+         Profits from sales at the Community Shop will be re-invested in the supermarket itself, and in  support services  on the premises. These include advice on writing job applications, cookery classes, and debt advisory services.  
+         There are ambitions to create 20 supermarket branches, but it was decided to open the first at Goldthorpe as it is one of the most deprived areas of the UK.  
+         It s potentially a winner for lots of people,  said Chris Goulden, head of poverty at the Joseph Rowntree Foundation.  It s good for the community, who can buy cheap food. It s providing jobs. And it s good for companies, who otherwise would have to dispose of the food that s been left. 
+  
+
+	 
+  	
+     
+	
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25264865#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

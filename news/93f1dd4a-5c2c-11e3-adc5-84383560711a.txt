@@ -1,0 +1,31 @@
+
+
+Dec 3 (Reuters) - The following is a list of scheduled U.S. agency bill
+sales from Fannie Mae   
+ and Freddie Mac for 2013.               
+    Freddie Mac said 3-month and 6-month bills will be auctioned every week. In 
+addition, 1-month and 12-month auctions are optional each week.                
+    Fannie Mae said 3-month, 6-month and 1-year may be auctioned on a weekly   
+basis and it has the option to skip any bill auction. If it elects not to issue 
+a scheduled offering, it will provide notice of its decision either prior to or 
+on the scheduled announcement date.                
+    *=Bills have been priced                
+    NA=Not Available.                
+    Settlement dates will be specified on deal announcement days.
+                    
+AGENCY        TYPE OF BILLS             ANNOUNCEMENT    PRICING  SETTLEMENT     
+       
+DECEMBER ISSUES:   
+*Freddie Mac  3-month/6-month           Dec 2           Dec 2       Dec 3
+Fannie Mae    3-month/6-month           Dec 4           Dec 4       NA       
+Freddie Mac   3-month/6-month           Dec 9           Dec 9       NA  
+Fannie Mae    3-month/6-month           Dec 9           Dec 11      NA       
+Freddie Mac   3-month/6-month           Dec 16          Dec 16      NA  
+Fannie Mae    3-month/6-month           Dec 16          Dec 18      NA       
+Freddie Mac   3-month/6-month           Dec 23          Dec 23      NA  
+Fannie Mae    3-month/6-month           Dec 23            NA        NA       
+Freddie Mac   3-month/6-month           Dec 30          Dec 30      NA 
+
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/z6Wm71AboFE/story01.htm

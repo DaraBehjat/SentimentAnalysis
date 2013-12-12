@@ -1,0 +1,157 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/11/2013 @ 1:20PM
+             | 62 views
+     
+		 What Do Doctors Think About 23andme? 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+Answer  by  Jae Won Joh , MD, on  Quora ,  
+
+  
+   Jae Won Joh, MD 
+ 
+I can only speak for myself, but personally, I’m not a fan.  
+This is probably what most people think about the current state of diagnostics:  
+
+  
+ 
+This is only somewhat accurate, but more on that later. This is what direct-to-consumer testing companies seem to see:  
+
+  
+ 
+Which, understandably, led to this thought:  
+
+  
+ 
+The problem with this is that  not all clinical data is useful or relevant . For example, the knowledge that a female patient’s great-grandmother had an episode of hemorrhage when giving birth to her fourth child. Yes, agreed, it’s clinical data. Yes, it might sound terrifying to a layperson (“oh my goodness, what if the family has a heritable bleeding disorder!”).  
+A well-trained ob/gyn, however, would know that multiparous women have an inherently higher risk of postpartum hemorrhage and probably not give it too much thought.  
+So really, then, what’s happening is this:  
+
+  
+ 
+The filtering and interpretation part is absolutely key , and I am always wary of anything/anyone that cuts it out. There is a reason we require physicians to have a minimum of 7 years of postgraduate training before they’re allowed to practice independently — it’s kind of necessary. Pardon me if a few alarm bells go off in my head when someone presents the idea that all of a sudden, because of a new product, a layperson without those 7+ years of training can fully understand what’s going on with their health.  
+Filtering and interpretation is doubly important for genetic data, because genetic data is not necessarily deterministic.  
+For example, let’s say we have patient Joe, a 57-year-old male. Joe is a highly athletic runner and enjoys running marathons every 3-4 months (his personal record is 3:34:19). Joe is very health-conscious and is always looking for new meals to cook for his dear wife of 34 years. He’s never smoked, never been on medication other than a daily baby aspirin. His BMI is 22. All in all, he’s a very healthy guy who loves his job as an administrator in the local public school system. His mother and father passed away at ages 83 and 78, respectively.  
+Let’s say Joe’s genetic test comes back with a 17% increased risk of coronary artery disease compared to the average population. Should Joe be worried? Should he seek a cardiologist for further work-up? Should he perhaps undergo  cardiac catheterization?  
+Um…no. Why? Because by clinical assessment, Joe’s risk is tremendously low. In other words, the full diagram is as follows:  
+
+  
+ 
+Based on his history, Joe’s pre-test probability for coronary disease is minimal; at best, it’s in the low single digits. Would it be ethical for a cardiologist to charge thousands of dollars to take a  completely asymptomatic  patient and electively expose him to the inherent risks of an invasive procedure under anesthesia?  
+No.  
+This is why every ethical healthcare provider follows this mantra:  do not order a test or perform a procedure if it will not change your management of the patient , because doing so  may  cause needless harm/risk to the patient and  will  cause needless damage to the patient’s finances.  
+The  primary  problem with direct-to-consumer testing is that it allows untrained laypersons to obtain clinically uncorrelated (and quite possibly  unnecessary ) information. The layperson is then required to draw their own conclusions when they do not have the requisite training to do so.  
+The  secondary  problem is the potential for net harm. When the consumer willingly sacrifices financial resources to purchase such a test, there is the expectation that the informational benefits will outweigh the financial burden. If the benefits are questionable and also have strong potential for inappropriate interpretation resulting in emotional harm in the form of  unfounded fear , then is the consumer not being marketed a proposition that may be a net loss?  
+The  tertiary  problem is that when this harm occurs, the consumer’s physician may be left to pick up the pieces of that fear, as seen in this quote from  Why the FDA is targeting Google-backed 23andMe: Unnecessary MRIs, mastectomies :  
+
+  One San Francisco-based neurologist, who asked to remain anonymous, told me that some of her healthiest patients — all 23andMe customers —have begun demanding unnecessary and expensive MRI tests for Alzheimer’s disease. “23andMe’s test is creating chaos with people in their 20s and 30s,” she said. “They generate havoc and walk away.” 
+ 
+If you read this far, thank you for your time and patience. Hopefully this answer sheds more light than heat.  
+This question  originally appeared  on  Quora . More questions on  Medicine and Healthcare :  
+ 
+  What do healthcare professionals on Quora think of Vinod Khosla’s prediction that automation and technology will replace 80% of physicians in the near future?    
+  If you had 15 minutes to educate a doctor about anything, what would it be, and why?  
+  What is it like when one of your parents gets Alzheimer’s?  
+
+
+
+
+         
+         
+http://www.forbes.com/sites/quora/2013/12/11/what-do-doctors-think-about-23andme/

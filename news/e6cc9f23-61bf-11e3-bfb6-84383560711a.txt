@@ -1,0 +1,103 @@
+	 Tui Travel hit by one-off costs and weak French sales 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25299797-68425');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25299797"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Tui chief executive Peter Long says the growing cost of living means there is  strong demand  for all-inclusive holidays 
+		 
+    
+		
+
+
+
+
+                       Travel company Tui, which owns Thomson and First Choice, has seen profit slip due to weak French sales and a restructuring in its specialist and activity division. 
+         Pre-tax profit for the year was £181m, down 10% on a year earlier, while revenue rose 4% to £15.1bn. However, excluding one-off costs, pre-tax profit rose 21%. 
+         Chief executive Peter Long said it had been an  outstanding  year. 
+         Tui said long term growth was on track. 
+         Tui wrote off £188m in its specialist and activity division, which offers themed holidays, after a restructuring that resulted in it shutting down unprofitable lines of business as well as  a management change. 
+         Now that this review is complete we are confident of delivering underlying annualised profit growth of 8-10%,  it said.  
+         Meanwhile, it said its French division was hit by the weak economy there and low demand for North African holidays. Tui said it had now removed unprofitable routes and reduced its long-haul programme. 
+         Overall, however Tui said it was confident it would meet its five year target of annual growth of between 7-10%. 
+         It said trading for winter was  in line  with its expectations, with 60% of its programme already sold.  
+         It also said it was  pleased  with summer 2014 trading, despite 2013 being a strong performance to follow.  
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25314020#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

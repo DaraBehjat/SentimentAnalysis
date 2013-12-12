@@ -1,0 +1,302 @@
+	 David Cameron defends China trade mission 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 China media: Cameron s visit 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Robinson: Does China heed Britain s wooing? 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Big boss  Cameron on China s Weibo 
+
+		 
+
+
+																										 
+	 
+                       British Prime Minister David Cameron has defended his trade mission to China after criticism in the Chinese media. 
+         One state-run newspaper cast doubt on the  sincerity  of Mr Cameron s diplomacy amid ongoing anger about his meeting last year with the Dalai Lama. 
+         And it suggested China did not need better relations with the UK as it was no longer a  big country . 
+   
+	 Continue reading the main story 		 
+	 Start Quote 
+Mr Cameron's promise now to 'respect' and 'understand' China is the price he has had to pay to thaw what was a diplomatic deep freeze  
+End Quote 
+
+
+			 
+		 
+	 Nick Robinson 	 Political editor 
+	 
+
+	 
+	
+	 
+		 
+			 Read more from Nick 
+		 
+	        Mr Cameron said the trip had seen £6bn in trade deals and  substantial discussions  with China s leaders. 
+         In a strongly-worded editorial, the nationalist Global Times newspaper said Mr Cameron was motivated by  self-interest  and expressed anger over the UK s stance on Hong Kong politics and Beijing s air zone row with Japan, as well as the Dalai Lama issue. 
+         The UK is highly  replaceable  in China s Europe diplomacy,  said the newspaper.  
+         The UK is no longer any so-called  big country ...  it is an old European country suitable for travel and study abroad, with a few good football teams. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25197178-9209');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25197178"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 David Cameron s attempt at Mandarin was met with applause 
+		 
+    
+		
+
+
+
+
+       Other newspapers joined in with the criticism, fuelled by anger over access to British visas, although some welcomed efforts to improve bi-lateral trade relations. 
+         Mr Cameron, who is on the second of a three-day visit to the country with more than 100 British business people, dismissed the attacks.  
+         He told BBC News:  I must have missed the bit about the football teams. I would just prefer to go on the figures.  
+         This is a visit that has delivered almost £6bn worth of deals. It is a visit that comes on the back of an eighteen month period where we have seen more Chinese investment into Britain in the last 18 months than in the previous 30 years.  
+         And also it is a visit where we have seen very good, high level, substantial discussions both with the premier and with the president - the premier who described the partnership as indispensable. So I will stick with the facts and the figures. 
+   
+   
+
+     David Cameron with gaming firm Rekoo s vice president Lisa Pan in Shanghai  
+   
+       He added:   You don t have to know all the facts and figures about China to know that China s economic rise is going to play a huge role in the world and Britain should be in there pitching for business, pitching for investment, pitching for deals, securing jobs at home.   
+         Among the latest trade deals to be announced are a £120m agreement to give UK healthcare firms access to the Chinese market and an agreement to allow British film makers greater access to China s heavily-restricted, but rapidly expanding, domestic cinema market. 
+   
+   
+
+     The PM met Matthew Forbes with the  War Horse  from the West End Show at the Shanghai Exhibition Centre 
+   
+       Mr Cameron has also used the trade mission to bang the drum for an EU-China free trade deal. 
+         Speaking after a meeting with Chinese Premier Li Keqiang on Monday, he said:  Some in Europe and elsewhere see the world changing and want to shut China off behind a bamboo curtain of trade barriers. Britain wants to tear those trade barriers down. 
+         He added:   I ve said to Premier Li that I will champion an EU-China trade deal with as much determination as I m championing the EU-US trade deal. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25197232-9210');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25197232"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 David Cameron has promised to create a  partnership for growth and reform  as he visits China on a trade mission with more than 100 UK business leaders 
+		 
+    
+		
+
+
+
+
+       But a spokesman for the European Commission rejected Mr Cameron s call, saying the EU and China were already discussing a possible investment agreement and should stick to that for now. 
+         We believe that it is premature at this stage to discuss a free-trade agreement with China,  the spokesman added. 
+   
+   
+
+     London s black cabs could soon be operating in Shanghai 
+   
+       There is resistance to a free trade deal in some EU nations, amid fears it will open the door to a flood of cheap imports.  
+         Mr Cameron has also been promoting Britain s universities to Chinese students. 
+         It is very important for you to know that there is no limit, no artificial limit, to the number of students who can study in Britain,  he told an audience of students at Shanghai Hao Tong University  
+         You have to have an English qualification and a place at at British university and then you are welcome. 
+         Mr Cameron told the students he had raised human rights issues in his talks with Chinese leaders, although he did not mention Tibet in the list of global hot spots he said they had discussed. 
+   
+   
+
+     The UK prime minister held talks with Shanghai s mayor Yang Xiong 
+   
+       He also joked about the weekly  torture  of prime minister s question time in the Commons, but added that it was an important  test  that kept prime ministers  on their mettle . 
+         And he said efforts were under way to set up a  joint shop window  so that Chinese tourists could apply for a British visa at the same time as applying for a Schengen visa, which grants them access to the rest of the EU. 
+         We need to make it easier for you, in terms of the visa situation, and we are working on a solution,  he said. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/uk-politics-25198517#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

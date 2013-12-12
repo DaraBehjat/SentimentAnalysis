@@ -1,0 +1,186 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/10/2013 @ 12:17PM
+     
+		 'EVE Online' Crosses The Rubicon: CCP Games' David Reid Speaks - Part 1 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+Although many players find its combination of resource management, politicking and raw capitalism too rich for their blood or too demanding for their diaries,  EVE Online  creates some of the best stories in the world of gaming. The tens of thousands of dollars poured into beautiful battleships which are then reduced to scrap? That’s  EVE Online . Or the Ponzi scheme set up by two entrepreneurial conmen, who gathered 300 investors a week and vanished with the real-world equivalent of over $20,000? Also  EVE .  
+There is a particular form of mastery of  EVE Online  that requires the same eye for detail and high-functioning sociopathy that marks out many great CEOs. That can make it a slightly hostile environment for the neophyte, however.  
+I met  CCP Games’  Chief Marketing Officer, David Reid, just before the launch of  Rubicon , its latest expansion pack. In the corner of the hotel suite was a reclining chair and the newly sleek and sinister high-definition Oculus Rift VR headset, of which more later.  
+I mentioned that  EVE  had been sold to me as a game in which you “won” by making life so grindingly unpleasant for the people you were targeting that they quit the game. Understandably, he disagreed strongly. The statistics seem to back him up – unusually for massively multiplayer online  games , and in particular for subscription-based games, where even the mighty  World of Warcraft  is slowly losing players,  EVE Online  has grown its user base for each of its ten years of existence.  
+  2013 Say EVE Online celebrate its 10th anniversary ,and release its 20th expansion pack  
+At 500,000 active users, this is still a long way from  World of Warcraft’s 7.6 million paying customers, but it represents a solid base of paying customers. And, in terms of monetization, CCP has managed to combine a $14.95 (€14.95 or  9.95) subscription fee with in-game purchases in a fascinating way, based on an approximation of a real economy.  
+
+  
+   Mined the gap – mining for valuable resources in EVE Online 
+ 
+Reid explained:  
+
+  One of the things we think has made a difference is that we build it as a sandbox game. If you think back to those Vikings  [CCP is based in Reykjavik, the capital of Iceland] early on, trying to compete with Activision and Electronic Arts, they knew that they would never be able to build a game that matched them on a pure content basis. There was no amount of content they could write that would enable them to keep up with hundred-plus person teams. So as a result that led to the idea of creating a game where the players made the content.  
+  [There is a] traditional “theme park” approach, where a designer produces a narrative, with a story and dungeons and quests that they set up for you to play through – and where now choice in these kinds of games is often more of an illusion of choice. I can pick from a couple of different endings, but I’m not really changing the game.  
+  [Anyone interpreting this as a comment on heavily scripted space opera like Mass Effect 3 is probably free to do so.]  
+  With  EVE Online , every action a player takes leaves an impact, and that affects the hundreds of thousands of other players – it’s not a sharded game, like most MMOs  [i.e. one in which different instances of the world exist, with players divided between them according to geography and personal taste] . So, that’s the basics of how we got started. 
+ 
+That freedom does allow for trolling and griefing on an epic scale, of course. Much of the narrative around  EVE  relies not on the world-building (four spacefaring empires jockey for position in a distant galaxy), but the tales of ganking, complex alliances and sudden betrayals among the player-led syndicates and consortia. Reid acknowledges the issue, but notes that players can choose, to an extent, their level of exposure to the lawless outer reaches, where the player-led consortia reign supreme.  
+
+  
+   A fleet of ships built by recently emancipated Minmatar Republic 
+ 
+In the inner worlds (High-Sec), violence between players triggers a police response from the computer-controlled empire – “They may not get there in time – it’s a lot like the real world in some ways – but they will come, and you will get a criminal record.” Further out, in Low-Sec, the reach of the empires is attenuated, and the police, although present, are less likely to respond – but the prizes are greater. Finally, Null-Sec is the real wild frontier, where player alliances with colorful titles like the Goonswarm and the Cluster**** Coalition (to be exact, the former is a member of the latter) mine the richest asteroid fields, raid each other and form and break alliances.  
+ Rubicon introduces the ability for players to build stargates and explore new galaxies  
+Even in the wilds of Libertarian Null-Sec, though, balances of power exist, which of course need to be disrupted to keep the game interesting. Enter  Rubicon , the latest free-with-subscription expansion pack, which opens up unexplored space by giving players the ability – at vast expense – to build their own stargates.  
+
+  “Rubicon’s an interesting expansion for us. It comes at a unique time in the  EVE  universe. At FanFest in Reykjavik last year we announced that we were going to begin a multi-expansion arc giving players the resource and the blueprints to construct their own stargates, and go forth into new galaxies.  
+  The  EVE universe is already a pretty big place – 7,000 solar systems, more than 10,000 planets. We opened up wormhole space in an expansion called Apocrypha in 2009, but other than that there’s really been no new geography to the universe. And so with Rubicon we begin that process of giving players the ability to open up stargates to these new galaxies and to be the first to colonize them.  
+  So it will add a bit of gameplay that really hasn’t been there since the launch, in many ways. 
+ 
+These unclaimed worlds will be incredibly expensive to reach, and incredibly rewarding to those who reach them. So, looking at the way Capitalism works in our world, I ask Reid how this will do anything other than entrench the status quo, with the most powerful consortia being first to the new riches made available in Rubicon . The answer is classical entrepreneurialism – or, if you’d rather, greed and betrayal.  
+
+  We try very hard not to take an active hand – so we won’t try to prevent that. The interesting stories around  EVE  have often come from trust and duplicity. Even the biggest corporations are vulnerable to this – where it only takes one maverick inside the highest echelons to think ‘Hmmm – why am I working for these guys? I could do my own thing’… and that begins a whole new level of space opera and interpersonal conflict.  
+  I think, as  Rubicon  progresses, the value of these resources is going to become more and more obvious, and you’ll see people get more and more entrepreneurial as they start thinking about whether to stay with the groups they’re in.  EVE  is probably the most interesting universe out there, but it’s going to get a lot more interesting over the coming years. 
+ 
+ 
+The Russian-Scandinavian War  
+When he says “interesting”, Reid primarily means “bloody”. For technobabble reasons, “pilots” – the player characters – are immortal. If their bodies are destroyed, they awake in a new body, none the worse for wear – but the ship they have lost remains destroyed. Vast space battles – over territory, bragging rights or just to keep the game interesting – grind vast fleets into scrap and salvage. These stakes lead to some odd alliances.  
+
+  Geography matters. A lot of the big corporations go out of their way to recruit people in different timezones. The Oceanic time zone is in high demand from a lot of syndicates in North America and  Europe , because you want to have somebody watching the shop when everyone else is sleeping!  
+
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    EVE Online Player Loses A Spaceship Worth Approximately $9,000
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Dave Thier 
+	                     Contributor 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/danielnyegriffiths/2013/12/10/eve-online-crosses-the-rubicon-ccp-games-david-reid-speaks-part-1/

@@ -4,16 +4,25 @@ import csv
 ifile  = open('short_stock_datacsv.csv', "rb")
 reader = csv.reader(ifile)
 
-for row in reader: 
-    if "BAC Date" in row:
-        bac_dates = list(row)
-        del bac_dates[0]
-    if "BAC PX_OPEN" in row:
-        bac_open = list(row)
-        del bac_open[0]
-    if "BAC PY_CLOSE" in row:
-        bac_close = list(row)
-        del bac_close[0]
+def create_lists(reader, ticker):
+    for row in reader: 
+
+        findDate = '%s Date' % ticker 
+        if findDate in row:
+            dates = list(row)
+            del dates[0]
+
+        findOpen = '%s PX_OPEN' % ticker 
+        if findOpen in row: 
+            open_prices = list(row)
+            del open_prices[0]
+
+        findClose = '%s PY_CLOSE' % ticker 
+        if findClose in row:
+            close_prices = list(row)
+            del close_prices[0]
+
+    return dates, open_prices, close_prices 
 
 
 def change_in_p_list(t_open, t_close):
@@ -52,13 +61,14 @@ def create_dictionary(t_date, t_change):
 
 if __name__ == "__main__":
 
-    bac_change = change_in_p_list(bac_open, bac_close)
-    bac_dictionary = create_dictionary(bac_dates, bac_change)
+    print create_lists(reader, 'BAC')
+    # bac_change = change_in_p_list(bac_open, bac_close)
+    # bac_dictionary = create_dictionary(bac_dates, bac_change)
 
-    print bac_dictionary
+    # print bac_dictionary
 
     # print bac_dates
     # print bac_open
     # print bac_close
- 
+
 ifile.close()

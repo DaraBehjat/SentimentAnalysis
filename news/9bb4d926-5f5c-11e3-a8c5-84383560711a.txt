@@ -1,0 +1,70 @@
+
+
+
+By Caroline Humer Dec 6 (Reuters) - As millions of people shop online for new
+insurance plans under President Barack Obama's healthcare reform
+law, about 10 percent of applications to the main website are
+not being accurately transmitted, a government spokeswoman said
+on Friday. The error rate has improved since HealthCare.gov's
+disastrous debut on Oct. 1, which created a political crisis for
+Obama as opponents and supporters of the law questioned whether
+the most sweeping social program since the 1960s was rushed well
+before it was ready. Last week, the White House wrapped up a five-week emergency
+effort to fix the most obvious of the website's technical
+problems and between midnight on Sunday and noon on Friday,
+government health officials said 3.7 million people visited. But the current level of mistakes deeper into the system are
+creating a new workload for insurers to verify the details of
+their new members and could lead to unwelcome surprises for
+consumers if there are mistakes in new policies that take effect
+on Jan. 1. HealthCare.gov relays information about new customers in
+so-called "834" transaction forms to the private insurance
+companies that provide the health plans. The portal serves
+people in 36 states while 14 states are running their own online
+marketplaces. "We believe nine of 10 transactions are being successfully
+transmitted," the Centers for Medicare and Medicaid Services, or
+CMS, spokeswoman Julie Bataille said at a news briefing. Previously, Bataille has said the majority of errors had
+been fixed in these transactions but had not defined either the
+current or past rate of mistakes. She said the error rate has fallen, explaining that in the
+more than two months since Oct. 1, HealthCare.gov could have
+experienced an error in as many as one in four transactions.
+Errors include forms not being generated, transmitting duplicate
+forms and of forms with technical data being passed incorrectly,
+she said. Widespread errors in coverage could add to public complaints
+over the law's rollout and provide ammunition to Republican
+lawmakers who have campaigned all along to delay or replace the
+2010 Affordable Care Act, commonly known as Obamacare. "The new process put in place this week is making a
+difference. The enrollment files are getting better, but there
+is more work to do to ensure consumers are covered," Karen
+Ignani, the chief executive officer of insurance industry trade
+group, America's Health Insurance Plans (AHIP), said in a
+statement on Friday. BACK-UP SYSTEM Insurers are also working with CMS on testing a short-term
+back-up system for the government to pay insurers for the
+income-based subsidies that many individuals will qualify for on
+the new online exchanges. The permanent system was not built
+before the website opened for enrollment. The glitch-ridden consumer end of the website held back
+enrollment during October, when fewer than 27,000 people
+enrolled through HealthCare.gov. The government set a Nov. 30
+deadline for repairs. On Sunday and Monday alone, 29,000 people
+signed up, sources familiar with the number said. The enrollment growth has raised questions about how
+insurers will keep up if the applications have errors and
+whether consumers will think they are covered by an insurance
+policy when they are not. For instance, Jason Alford, the director of individual and
+marketplace sales at Health First Health Plans in Rockledge,
+Florida, said in an interview this week that applications are
+still incorrectly displaying if the person is a smoker or a
+non-smoker, a factor that determines the premium price in the
+state. CMS said that there is a technology team dedicated to fixing
+the issues with the transaction forms. The team is overseen by
+the general contractor on the project QSSI, a unit of
+UnitedHealth Group Inc. In an unusual show of solidarity, AHIP, CMS and the Blue
+Cross Blue Shield Association - whose licensees are the largest
+players on the insurance exchanges - this week issued a joint
+statement to stress their efforts to fix "back end" problems on
+HealthCare.gov. Daniel Durham, vice president for policy and regulatory
+affairs at AHIP, said this week that insurers will estimate how
+much they are owed, and submit that estimate to the government. Once the permanent system is built, the government and
+insurers can reconcile the payments made with the plan data to
+"true up" payments, he said. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/h14jT5znxp4/story01.htm

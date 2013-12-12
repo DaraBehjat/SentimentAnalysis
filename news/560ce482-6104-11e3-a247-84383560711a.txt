@@ -1,0 +1,208 @@
+	 Technology firms seek government surveillance reform  
+
+     
+         
+ 
+    
+    	
+	 
+    
+    
+		
+         
+   
+
+     There have been concerns over surveillance programmes in the US 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Spies  can t be foolish  over emails 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Apple lists government data requests 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Telecom firms under spying scrutiny 
+
+		 
+
+
+											 
+	 
+                       Leading global technology firms have called for  wide-scale changes  to US government surveillance. 
+         Eight firms, Google, Apple, Facebook, Twitter, AOL, Microsoft, LinkedIn, and Yahoo, have formed an alliance called Reform Government Surveillance group. 
+         The group has written a letter to the US President and Congress arguing that current surveillance practice  undermines the freedom  of people.  
+         It comes after recent leaks detailed the extent of surveillance programmes.  
+         We understand that governments have a duty to protect their citizens. But this summer s revelations highlighted the urgent need to reform government surveillance practices worldwide,  the group said in an open letter  published on its website . 
+         The balance in many countries has tipped too far in favour of the state and away from the rights of the individual - rights that are enshrined in our Constitution.  
+   
+	 Continue reading the main story 		 
+	 
+			 
+		 Analysis 
+	 Rory Cellan-Jones 	 Technology correspondent 
+	 
+
+	 
+	       The fact that eight technology giants which are normally bitter rivals have united to condemn the extent of government surveillance shows just how strongly they feel.  
+         In part, this reflects the libertarian thinking that permeates Silicon Valley - but there s also a commercial aspect to their concerns.  
+         Around the world, consumers and governments have begun to question how safe it is to use American technology products, and in the words of Microsoft s signatory to the letter  People won t use technology they don t trust.    
+         The companies have prided themselves on the security of their customers  data. Now they have had to concede that governments have wide access to that data - and they are vowing to use strong encryption to repair the holes in their defences.  
+         But don t expect the intelligence agencies to sit back and do nothing - the scene is set for continuing conflict between the spies and Silicon Valley over control of the internet. 
+  
+	 
+		 
+			 Read more from Rory 
+		 
+	        This undermines the freedoms we all cherish. It s time for a change,  it added. 
+   Limited surveillance 
+	       The move by the eight firms comes after whistle-blower Edward Snowden leaked information about surveillance carried out by the US government.  
+         Mr Snowden, an ex-US intelligence contractor, leaked documents to the media highlighting the various methods used by agencies to gather information. 
+         The leaks have pointed to agencies collecting phone records, tapping fibre-optic cables that carry global communications and hacking networks. 
+         Members of the group said the revelations indicated that the extent of surveillance needed to be controlled.  
+         Reports about government surveillance have shown there is a real need for greater disclosure and new limits on how governments collect information,  said Mark Zuckerberg, chief executive of Facebook, the world s biggest social networking firm. 
+         The US government should take this opportunity to lead this reform effort and make things right. 
+   
+	 Continue reading the main story 		 
+	 
+   
+
+   
+
+	 
+	
+	 
+		 
+			 Q A: Prism internet surveillance 
+			 What could  they  know about me? 
+		 
+	 'Essential' 
+	       The scandal first came to light in June this year after the UK s Guardian newspaper published the first leaks by Mr Snowden. 
+         Since then, there have been concerns over how much user data firms have been asked to share with the agencies.  
+         In an attempt to allay such fears over data security, companies have called for permission to publish details of data requests.  
+         Governments should allow companies to publish the number and nature of government demands for user information,  they state. 
+         In addition, governments should also promptly disclose this data publicly. 
+         Apple, Microsoft, Yahoo, Google and Facebook have all confirmed they have complied with orders to hand over data relating to  national security matters  to the US authorities, but have been forbidden from saying exactly how many requests they had received or details about their scope. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25298491-198635');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+       Larry Page, chief executive of Google, said that security of users data was  critical  for firms, but added that the same had been  undermined by the apparent wholesale collection of data, in secret and without independent oversight, by many governments around the world .  
+         The group called upon the government to give companies the rights to provide details of any such future data requests to their users,  
+         Transparency is essential to a debate over governments  surveillance powers and the scope of programs that are administered under those powers,  it said.  
+         Governments should allow companies to publish the number and nature of government demands for user information. In addition, governments should also promptly disclose this data publicly . 
+  
+
+	 
+  	
+     
+	
+  
+   
+ 	 
+http://www.bbc.co.uk/news/technology-25297044#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

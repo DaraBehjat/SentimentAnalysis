@@ -1,0 +1,212 @@
+	 Estonia match-fixing: 11 charged on suspicion of fixing 17 games 
+
+     
+         
+ 
+								
+				
+				
+							 
+
+			    
+                               Eleven men in Estonia have been charged on suspicion of fixing 17 games, including three Europa League matches.
+
+  
+               Also under suspicion are 12 Estonian top-flight matches, one Estonian cup and one Lithuanian game, with the men pocketing £90,000 in total.
+
+  
+               An 
+    
+Estonian public prosecutor s office statement  
+
+     said Estonian, Lithuanian and Ukrainian clubs signed players they knew were willing to fix matches.
+
+  
+               The matches are thought to have been between June 2011 and November 2012.
+
+  
+    
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        How global gambling fuels match-fixing
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 05 Feb 2013 
+		
+			 Football 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Match-fixing key threat - Platini
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 22 Jan 2013 
+		
+			 Football 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Fifa aims to tackle match-fixing
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 09 Oct 2012 
+		
+			 Business 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: FOOTBALL
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/football/25188003

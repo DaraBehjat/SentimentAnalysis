@@ -1,0 +1,96 @@
+	 Microsoft working on a smart bra to measure mood 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Two sensors were embedded in the bra 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 The bra designed to shock attackers 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Sony files patent for  SmartWig 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Nike and the battle for your wrist 
+
+		 
+
+
+								 
+	 
+                       Microsoft researchers have designed a smart bra that can detect stress. 
+         The prototype contains removable sensors that monitor heart and skin activity to provide an indication of mood levels. 
+         The aim was to find out if wearable technology could help prevent stress-related over-eating. 
+         Mood data was provided to the wearer via a smartphone app in order to highlight when  emotional eating  was likely to occur. 
+         A team from Microsoft s visualisation and interaction research group embedded an electrocardiogram and electro-dermal activities sensors as well as a gyroscope and accelerometer in the bra. 
+         In their paper , the researchers say using a bra  was ideal because it allowed us to collect EKG [electrocardiogram] near the heart . 
+         Efforts to create a similar piece of underwear for men worked less well, largely because the sensors were located too far away from the heart. 
+         The women testing the technology reported their emotions for about six hours a day over a period of four days. 
+         It was very tedious for participants to wear our prototyped sensing system, as the boards had to be recharged every three to four hours,  Microsoft senior research designer Asta Roseway said. 
+   Electric shock 
+	       Wearable technology is increasingly being used to monitor a range of health conditions. 
+         Last month saw the release of a Twitter-connected bra, that tweeted every time it was unhooked to encourage women to self-examine their breasts. 
+         And last year a patent was awarded to a US firm that was working on a wearable device that analysed breast heat in order to detect cancer. 
+         Meanwhile in response to a series of rapes in India, three engineering students developed a bra loaded with sensors and an electronic circuit that is activated when someone attempts to grope a woman wearing it. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/technology-25197917#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
