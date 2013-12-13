@@ -1,0 +1,216 @@
+         
+
+         
+
+
+         
+             Pharma  &  Healthcare 
+         
+         | 
+     
+        12/13/2013 @ 1:13PM
+             | 13,920 views
+     
+		 Don't Be Duped By 'Duon' DNA Hype 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                    21 comments, 18 called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+ 
+  
+   
+    Photo credit: Wikipedia 
+   
+ 
+With today’s headlines hyping “ Second Code Uncovered Inside the DNA ,” you might think that scientists are running around in circles in their labs, tearing out their hair, and screaming, “Crick, you loser!” But the real reaction of scientists to these headlines is more along the lines of this  Twitter conversation  among several scientific experts and science writers. They have good reason to be snarky.  
+The hype began with the way hype often begins: an  institutional news release  offering us the holy grail/huge breakthrough/game-changing finding of the day. This kind of exaggeration is the big reason any science consumer should look well beyond the news release in considering new findings. A news release is a marketing tool. You’re reading an advertisement when you read a news release. In this case, the advertisement/news release not only goes off the rails with the hype, it’s also scientifically garbled and open to all kinds of misinterpretation, as the comments at the link to the release  make clear .  
+Here’s some of the hype with a  soup on of garble.  
+
+  Since the genetic code was deciphered in the 1960s, scientists have assumed that it was used exclusively to write information about proteins. UW scientists were stunned to discover that genomes use the genetic code to write two separate languages. 
+ 
+Scientists have not assumed that the genetic code “was used exclusively to write information about proteins,” or even ever assumed that it “writes information about proteins,” whatever that means. Proteins are molecules that do the work of an organism, and that includes the work of copying DNA for protein production and cell division. Even nonmajors biology textbooks cover the fact that the DNA sequence both contains code for proteins and serves a regulatory purpose, making it possible to copy that code into a form the cell can read, recipe-like, to build the proper protein. We even have names for these DNA sequences:  promoters ,  enhancers , termination sequences. I’d be stunned if UW scientists were genuinely “stunned” to discover this dual use of DNA sequences.  
+The release quotes study author John Stamatoyannopoulos as saying that  
+
+  For over 40 years we have assumed that DNA changes affecting the genetic code solely impact how proteins are made,” said Stamatoyannopoulos. “Now we know that this basic assumption about reading the human genome missed half of the picture. These new findings highlight that DNA is an incredibly powerful information storage device, which nature has fully exploited in unexpected ways.” 
+ 
+I can only hope that Stamatoyannopoulos didn’t really say that. The authors report that changes in a single DNA sequence can influence both the protein it encodes and the place where other proteins bind to initiate copying. So evolutionarily, a single change could influence two endpoints–copying the sequence and what gets made using the same sequence. That’s cool, but not actually new. How it goes beyond “solely impact(ing) how proteins are made” goes beyond me, and it certainly doesn’t miss half the picture. Indeed, based on the study itself ( paywalled ), it could possibly have missed up to a fifth of the picture.  
+The release also contains gems such as “The genetic code uses a 64-letter alphabet called codons.” This sentence makes me sad. Codons consist of three nucleotides–which we designate with the letters A, C, G, and U–and there are  64 of these triplets , 61 of which serve as molecular code words for 20 amino acids. Some amino acids get more than one word to designate them. The cell “reads” these code words and uses the amino acids they designate to build proteins. There.  
+(Update) The other problem is the ubiquitous use of the phrase “ second code ” in so many of the headlines related to this story when the authors themselves state: “ Although nearly all codon biases parallel TF recognition preferences genome-wide…” with the arginine codon as an exception. That’s not a “second code.” It ‘s a different (but already recognized) use of the existing code, now identified as occurring at a greater frequency in areas that use the same code for proteins..  
+So what was the real import of the study that warranted its publication in  Science , a “glamor” science publication?  The authors seem to have found that the genome contains more of these dual-use DNA sequences than previously thought, which might make them more relevant when examining some aspects of evolution (see “Single change could influence two endpoints”). And, it seems, the authors wanted the opportunity to, um, codify their own term for these dual-use sequences:  duons . I wonder if they realized that the name had  already been taken ? 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Oldest Known Early Human DNA Recovered
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Steven Ross Pomeroy 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    		     SAP Voice:  
+How DNA Sequencing Is Changing Medicine
+
+
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Jacqueline Vanacek 
+	                     @SAP 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Tweeting Scientists Find Penile Fracture And 'Sperm Bags Of Squid' Just As Funny As Everyone Else Does
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Brid-Aine Parnell 
+	                     Contributor 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/emilywillingham/2013/12/13/dont-be-duped-by-duon-dna-hype/

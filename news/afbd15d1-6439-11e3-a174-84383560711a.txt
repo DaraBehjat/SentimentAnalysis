@@ -1,0 +1,42 @@
+
+
+
+By Aashika Jain Dec 13 (Reuters) - British chip designer ARM Holdings Plc's
+ shares rose as much as 5.7 percent after Bloomberg
+reported on Thursday that Google Inc may use ARM's
+technology to design its own server processors. A deal would speed up ARM's push into the server market,
+where it has been a late entrant. ARM's chief executive, Simon Segars, said in March after
+taking the helm that he saw big opportunities in servers, an
+area where the company was just getting started. ARM licenses its designs to chipmakers such as Qualcomm
+ and Texas Instruments, whose chips are used in
+Apple Inc's iPhone and Samsung Electronic Co's
+ Galaxy devices. ARM, which receives royalty on the sale of every chip that
+uses its technology, declined to comment on the report. Jefferies analyst Lee Simpson said he expected companies
+such as Amazon and Facebook, which maintain large server farms,
+to adopt ARM's designs over the next couple of years. ARM's strength in designing low-power processors has enabled
+it to dominate the mobile devices sector, while Intel Corp
+ is by far the leader in chips used in servers and
+personal computers. A deal between ARM and Google could dent Intel's dominance
+in the server market as Google is one of the biggest buyers of
+server chips. "Since ARM chips for servers are cheaper, consume less power
+and require lower cooling compared with Intel chips, they would
+be very attractive for Google," Charles Stanley analyst Tom
+Gidley-Kitchin told Reuters. Intel's shares fell as much as 1.5 percent in early trading
+on Friday on the Nasdaq. GOOGLE'S SAVINGS Gidley-Kitchin also said Google could be using the deal to
+pressure Intel to reduce prices of its low-power chips. For Google, a deal could result in massive savings and help
+it manage its servers better. Google, which contributes about 5 percent to Intel's sales, 
+could better manage the interactions between hardware and
+software if it used its own designs, Bloomberg said, citing a
+source with direct knowledge of the matter. () "We are actively engaged in designing the world's best
+infrastructure. This includes both hardware design (at all
+levels) and software design," Google said in an emailed comment
+to Reuters. Some analysts said fears that Intel could lose a chunk of
+its market share were overblown. "We believe that ARM based server products will
+predominantly cater to hyperscale workloads and capture just 10
+percent of overall server units by 2018," FBR Capital Markets
+analyst Christopher Rolland said in a note. ARM's shares closed up 3 percent at 1003 pence on on Friday
+the London Stock Exchange. The company's U.S.-listed shares were
+up 3.4 percent at $49.27 by midday on the Nasdaq. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/g4OMsX-qGWc/story01.htm

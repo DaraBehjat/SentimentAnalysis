@@ -3,7 +3,9 @@ import os
 import string 
 import csv 
 import json
+import pprint 
 
+from analyzer1 import *
 
 
 def freq_word_index(t):
@@ -13,48 +15,35 @@ def freq_word_index(t):
     t: list of article filenames
     returns: dictionary of filenames mapping to a tuple (word, freq)
     """
-
-    article_words = {}
-
-    # TODO: how to open the json file as a dictionary so that it can be modified
-    # with open('freq_word_index.json', 'w') as f:
-    #     x = json.loads(f)
-    #     print x 
-
-    f = open('freq_word_index.json', 'a')
-    # data = json.load(f)
-    # for line in data:
-    #     print line 
+    nestedDict = {}
 
     for article in t:
-        if article not in article_words:
+        if article not in nestedDict:
             hist = process_file(article)
-            article_words[article] = hist
+            nestedDict[article] = hist
 
-    f.write(json.dumps(article_words))
-    f.close()
-
-    return article_words
+    return nestedDict
 
 
-def company_index(index, companyList):
-    """Creates a dictionary index of company name mapping to filenames 
+def company_index(stocks, nestedDict):
+    """Creates a dictionary of company name mapping to filenames 
     containing the company.
 
-    index: json object of word_freq_index
-    companyList: list of company names 
+    t: list of company names 
+    d: list of dictionaries with each mapping from word to frequency
     returns: 
     """
 
-    # json_data = open('freq_word_index.json', 'r')
-    # data = json.load(json_data)
-
-    company_d = {}
-    for company in companyList:
-        if company in data.items():
-            # TODO: figure out how to find specific filename of where company is mentioned
-            filename = ''
-            company_d[company].append(filename) 
+    companies = {}
+    for c in stocks:
+        for f in nestedDict:
+            # need to find it when word count of it is greater than 1
+            if c in nestedDict[f]:
+                try:
+                    companies[c].append(f)
+                except KeyError:
+                    companies[c] = [f]
+    return companies
 
 
 def process_file(filename):
@@ -91,40 +80,39 @@ def process_line(line, hist):
         hist[word] = hist.get(word, 0) + 1
 
 
-def most_common(hist):
-    """Makes a list of the key-value pairs from a histogram and
-    sorts them in descending order by frequency.
+def read_sentiment(filename):
+    pathName = 'news/' + filename
+    with open(pathName, 'r') as f:
+        s = ''
+        for line in f:
+            s += line 
+        return classifier.classify(extract_features(s.split())) 
 
-    hist: map from word to the number of times it appears
-    returns: list of (word, frequency) pairs, sorted by frequency
-    """
-    t = []
-    # create list of tuples with (frequency, word) sorted in descending order
-    for word in hist:
-        t.append((hist[word], word))
-
-    t.sort(reverse=True)
-    return t
-
-
-def print_most_common(hist, num=10):
-    """Prints the most commons words in a histgram and their frequencies.
-    
-    hist: histogram (map from word to frequency
-    num: number of words to print
-    """
-    t = most_common(hist)
-    print 'The most common words are:'
-    for freq, word in t[:num]:
-        print word, '\t', freq
-
-
+def store_sentiment(t):
+    sentiments = {}
+    for element in t:
+        sent = read_sentiment(element)
+        sentiments[element] = sent 
+    return sentiments
 
 
 
 if __name__ == '__main__':
-
     t = os.listdir('news/')
-    shortList = t[50:51]
+    shortList = t[50:700]
 
-    freq_word_index(shortList)
+    companyList = ['facebook', 'comcast', 'google', 'microsoft', 'hilton', 'qualcomm', 'bac', 'merrill']
+
+    nestedDict = freq_word_index(shortList)
+    # print nestedDict
+    d = company_index(companyList, nestedDict)
+    # # print len(d['microsoft'])
+    
+    # # store the articles about microsoft to a list
+    microsoft = (d['microsoft'])
+    print microsoft
+
+    print store_sentiment(microsoft)
+
+
+

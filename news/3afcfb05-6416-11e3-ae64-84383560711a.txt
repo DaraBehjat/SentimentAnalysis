@@ -1,0 +1,223 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/13/2013 @ 11:25AM
+             | 14 views
+     
+		 The GDP Figures Are Wrong Because We Don't Measure The Tech Sector Properly 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+There are a lot of things wrong with GDP as a measurement of how well we’re all doing. Simon Kuznets pointed out a number of them when he devised the concept back in the 1930s. GDP doesn’t measure the distribution of income for example, nor does it measure the consumption of irreplaceable resources. And there are some known screw ups: as is repeatedly pointed out we measure the clean up of pollution as an addition to GDP but not the original pollution as a deduction from it. And it looks like we’ve got problems with the way that we measure the  tech sector too :  
+
+  Or consider what appears to be an opposite error. According to the economist Erik Brynjolfsson of  MIT , the information sector of the economy (software, telecoms, publishing, data processing, movies, TV) has scarcely grown over the past 25 years as measured by GDP. This seems bizarre but it’s easy to see the logic: GDP measures the price paid for goods and services, but many valuable digital services are free or cheap. Brynjolfsson and co-author JooHee Oh reckon that every year consumers in the US are enjoying an extra $100bn of services online they don’t have to pay for. 
+ 
+This isn’t a new problem: Keynes pointed it out as Kuznets was first explaining the idea, saying that when a man marries his housekeeper then GDP goes down. So we do already know that when we start to get things for free that we used to pay for GDP goes down. But of course that’s not really measuring the reality of how we live. For we are made better off by getting something for free that we used to have to pay for.  
+My own personal example of this is that back in the 90s I was spending $4,000 or so a month on phone bills. That’s just what a lot of international calls cost in the place I was working. Nowadays I get the same amount of calling through Skype and I can’t even remember whether it is $25 a month or $25 a quarter. It’s gone from being a major business expense to something I don’t even notice any more.  
+But given that this has always been true, as Keynes pointed out, is the problem getting worse? I would say that it is.  
+The problem is that GDP is measuring goods and services produced at market prices (there are some adjustments for government spending but let’s not go there). And if certain goods and or services are going from paid for to free then that GDP is going down. But we’d really rather have a measure of what we’re able to consume, for it is consumption that is the wealth that all desire (or at least consumption possibilities). And free obviously opens up more consumption opportunities even as falling GDP seems to indicate that we’re all getting poorer.  
+The reason that I think this measurement problem is getting worse is because the great technological advances these days are being made in the digital economy. And it is of course in such digital goods and services that free is possible. Where there’s a zero (or near zero) marginal cost to serving the next customer that’s where free is likely to emerge as the business model. So, I would argue that yes, we’ve known for a long time that GDP is not a perfect measure of well being and it is precisely because it makes us look poorer when things become free. This problem is getting worse precisely because the technological revolution we’re living through is presenting us with more and more free things: thus the measurement problem is only getting larger.  
+What we really want is a measure of the consumer surplus we enjoy: that is, what’s the difference between what we would be willing to pay for something and the actual amount that we do have to pay for it? The value to me, for example, of the ability to use  Google   Google  is some thousands of dollars a year. I’ve certainly made more than that from having used Google. But I pay bupkiss for the use of Google and I have thus been made richer by those thousands without that appearing in our GDP measure. Unfortunately, no one actually knows how to measure that consumer surplus in a timely and accurate manner. So, sadly, we’re stuck with the GDP that we know is becoming ever more inaccurate. 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Do We Care About Income Inequality, or Absolute Well-Being?
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Warren Meyer 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Why Not Raise The Minimum Wage To $100 An Hour?
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Carrie Sheffield 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+             
+             
+                    Paul Krugman On When The Robots Take All Our Jobs
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Tim Worstall 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+             
+             
+                    GDP Revisions: What's Good for This Quarter is Bad for the Next
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Brian Jacobsen 
+	                     Contributor 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/timworstall/2013/12/13/the-gdp-figures-are-wrong-because-we-dont-measure-the-tech-sector-properly/

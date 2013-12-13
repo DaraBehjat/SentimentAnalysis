@@ -1,0 +1,246 @@
+	 Football dominates UK Twitter chat in 2013 
+
+     
+         
+ 
+    
+    
+					            	    		 			 
+														 By Dave Lee 
+				 Technology reporter, BBC News 
+			 
+		
+         Continue reading the main story 
+
+
+
+	 
+   
+
+     10th: England beat Poland 2-0 on 15 October to qualify for the Brazil 2014 World Cup, and causing the 10th-biggest spike of the year in UK Twitter traffic 
+   
+
+   
+
+     9th: Folk rock band Mumford   Sons close the Glastonbury Festival on 30 June 
+   
+
+   
+
+     8th: Bayern Munich beat FC Barcelona 4-0 in the Champions League semi-final on 23 April 
+   
+
+   
+
+     7th: England defeat Scotland 3-2 during an international friendly on 14 August 
+   
+
+   
+
+     6th: Wigan Athletic win the FA Cup final - their first major trophy - defeating Manchester City at Wembley Stadium on 11 May 
+   
+
+   
+
+     5th: Real Madrid beat Borussia Dortmund 2-0 on 30 April in the Champions League semi-final 
+   
+
+   
+
+     4th: England draw 2-2 with Brazil on 2 June - the first game to be played at the reopened Maracana stadium in Rio de Janeiro 
+   
+
+   
+
+     3rd: Andy Murray wins Wimbledon on 7 July, making him the first male British singles champion since 1936 
+   
+
+   
+
+     2nd: New Year s Eve celebrations have seen tweets become a popular alternative to the  traditional  text message 
+   
+
+   
+
+     1st: Manchester United were beaten by Real Madrid on 5 March, knocking them out of the Champions League but securing them the biggest spike in UK Twitter traffic 
+   
+Continue reading the main story 	 
+	 
+		 previous slide 
+		 next slide 
+		 
+	 
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Why loving One Direction is hard work 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Stan Collymore Twitter abuse probed 
+
+		 
+
+
+											
+
+
+
+
+		
+
+
+	
+
+
+
+
+
+	 How to deal with Twitter trolls?  Watch 
+
+		 
+
+
+								 
+	 
+                       Football dominated the list of Twitter  surges  among users in 2013, the social network has revealed. 
+         Real Madrid knocking Manchester United out of the Champions League caused the biggest spike among its UK-based users during the year. 
+         Other popular moments were Andy Murray s Wimbledon win, Mumford   Sons at Glastonbury, and New Year s Eve. 
+         But when it came to retweets, it was the boys from pop band One Direction who stood out. 
+         Three of the top five most retweeted messages were from the group, with  Yesss ! I m 20 ! Wohooo ! No more teens!  from band member Niall being shared 375,000 times. 
+         Yet the two most popular retweets worldwide were not about celebration, but tragedy. 
+         Glee star Lea Michele  thanked fans for their messages of support  and condolence after the death of co-star and real-life partner Cory Monteith - a message that was shared 408,000 times. 
+         And more recently, a  post confirming the death of Fast and the Furious star Paul Walker  drew 400,000 retweets. 
+   Great goals 
+	       As Twitter enters 2014 as a publicly owned company, much of its strategy for generating profit will centre on being the  second screen  app of choice - that is, being the place people go to to chat and read about major events as they unfold, either in real life or, most often, on television. 
+         This theory was evident in 2013, with armchair sports fans causing eight of the 10 biggest  tweet surges  in the UK. 
+   
+   
+
+     Glee s Lea Michele had the year s most retweeted post 
+   
+       With the exception of Andy Murray s tennis triumph, all were about football. 
+         Football dominated the most-tweeted-about moments in terms of tweets-per-second,  said Lewis Wiltshire, head of media partnerships at Twitter UK.  
+         The natural way you react when you see a great goal is to grab your phone. 
+   Abusive tweets 
+	       Excited chatter aside, Twitter s year will also be remembered for less positive reasons. 
+         Trolling  on the platform is on the rise, police say, while high-profile instances of bullying also made the headlines. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-23519337-29105');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","23519337"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Stella Creasy and Toby Young debate how best to deal with Twitter trolls 
+		 
+    
+		
+
+
+
+
+       MP Stella Creasy was among those who received death threats and sexually explicit abuse on Twitter. Others, like academic Mary Beard, were sent bomb threats. 
+         There are more than 500 million tweets a day on Twitter,  said Mr Wiltshire.  
+         The overwhelming number are positive. There ll always be one or two people want to highlight. 
+         Follow Dave Lee  on Twitter @DaveLeeBBC 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/technology-25321590#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

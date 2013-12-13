@@ -1,28 +1,34 @@
 
 import csv
- 
-ifile  = open('short_stock_datacsv.csv', "rb")
-reader = csv.reader(ifile)
 
-def create_lists(reader, ticker):
+ifile  = open('short_stock_datacsv.csv', "rU")
+reader = csv.reader(ifile, dialect=csv.excel_tab)
+
+
+def create_dates(reader, ticker):
+    findDate = '%s Date' % ticker 
     for row in reader: 
-
-        findDate = '%s Date' % ticker 
         if findDate in row:
-            dates = list(row)
-            del dates[0]
+            datesList = list(row)
+            del datesList[0]
+        return datesList
 
-        findOpen = '%s PX_OPEN' % ticker 
+def create_open(reader, ticker):
+    findOpen = '%s PX_OPEN' % ticker 
+    for row in reader: 
         if findOpen in row: 
-            open_prices = list(row)
-            del open_prices[0]
+            openList = list(row)
+            del openList[0]
+        return openList  
 
-        findClose = '%s PY_CLOSE' % ticker 
+def create_close(reader, ticker):
+    findClose = '%s PY_CLOSE' % ticker
+    for row in reader: 
         if findClose in row:
-            close_prices = list(row)
-            del close_prices[0]
+            closing = list(row)
+            del closing[0]
+        return closing 
 
-    return dates, open_prices, close_prices 
 
 
 def change_in_p_list(t_open, t_close):
@@ -34,6 +40,7 @@ def change_in_p_list(t_open, t_close):
 
     returns: list of percent changes in stock for each company
     """
+
     price_change = []
     
     for i in range(len(t_open)):
@@ -59,16 +66,18 @@ def create_dictionary(t_date, t_change):
     return d 
 
 
+
 if __name__ == "__main__":
 
-    print create_lists(reader, 'BAC')
-    # bac_change = change_in_p_list(bac_open, bac_close)
-    # bac_dictionary = create_dictionary(bac_dates, bac_change)
+    # dates = create_dates(reader, 'BAC')
+    opening = create_open(reader, 'BAC')
+    # closing = create_close(reader, 'BAC')
+    print opening 
+    # print dates 
+    # print closing 
 
-    # print bac_dictionary
+    # change = change_in_p_list(opening, closing)
+    # d = create_dictionary(dates, change)
+    # print d 
 
-    # print bac_dates
-    # print bac_open
-    # print bac_close
-
-ifile.close()
+    ifile.close()

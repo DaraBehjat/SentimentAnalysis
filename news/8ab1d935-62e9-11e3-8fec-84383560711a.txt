@@ -1,0 +1,39 @@
+
+
+CHICAGO  Dec 11 (Reuters) - Mandatory safeguards to prevent
+automated traders from illegally acting as buyer and seller in
+the same transactions would be harmful to the trading industry
+by exposing firms to unnecessary risk, a futures-industry group
+said on Wednesday 
+Such transactions, known as wash trades, are barred under
+U.S. regulatory and exchange rules because they can create the
+appearance of an active market where there is none and
+potentially be used to manipulate prices. Still, mandatory controls to block the transactions "would
+be not only difficult, but potentially dangerous," the Futures
+Industry Association (FIA) said in a letter to the U.S.
+Commodity Futures Trading Commission (CFTC). The stance was among a number of positions the FIA took in
+response to a call for comments from the CFTC about automated
+and high-speed trading. Citing a series of trading glitches as evidence that its
+rules needed updating, the CFTC in September asked for industry
+input on a long list of possible measures to make trading safer. Wash trades, in particular, have been in focus. The CFTC,
+concerned about the frequency with which high-speed traders
+engaged in wash trades, earlier this year was reviewing the
+banned self-dealing with an eye toward crafting new rules to
+prevent it, a CFTC commissioner said in July. The FIA said it did not believe "additional regulatory
+standards will provide increased protection to markets and
+market participants" because the CFTC and exchanges already have
+effective rules to prohibit intentional wash trades. "A 'one-size-fits-all' approach may result in unnecessary
+financial exposure caused by the inherent blocking of legitimate
+transactions," the FIA said in its letter. Mandatory controls from exchanges, or designated contract
+markets (DCMs), could be dangerous "due to limited options
+surrounding DCM self-match prevention choices, coupled with the
+diverse business structures," it said. "The options for this type of functionality must be flexible
+enough so that market participants can choose the method that
+best suits their business and preserves legitimate trading," the
+FIA said. CME Group Inc, the largest U.S. futures exchange
+operator, this year launched an optional feature on its
+electronic trading platform designed to prevent wash trades by
+allowing traders to block matching buy and sell orders. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/STZ1sejWvgE/story01.htm

@@ -1,0 +1,338 @@
+	 Horsemeat scandal: Review urges UK food crime unit 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25351825-63428');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25351825"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Professor Chris Elliott:  Food crime is something that happens internationally... Agencies now consider food crime as a very serious issue 
+		 
+    
+		
+
+
+
+
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: Horsemeat scandal 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Dog food meat  in human food chain 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Horsemeat - food fraud, not food safety 
+
+		 
+
+
+																	 
+	 
+                       A specialist food crime unit should be set up in the UK in the wake of the horsemeat scandal, a government-commissioned review has recommended. 
+         Prof Chris Elliott, of the Institute for Global Food Security at Queen s University Belfast, said the UK has high standards of food safety. 
+         But he said the scandal, uncovered in January,  clearly showed criminal activity in the global food chain . 
+         He called for  intelligence hubs  to gather information on food crime. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25351824-63429');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25351824"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Environment Secretary Owen Paterson:  How to set up a crime unit ... those are details we need to work on 
+		 
+    
+		
+
+
+
+
+       After the initial discovery by inspectors of horsemeat in processed beef products, horse DNA was found in other ready meals. 
+         Prof Elliott s  report  said there was  a worrying lack of knowledge  the extent in which criminals were infiltrating the industry, he said. 
+         I believe criminal networks have begun to see the potential for huge profits and low risks in this area. 
+         A food supply system which is much more difficult for criminals to operate in is urgently required. Government, and in particular a more robust Food Standards Agency (FSA) has a major role to play partnering these efforts. 
+   Continue reading the main story 
+
+
+
+
+
+
+
+
+
+
+
+CLICKABLE 
+
+	 
+		 
+		 
+		 Labels 
+		 Off 
+		 On 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+1. Comigel: Food processor 
+3. Spanghero: Meat processor 
+2. Tavola: Factory 
+4. Subcontractor 
+5. Trader 
+6. Abattoirs 
+7. Supermarkets 
+
+
+
+
+	 
+	 French food producer makes order 
+		 Comigel HQ in Metz, north-east France, asks its subsidiary, Tavola in Luxembourg, to make food products - including beef lasagne for Findus. 	
+
+	 
+	 Factory orders meat 
+		 The Tavola factory orders the meat from Spanghero in the south of France. 	
+
+	 
+	 Subcontractor used 
+		 Spanghero contacts a subcontractor in Cyprus to source the meat. 	
+
+	 
+	 Subcontractor enlists trader 
+		 The Cypriot subcontractor in turn contacts a trader in the Netherlands. 	
+
+	 
+	 Trader orders from Romania 
+		 The trader in the Netherlands places an order for meat with abattoirs in Romania. 	
+
+	 
+	 Abattoirs send meat to France 
+		 The meat from the abattoirs travels to Spanghero in France. However, Romania rejects claims that it was responsible for wrongly describing the horsemeat from its abattoirs as beef. Horsemeat is always labelled as such, they say. The Romanian authorities claim records show orders had been for horse carcass - easily distinguishable from beef.  	
+
+	 
+	 Meat used to make products 
+		 Spanghero sends the meat to the Comigel subsidiary’s factory in Luxembourg before the finished products are supplied to Findus and retailers across Europe, including the UK. The president of Comigel says the company was unaware the meat was coming from abroad.  	
+
+	 
+	 Horsemeat found in Ireland and UK 
+		 Tests by Irish authorities have found equine DNA in beefburgers made by firms in the Irish Republic and the UK. Traces of horsemeat have also been found in stored meat at another plant in Ireland and one in Northern Ireland.  In mainland Britain, police and officials probing alleged horsemeat mislabelling have carried out raids at a slaughterhouse in West Yorkshire and a meat firm near Aberystwyth. Three men were later arrested on suspicion of offences under the Fraud Act.. 	
+
+
+
+
+       The new food crime unit should be set up as a non-Home Office police force, modelled on systems working in countries like Denmark, Holland and Northern Ireland, the report says. 
+         Hosted by the FSA, it would have the capacity to deal with  complex food crime perpetrated by highly organised and dangerous, potentially violent organised crime groups . 
+         The report also outlines a series of ways that organised criminals are able to make huge profits from the food chain due to inadequate enforcement of regulations such as labelling. 
+         For example, fish is vulnerable to several kinds of fraud, including the substitution of cheaper species for expensive ones and adulteration of products with other species.  
+   'Put customers first' 
+	       The report says all parties who operate and manage the food chain  must put consumers first over all other aims . 
+         It adds:  To this end, contamination and adulteration of food, along with making false claims relating to food products, must be made as difficult as possible to commit. 
+   
+   
+
+   
+       The horsemeat scandal resulted in product recalls by a number of supermarkets and food producers, both in the UK and across Europe, and threw the spotlight on the food industry s supply chain. 
+         The report was commissioned by the Department for Environment, Food and Rural Affairs (Defra) and the Department of Health. 
+         Environment Secretary Owen Paterson said:  The fact is we have already taken some steps which are recommended in this review.  
+         The detail of how set up a crime unit as he suggests, whether we build on the current intelligence hub, I think those are details that we need to work on. But what is clear is that we are going to get ahead of the criminals, we are going to keep British food the safest in the world. 
+         The Food Standards Agency said it agreed that central government, local authorities and the food industry needed to work together in a proactive response to food crime.  
+         It said that it was already working to detect and deter food crime.  For example, we are carrying out a study to test that products which are labelled from the UK are in fact from the UK, we have introduced unannounced inspections of meat-cutting plants and we have increased to £2m the funding to local authorities to support their own testing programmes,  a statement said.  
+         The FSA added that it was working with the European Commission to establish an European Union food fraud unit. The Food and Drink Federation, which represents manufacturers, said it had developed a guide to best practice to help protect manufacturers and consumers. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25347633#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

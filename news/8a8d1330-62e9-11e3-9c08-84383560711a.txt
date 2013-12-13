@@ -1,0 +1,51 @@
+
+
+
+Dec 11 (Reuters) - U.S. wireless operators on Wednesday
+fought back against an accusation from the New York State
+attorney general that they refused to install software that
+would act as a "kill switch" to discourage theft of smartphones. New York Attorney General Eric Schneiderman sent letters to
+top executives of AT  Inc, Verizon Wireless, Sprint Corp
+, T-Mobile US Inc and U.S. Cellular Corp,
+asking why they prevented Samsung Electronics Co 
+from putting kill switch technology in their smartphones. The technology would give consumers the ability to remotely
+render their phone inoperable if it is stolen with an aim to
+eliminating incentives for theft. New York is part of a
+coalition of cities that are trying to reduce phone theft. However, Verizon Wireless said it had not yet been offered
+the kill switch technology by any manufacturer, including
+Samsung, and No. 3 U.S. mobile provider Sprint denied rejecting
+a kill switch from Samsung. Sprint spokeswoman Crystal Davis said her company is working
+with handset companies on such features but noted that there are
+"numerous concerns and technical details that need to be
+reviewed before such a feature is programmed on devices." Verizon said it would support a free and secure kill switch
+applications when it is provided by manufacturers. "We will be responding to the attorney general to help him
+and the coalition better understand the facts," company
+spokeswoman Debra Lewis said. CTIA, the trade group representing U.S. carriers, did not
+directly address whether its members had accepted the Samsung
+technology. But it said that any assertion its members have not
+worked as quickly as possible with national and local regulators
+"to remove the aftermarket for stolen phones is false." It also said it encourages consumers to use "available apps
+and features that remotely wipe, track and lock their devices in
+case they are lost or stolen," and that its members are
+exploring and offering technologies to address these crimes
+while making sure they are not inadvertently creating a "trap
+door" that hackers and cybercriminals could exploit. AT  and T-Mobile US declined to comment on the letter and
+instead referred questions to CTIA. Smaller rival U.S. Cellular
+said it was still reviewing the letter. In the letters dated Tuesday and disclosed publicly on
+Wednesday, Schneiderman cited media reports that indicated
+Samsung had offered to pre-load the feature on approved devices
+at the carriers. He also referred to a "parallel refusal" by the companies to
+take the Samsung software and said this raised questions about
+the independence of their decisions. He asked them whether it
+was related to their business ties to CTIA and Asurion, a
+provider of insurance for lost and stolen cellphones. Schneiderman said smartphone robberies are "rampant
+nationwide" and that nearly half of all reported robberies in
+New York City involve a smartphone. In June, Schneiderman and San Francisco District Attorney
+George Gascón met with representatives of Apple Inc, 
+Samsung, and Microsoft Corp as well as Google Inc's
+ smartphone maker Motorola Mobility to urge them to
+install switches to disable stolen smartphones. The New York Times website was first to report
+Schneiderman's investigation of the carriers early on Wednesday. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/qZkfPZmmsuY/story01.htm

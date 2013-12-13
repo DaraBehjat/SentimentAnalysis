@@ -1,0 +1,127 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/13/2013 @ 10:26AM
+             | 48 views
+     
+		 Boston's Mustbin Encrypts, Stores Photos Of Vital Documents 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+ 
+  
+   
+    Image by None via CrunchBase 
+   
+ 
+If you have vital documents in paper or plastic form – like a will, favorite photos, insurance policies, driver’s license, credit cards, passport and social security card – they could be destroyed by a flood or fire.  
+Last fall, a friend of Brian Shin’s had all these papers in an office in the basement of his parent’s home on the coast of New Jersey. When Hurricane Sandy blew in, it destroyed the home and he lost all his papers and pictures.  
+This disaster made Shin realize how much other people might value something that he was already doing. As he told  TechCrunch , “I had been struggling to keep track of an ever-growing amount of information that wasn’t digital – insurance forms, contracts, warranties, and physical collections of items.  I had tried to keep track of things by taking photos of stuff with my phone, but this was really getting out of hand.”  
+As he explained in a December 13 interview, Shin – who is CEO of a 200 person Boston startup, Visible Measures — came up with this idea – he calls it Mustbin (the opposite of dustbin) in the fall of 2012.  
+Mustbin replaces a diverse set of different ways that people store these kinds of documents. Many people store photos in the cloud – someone else’s computer network — on services like Facebook, Google, iCloud, or Flickr while business documents are backed up in clouds or company servers. But often, hard copies of forms, receipts, warranties, home, health, and financial information are still filed away in office cabinets and drawers.  
+People can solve this problem by using cloud services like Google Drive or Dropbox to scan and archive these items.  Or they can pay Shoebox to do the scanning for them. But Mustbin offers a simpler option – take a photo of the document with a smartphone. Mustbin organizes the photo, encrypts it so Mustbin employees can’t see your documents, and steps users through a simple process for using the service.  
+Mustbin users sign up, take a picture, add it to a bin (what it calls the folders were the photos are stored), and then the item is encrypted and sent to the cloud. Users can then share the items with family members, friends, or other tax or accounting advisors.  
+Mustbin offers one gigabyte of free storage for users, and lets users earn four more free gigabytes by introducing the product to people they know.  
+The nine-person downtown Boston-based company is backed by $4.5 million in outside funding from DAG Ventures, General Catalyst Partners, Mohr Davidow, Northgate Capital, Hubspot founder Dharmesh Shah, Jonathan Kraft and other angels including MIT professor, Ed Roberts.  Since Mustbin was introduced in mid-November 2013, it has received positive reviews and even “cracked the top 200 on the app store charts in the first two weeks,” said Shin.  
+Roberts described Mr. Shin as “the most amazingly persistent student he met at MIT” because even though Shin was not a student at MIT’s Sloan School where Roberts teaches, he kept trying to meet with Roberts and eventually succeeded. Roberts joined the board of Visual Measures. And when Shin told the Visual Measure board that he wanted to start Mustbin, many of the board members invested.  
+But to make Mustbin work while Shin ran Visual Measures, he needed to hire someone to build the product. As Shin explained, “I searched LinkedIn for someone who was an entrepreneur who had designed and built a mobile application. I found Satyender Mahajan who is VP Engineering for Mustbin. I interviewed a bunch of people but Saty was the best. He is the ideal case – a product person who does a tremendous job.”  
+As Mahajan explained in a December 13 interview, “We truly believe our Guides are a key feature. For people like my wife who are super organized, they have a sense of ‘what’ it is they need to record and store. For the vast majority, getting started and knowing what is important to store is hard and we believe Mustbin’s mobile-first approach and guided interface brings it to a level where it is accessible to all. We believe there is tremendous value in that for anyone with a mobile phone!” 
+
+
+
+         
+         
+http://www.forbes.com/sites/petercohan/2013/12/13/bostons-mustbin-encrypts-stores-photos-of-vital-documents/
