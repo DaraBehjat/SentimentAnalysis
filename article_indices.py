@@ -39,10 +39,11 @@ def company_index(stocks, nestedDict):
         for f in nestedDict:
             # need to find it when word count of it is greater than 1
             if c in nestedDict[f]:
-                try:
-                    companies[c].append(f)
-                except KeyError:
-                    companies[c] = [f]
+                if nestedDict[f][c] > 1:
+                    try:
+                        companies[c].append(f)
+                    except KeyError:
+                        companies[c] = [f]
     return companies
 
 
@@ -104,15 +105,15 @@ if __name__ == '__main__':
     companyList = ['facebook', 'comcast', 'google', 'microsoft', 'hilton', 'qualcomm', 'bac', 'merrill']
 
     nestedDict = freq_word_index(shortList)
-    # print nestedDict
-    d = company_index(companyList, nestedDict)
-    # # print len(d['microsoft'])
+    print nestedDict
+    # d = company_index(companyList, nestedDict)
+    # # # print len(d['microsoft'])
     
-    # # store the articles about microsoft to a list
-    microsoft = (d['microsoft'])
-    print microsoft
+    # # # store the articles about microsoft to a list
+    # microsoft = (d['microsoft'])
+    # print microsoft
 
-    print store_sentiment(microsoft)
+    # print store_sentiment(microsoft)
 
 
 
