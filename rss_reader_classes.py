@@ -208,12 +208,7 @@ if __name__ == '__main__':
     reutersfeed = Reutersfeed()
     forbesfeed = Forbesfeed()
 
-    main(cnnfeed)
-    main(bbcfeed)
-    main(reutersfeed)
+    # main(cnnfeed)
+    # main(bbcfeed)
+    # main(reutersfeed)
     main(forbesfeed)
-
-
-
-
-

@@ -99,7 +99,7 @@ def store_sentiment(t):
 
 if __name__ == '__main__':
     t = os.listdir('news/')
-    shortList = t[50:700]
+    shortList = t[1:]
 
     companyList = ['facebook', 'comcast', 'google', 'microsoft', 'hilton', 'qualcomm', 'bac', 'merrill']
 
