@@ -1,7 +1,7 @@
 from article_indices import *
 from stock_reader import *
 import numpy as np
-import matplotlib as plt
+# import matplotlib as plt
 
 infoList = [('ford','F'), ('facebook','FB'), ('comcast', 'CMST'), ('google','GOOG')]#, ('microsoft','msft'), ('hilton','hltn'), ('qualcomm','qual')]#, ('bac',''), 'merrill', 'ge']
 companyList = ['facebook','ford','microsoft','google']
@@ -12,6 +12,7 @@ ifile  = open('stocks/stock_data_12_14.csv', "rU")
 reader = csv.reader(ifile, dialect=csv.excel_tab)
 
 ticker = current[1]
+# print ticker
 dates = create_dates(reader, ticker)
 opening = create_open(reader, ticker)
 closing = create_close(reader, ticker)
@@ -37,28 +38,28 @@ d = company_index(companyList, nestedDict)
 
 
 # # store the articles about microsoft to a list
-microsoft = (d[current[0]])
-# print microsoft
+relatedArticles = (d[current[0]])
+# print relatedArticles
 
 # file_name maps to (date, sentiment)
-article_dict = store_sentiment(microsoft)
+article_dict = store_sentiment(relatedArticles)
 
 # print price_change_d
 
 # makes a dictionary that is {filename: (date, sentiment, change)}
 actual_shit= {}
-print article_dict
+# print article_dict
 for item in article_dict:
-    print
     if article_dict[item][0] != "Date Not Availible":
-        print article_dict[item][1]
-        print article_dict[item][0]
+        # print article_dict[item][1]
+        # print article_dict[item][0]
         try:
             actual_shit[item] = (article_dict[item][0],article_dict[item][1],price_change_d[article_dict[item][0]])
             
         except:
-            print "On weekend"
-            # STOP BEING LAZY>>>>>>>DO THIS 
+            pass 
+            # print "On weekend"
+            # DO THIS 
             # date = article_dict[item][0]
             # new_date = date[:8] + str(int(date[8:])+1)
             # second_date = date[:8] + str(int(date[8:])+2)
@@ -69,7 +70,7 @@ for item in article_dict:
             #     print price_change_d[second_date]
 
 print actual_shit
-fig1 = plt.figure()
+# fig1 = plt.figure()
 
 # what we need now:
 # price_change_d for the whole picture of the stock market

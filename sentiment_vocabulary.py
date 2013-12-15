@@ -21,6 +21,8 @@ def negative_vocab_list():
 
     negativeWords = []
     for line in fin2:
+        # if '*' in line:
+        #     line.replace('*')('')
         negativeWords.append(line.strip().split(' ')[0].lower())
 
     negative = ['negative'] * 4661
@@ -33,9 +35,6 @@ def negative_vocab_list():
 
 if __name__ == '__main__':
     neg_sntn3 = negative_vocab_list()
+    print neg_sntn3
     pos_sntn3 = positive_vocab_list()
-
-
-
-
 
