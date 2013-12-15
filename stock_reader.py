@@ -4,6 +4,12 @@ import csv
 
 
 def create_dates(reader, ticker):
+    """Creates a list of dates from csv reader. 
+    reader: csv file with stock price info
+    ticker: ticker name of company
+
+    returns: list of dates (strings)
+    """
     findDate = "%s Date" % ticker 
     for row in reader:
         rowList = row[0].split(',')
@@ -13,6 +19,12 @@ def create_dates(reader, ticker):
             return datesList
 
 def create_open(reader, ticker):
+    """Creates a list of opening stock prices from csv reader. 
+    reader: csv file with stock price info
+    ticker: ticker name of company
+
+    returns: list of prices (strings)
+    """
     findOpen = '%s OPEN' % ticker 
     for row in reader: 
         rowList = row[0].split(',')
@@ -23,6 +35,12 @@ def create_open(reader, ticker):
 
 
 def create_close(reader, ticker):
+    """Creates a list of closing stock prices from csv reader. 
+    reader: csv file with stock price info
+    ticker: ticker name of company
+
+    returns: list of prices (strings)
+    """
     findClose = '%s PX_CLOSE_1D' % ticker
     for row in reader: 
         rowList = row[0].split(',')
@@ -44,9 +62,12 @@ def change_in_p_list(t_open, t_close):
     """
 
     price_change = []
-    
+
     for i in range(len(t_open)):
-        change = ((float(t_close[i]) - float(t_open[i])) / (float(t_open[i]))) * 100
+        close = float(t_close[i])
+        opening = float(t_open[i])
+        change = ((close - opening) / (opening)) * 100
+
         price_change.append(change)
 
     return price_change
@@ -80,12 +101,12 @@ if __name__ == "__main__":
     closing = create_close(reader, ticker)
 
     # print dates
-    print opening 
-    print closing 
+    # print opening 
+    # print closing 
 
 
-    # change = change_in_p_list(opening, closing)
-    # print change 
+    change = change_in_p_list(opening, closing)
+    print change 
     # d = create_dictionary(dates, change)
     # print d 
 

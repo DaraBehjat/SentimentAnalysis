@@ -82,6 +82,10 @@ def process_line(line, hist):
 
 
 def read_sentiment(filename):
+    """Evaluates the sentiment of one article
+    filename: text file name
+    returns: string 
+    """
     pathName = 'news/' + filename
     with open(pathName, 'r') as f:
         s = ''
@@ -89,13 +93,17 @@ def read_sentiment(filename):
             s += line 
         return classifier.classify(extract_features(s.split())) 
 
+
 def store_sentiment(t):
+    """Creates dictionary mapping from filname to tuple of (date, sentiment)
+    filename_date: dictionary mapping from filename to date
+    returns: sentiments dictionary mapping from filname to (date, sentiment) 
+    """
     filename_date = {}
     with open('read_articles.csv', 'r') as f:
         for line in f:
             lineList = line.strip().split(', ')
             filename_date[lineList[2]] = lineList[1]
-
 
     sentiments = {}
     for element in t:
@@ -121,10 +129,10 @@ if __name__ == '__main__':
 
 
     # # store the articles about microsoft to a list
-    microsoft = (d['facebook'])
-    # print microsoft
+    company = (d['facebook'])
+    # print company
 
-    store_sentiment(microsoft)
+    store_sentiment(company)
 
 
 
