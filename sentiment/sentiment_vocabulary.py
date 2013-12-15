@@ -34,6 +34,8 @@ def negative_vocab_list():
 if __name__ == '__main__':
     neg_sntn3 = negative_vocab_list()
     pos_sntn3 = positive_vocab_list()
+    print neg_sntn3
+    print pos_sntn3
 
 
 

@@ -16,6 +16,9 @@ def create_dates(reader, ticker):
         if rowList[0] == findDate:
             datesList = rowList
             datesList.remove(findDate)
+            for element in datesList:
+                if element == '':
+                    datesList.remove(element)
             return datesList
 
 def create_open(reader, ticker):
@@ -31,6 +34,9 @@ def create_open(reader, ticker):
         if rowList[0] == findOpen:
             openList = rowList
             openList.remove(findOpen)
+            for element in openList:
+                if element == '':
+                    openList.remove(element)
             return openList
 
 
@@ -47,6 +53,9 @@ def create_close(reader, ticker):
         if rowList[0] == findClose:
             closeList = rowList
             closeList.remove(findClose)
+            for element in closeList:
+                if element == '':
+                    closeList.remove(element)
             return closeList
 
 
@@ -102,12 +111,12 @@ if __name__ == "__main__":
 
     # print dates
     # print opening 
-    # print closing 
+    print closing 
 
 
     change = change_in_p_list(opening, closing)
-    print change 
-    # d = create_dictionary(dates, change)
-    # print d 
+    # print change 
+    d = create_dictionary(dates, change)
+    print d 
 
     ifile.close()
