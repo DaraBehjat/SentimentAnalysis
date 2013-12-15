@@ -1,33 +1,35 @@
 
 import csv
 
-ifile  = open('short_stock_datacsv.csv', "rU")
-reader = csv.reader(ifile, dialect=csv.excel_tab)
 
 
 def create_dates(reader, ticker):
-    findDate = '%s Date' % ticker 
-    for row in reader: 
-        if findDate in row:
-            datesList = list(row)
-            del datesList[0]
-        return datesList
+    findDate = "%s Date" % ticker 
+    for row in reader:
+        rowList = row[0].split(',')
+        if rowList[0] == findDate:
+            datesList = rowList
+            datesList.remove(findDate)
+            return datesList
 
 def create_open(reader, ticker):
-    findOpen = '%s PX_OPEN' % ticker 
+    findOpen = '%s OPEN' % ticker 
     for row in reader: 
-        if findOpen in row: 
-            openList = list(row)
-            del openList[0]
-        return openList  
+        rowList = row[0].split(',')
+        if rowList[0] == findOpen:
+            openList = rowList
+            openList.remove(findOpen)
+            return openList
+
 
 def create_close(reader, ticker):
-    findClose = '%s PY_CLOSE' % ticker
+    findClose = '%s PX_CLOSE_1D' % ticker
     for row in reader: 
-        if findClose in row:
-            closing = list(row)
-            del closing[0]
-        return closing 
+        rowList = row[0].split(',')
+        if rowList[0] == findClose:
+            closeList = rowList
+            closeList.remove(findClose)
+            return closeList
 
 
 
@@ -68,15 +70,22 @@ def create_dictionary(t_date, t_change):
 
 
 if __name__ == "__main__":
+    
+    ifile  = open('stocks/stock_data_12_14.csv', "rU")
+    reader = csv.reader(ifile, dialect=csv.excel_tab)
 
-    # dates = create_dates(reader, 'BAC')
-    opening = create_open(reader, 'BAC')
-    # closing = create_close(reader, 'BAC')
+    ticker = 'FB'
+    dates = create_dates(reader, ticker)
+    opening = create_open(reader, ticker)
+    closing = create_close(reader, ticker)
+
+    # print dates
     print opening 
-    # print dates 
-    # print closing 
+    print closing 
+
 
     # change = change_in_p_list(opening, closing)
+    # print change 
     # d = create_dictionary(dates, change)
     # print d 
 

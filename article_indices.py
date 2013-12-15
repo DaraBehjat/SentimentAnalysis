@@ -37,8 +37,8 @@ def company_index(stocks, nestedDict):
     companies = {}
     for c in stocks:
         for f in nestedDict:
-            # need to find it when word count of it is greater than 1
             if c in nestedDict[f]:
+                # need to find it when word count of it is greater than 1
                 if nestedDict[f][c] > 1:
                     try:
                         companies[c].append(f)
@@ -90,10 +90,20 @@ def read_sentiment(filename):
         return classifier.classify(extract_features(s.split())) 
 
 def store_sentiment(t):
+    filename_date = {}
+    with open('read_articles.csv', 'r') as f:
+        for line in f:
+            lineList = line.strip().split(', ')
+            filename_date[lineList[2]] = lineList[1]
+
+
     sentiments = {}
     for element in t:
         sent = read_sentiment(element)
-        sentiments[element] = sent 
+        try:
+            sentiments[element] = (filename_date[element], sent)
+        except:
+            sentiments[element] = ("Date Not Availible", sent)
     return sentiments
 
 
@@ -102,18 +112,19 @@ if __name__ == '__main__':
     t = os.listdir('news/')
     shortList = t[1:]
 
-    companyList = ['facebook', 'comcast', 'google', 'microsoft', 'hilton', 'qualcomm', 'bac', 'merrill']
+    companyList = ['rite', 'ford', 'facebook', 'comcast', 'google', 'microsoft', 'hilton', 'qualcomm', 'bac', 'merrill', 'ge']
 
     nestedDict = freq_word_index(shortList)
-    print nestedDict
-    # d = company_index(companyList, nestedDict)
-    # # # print len(d['microsoft'])
-    
-    # # # store the articles about microsoft to a list
-    # microsoft = (d['microsoft'])
+    # print nestedDict
+    d = company_index(companyList, nestedDict)
+    # print len(d['microsoft'])
+
+
+    # # store the articles about microsoft to a list
+    microsoft = (d['facebook'])
     # print microsoft
 
-    # print store_sentiment(microsoft)
+    store_sentiment(microsoft)
 
 
 
