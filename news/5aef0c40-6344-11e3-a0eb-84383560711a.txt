@@ -1,0 +1,278 @@
+	 London Irish confirm takeover by Irish businessmen 
+
+     
+         
+ 
+								
+									 
+																									 
+							 By Nabil Hassan 
+							 BBC Sport 
+						 
+					 
+				
+				
+							 
+
+			    
+                               London Irish have announced the takeover of the Premiership club by a consortium of Irish businessmen.
+
+  
+               The London-based consortium will be led by Mick Crossan, executive chairman of the club s primary sponsor Powerday. 
+
+  
+     
+	 
+				 Correspondent analysis 
+				 
+		     
+			 Chris Jones 
+		 BBC Radio 5 live 
+
+
+
+		 
+		                In the Premiership recently there has been a bit of a split between the have and have-nots which London Irish felt when they lost a number of home-grown players to the likes of Leicester, Northampton and Bath over the summer.
+
+  
+                But this announcement today could well change the club s fortunes dramatically.
+
+  
+                The new management are confident of keeping star player such as Marland Yarde and James O Connor while the recruitment of World cup winning prop CJ Van der Linde is an early statement of the new owners  intent.  
+
+  
+
+		 
+			 
+
+                The members of the consortium are delighted to assume the responsibility for London Irish at this important time in the club s history,  said Crossan, who becomes the club s new president.
+
+  
+               The change of ownership has been approved by the Rugby Football Union.
+
+  
+               A statement said:  The new owners have committed substantial new funds to the club that will be used to invest in the centre of excellence, to strengthen the playing squad, to re-invigorate the club s academy and to invest in experienced management and support staff. 
+
+  
+               The takeover will give the club hope of keeping hold of star assets England wing Marland Yarde and Australian back James O Connor.
+
+  
+               It has also enabled the Exiles to confirm the signing of 
+    
+South African World Cup-winning tighthead prop CJ Van der Linde.  
+
+
+  
+               Director of rugby Brian Smith said:  We really appreciate the investment, they are great supports of this club and have been for some time. It is exciting times from my perspective.
+
+  
+                With this new investment we are able to announce the signing of South African World Cup winner CJ Van der Linde.
+
+  
+     
+	 
+				 London Irish: A potted history 
+				 
+		     
+   
+
+   
+
+
+		 
+		     
+          1898: London Irish RFC is founded
+
+          1931: The club moves to Sunbury-on-Thames, where they still train
+
+          1940-59: The Exiles play their first-team fixtures at Blackheath
+
+          1991: Promoted to the First Division
+
+          1996: London Irish turn professional
+
+          2000: Club moves to the Madejski Stadium in Reading, home of Reading FC
+
+          2002: The club wins its first piece of silverware, beating Northampton in the Powergen Cup final at Twickenham
+
+          2008: Finish the season as Premiership runners-up, losing to Leicester 10-9 at the final at Twickenham.
+
+   
+
+		 
+			 
+
+                We are excited about what he brings to the party, he is experienced and he will help develop the other players we have invested in. We are excited and grateful to our new investors for making this possible. 
+
+  
+               Interim executive chairman David Fitzgerald, a former Exiles captain, said the club would continue to play at Reading FC s Madejski Stadium, where they have a contract to groundshare until 2025-26, for  the foreseeable future , but added that the consortium would review that position. 
+
+  
+               And Crossan said his aim was to make the Exiles a world-renowned name.
+
+  
+                London Irish is unique in the world of rugby, we want it to be the best it can be. A few years ago we were challenging in the Heineken Cup,  he said.
+
+  
+                We ve dropped off in recent years, and we ve seen enough and we want them to be one of the top clubs in England and the world. 
+
+  
+                It is very close to my heart. We will sit down with Brian [Smith] and see if we can bring better players in the club and grow the academy, which used to be second to none. A few years ago 63% of our first team came from the academy and for whatever reason that has dropped off.  
+
+  
+               Meanwhile, existing CEO Andy Martin has left the club by mutual consent.
+
+  
+
+			
+						
+			 
+     Also related to this story 
+    
+     
+	                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Irish fighting hard to keep stars
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 09 Jan 2013 
+		
+			 London Irish 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Yarde close to new London Irish deal
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Nov 2013 
+		
+			 London Irish 
+	
+			 
+	
+	
+             
+                     
+                
+
+
+
+
+
+
+
+    	
+
+	
+	 
+                                                        Get Inspired: RUGBY UNION
+                
+                                    
+                     
+                    
+                            		
+		 
+		
+	
+					 
+				 19 Jul 2013 
+		
+			 Get Inspired 
+	
+			 
+	
+	
+             
+             
+
+$render("page-see-also","ID");  
+
+			
+			 
+								 Share this story 
+				     
+                     
+                 
+                     Share this page 
+                 
+             
+                         
+                 
+                     print 
+                 
+             
+                                        
+                 
+                     $render("advert","advert-sponsor-module","page-bookmark-links"); 
+                 
+                 $render("advert-post-script-load"); 
+            
+             
+             
+    
+							 
+			
+							
+				 
+					 $render("advert","advert-google-adsense"); 
+				 
+				 $render("advert-post-script-load"); 
+				
+					 
+	
+			 
+
+	
+	 
+				
+		 
+		     
+			 $render("advert","advert-mpu-high"); 
+		     
+		     $render("advert-post-script-load"); 
+		 		    
+		
+		
+		
+		 
+http://www.bbc.co.uk/sport/0/rugby-union/25333763

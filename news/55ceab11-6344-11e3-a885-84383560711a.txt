@@ -1,0 +1,214 @@
+	 Osborne: Billions more in welfare savings needed 
+
+     
+         
+ 
+    
+    
+		
+         
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25347716-62635');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25347716"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 George Osborne says the next government will have to find  billions of pounds more in welfare savings 
+		 
+    
+		
+
+
+
+
+
+	 Continue reading the main story 	
+
+
+
+
+		      
+	       	          
+
+		
+		
+						
+		 
+		
+	
+						 UK Economy 
+		
+		
+
+		  	   
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What is quantitative easing? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What is  forward guidance ? 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 GDP explained 
+
+		 
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 What is inflation? 
+
+		 
+
+		
+	  	   
+  
+
+
+		
+	
+
+	       	      
+	
+                       Billions of pounds need to be cut from the UK s welfare budget, Chancellor George Osborne has said. 
+         Politicians now faced the  hard choice  of further welfare cuts to meet deficit reduction targets.  
+         You are going to have to find billions of pounds more in welfare savings if you want to reduce the deficit, eliminate the deficit and get our debt falling,  he said. 
+         He also said the next Budget would be on 19 March 2014.  
+         The comments, made to the Treasury Committee, indicate that if the Conservative Party wins the next election, welfare may be cut to protect spending on public services.  
+         Conservative MP Brooks Newmark cited figures produced by the Institute for Fiscal Studies think tank, which said that welfare cuts of £12bn would be required after the next election to keep departmental budget cuts at their current rates.    
+         Mr Osborne said:  I don t want to put a number on it, but I agree with the analysis behind it that many billions of welfare savings are going to be required if we want to avoid cutting government budgets even further than they have been in terms of the rate.  
+         And anyone who wants to be honest about dealing with the deficit and making sure that we maintain public services of sufficient quality should also be honest about the welfare savings that are required. 
+         The chancellor was also asked by MPs about the effects of his Help To Buy scheme, which aims to help those who want to buy a house but are only able to put down a small deposit. 
+         Committee chair Andrew Tyrie suggested he was  adding vodka to the punch bowl just as the party gets going . 
+         Mr Osborne said:  The early evidence from Help to Buy is that three-quarters of those taken out are not living in London and the South East.  
+         The average house purchase that they have been looking for is £160,000, that s below the national average. In other words, it is dealing with exactly the families we want it to help. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25349236#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

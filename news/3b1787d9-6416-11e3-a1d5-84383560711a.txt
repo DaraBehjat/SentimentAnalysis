@@ -1,0 +1,135 @@
+         
+
+         
+
+
+         
+             Business 
+         
+         | 
+     
+        12/13/2013 @ 10:29AM
+             | 54 views
+     
+		 SAP Handbook Simplifies Software Deployment 
+
+
+
+
+             
+         
+
+         
+             
+	                    
+	                 	 
+	                     
+	                     
+	                     
+							 Susan Galer , SAP 
+	                     
+             
+         
+         
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+Simplified technology might sound like an oxymoron, but it’s become one of the watchwords at  SAP   SAP . In response to increasingly complex innovation, there’s an equally strong push for simplification. Jim Hagemann Snabe recently talked about SAP’s plans for a new  simplification  initiative in January 2014. Speaking at the  UK and Ireland SAP User Group conference , Snabe told the audience:  
+
+  “In January we will put simplification as a key goal, offering more of a solutions approach. The new approach will be demonstrated at the  Sapphire 2014  conference.” 
+ 
+In fact, simplification is already happening across SAP. Consider  SAP Rapid-Deployment Solutions  that arrive pre-packaged with predefined services, best practices content, and enablement. Compatible with public, private, and virtual clouds, along with on-premise systems, rapid-deployment solutions are typically up and running in an average of 2 to 14 weeks. As any implementer will attest, that’s significantly faster than traditional  enterprise  resource planning (ERP) software.  
+Now 30 SAP experts have co-authored a new handbook,  “ Rapid Deployment of SAP Solutions, ”  that’s billed as the definitive guide to implementing SAP Rapid-Deployment Solutions. The content is based on actual use cases from 17 companies worldwide that are using these solutions. I recently interviewed  Dr. Bernd Welz, Executive Vice President of Solution   Knowledge Packaging at SAP , for my review of the book on  sap.info .  Here’s an excerpt of what he told me:  
+
+  “Anyone evaluating new SAP solutions or embarking on a new project, whether in-house or with consultants or SAP partners, would benefit from reading this book because it explains the basic principles of how SAP Rapid-Deployment Solutions work. This is important knowledge to have before starting a specific project, especially from the real-world use cases that detail how customers have benefited from this approach.” 
+ 
+What’s interesting is that the co-authors hail from not just SAP’s rapid-deployment team, but also  Active Global Support ,  Services ,  SAP HANA Enterprise Cloud , and Sales. This gives readers a well-rounded view of the full spectrum of SAP Rapid-Deployment solutions including pre-packaged offerings as well an integration with and migration to SAP innovations such as  SAP HANA ,  Success Factors  and other  cloud  offerings, and  SAP Fiori . Plus, the case studies cover a wide range of industries including sports and entertainment, life science, healthcare, industrial machinery and manufacturing, energy, and consumer products.  
+Technology may be getting more complex but this increases pressure on the entire industry to make it easier for customers. An approach to software implementation that meets customer demands for agility and speed is certainly a step in the right direction for simplification.  
+Follow me  @smgaler 
+
+
+
+         
+         
+http://www.forbes.com/sites/sap/2013/12/13/sap-handbook-simplifies-software-deployment/

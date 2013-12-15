@@ -1,0 +1,158 @@
+	 Myners to earn £1 a year for Co-op Group review 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     The Co-op Bank has been hit by scandal 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Q A: What is the co-operative movement? 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Co-op  favoured over Lloyds deal 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Parties row over Co-op  smears 
+
+		 
+
+
+																	 
+	 
+                       Labour s former City minister Lord Myners has said he will be paid £1 a year for leading a review into the troubled Co-operative Group. 
+         The Co-op Group said  Lord Myners was joining its board immediately in a new role as senior independent director and would chair its governance review. 
+         Lord Myners said the group was at a  crucial point  in its development and faced  serious challenges . 
+         The group also faces an inquiry into the near-collapse of its Co-op Bank. 
+         Last month, Prime Minister David Cameron announced that there would be an independent investigation into events at the bank, including former banking head Paul Flowers  time there. 
+         The Co-op Group has recently made headlines over the resignation of chairman Len Wardle, the arrest of Mr Flowers over drugs allegations, and a rescue deal for its bank which handed 70% ownership to private investors. 
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                     
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25348908-64700');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+    	
+        
+		
+
+
+
+
+'A bit of a bother' 
+	       Lord Myners told BBC Radio 5 live that the advantage of the mutually-owned group was that it had no  avaricious shareholders with an open mouth needing to be stuffed full of money . 
+         He added:  It s got itself into a bit of a bother - it needs to sort itself out. I m drawn to situations like this and I m absolutely confident we can sort this out.  
+         The underlying business, the customer proposition is absolutely tremendous. I m doing it because the Co-op matters - it matters to me and it matters to its nine million members.   
+         Co-op Group chair Ursula Lidbetter said the appointment of Lord Myners  marks a significant strengthening of our ranks . 
+         She added:  We have made it clear that we need to modernise and to embed the very best standards of corporate governance, while also ensuring that the voices of all our members and customers resonate through the business. 
+         The group s chief executive, Euan Sutherland, also welcomed Lord Myners  decision to join the board. 
+         His leadership on the governance review will be crucial,  he added. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25345253#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

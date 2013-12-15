@@ -1,0 +1,210 @@
+         
+
+         
+
+
+         
+             Tech 
+         
+         | 
+     
+        12/13/2013 @ 1:15PM
+             | 140 views
+     
+		 IT Versus The Business. Again. This Time It's Filesharing 
+
+
+
+
+             
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+
+  
+   Tech Support (Photo credit: skuds) 
+ 
+One of the common comments about cloud computing is that it opens up the floodgates to so-called shadow IT, the trend of end users self-provisioning solutions either because of IT reluctance to give them what they need or due to apathy about IT policy. A recent survey by vendor Workshare highlighted this situation and in particular the trend of mobile users to circumvent IT and use unsanctioned applications for file sharing and collaboration.  
+The survey took in around 6000 employees in both the US and EMEA and looked at their broader mobile device and file sharing activities. Some high level findings:  
+ 
+  72% of those questioned had not received authorization from their IT department to use their consumer-based file sharing application, up from 66% in 2012.  
+  Over half (62%) of knowledge workers use their personal devices for work  
+  The majority (69%) of these workers also use free file sharing services to collaborate and access shared documents, which is a 3% increase over the last year.  
+  Larger companies, with over 20,000 employees, had a greater grasp of data security issues around file sharing applications. In contrast, companies with fewer than 500 employees had a much lower proportion (24%) of employees using authorized file sharing solutions.  
+ 
+The company produced an infographic that starkly highlighted the massive disconnect between what users are doing, and what IT sanctions and knows about. Obviously this disconnect raises a number of points relating to the role of IT and whether it is meeting the needs of business users. There are two ways to look at this debate:  
+ 
+  The IT line – Users have no real understanding of Governance Risk and Compliance (GRC) and need to be protected from their own actions. IT policies are their to meet the regulatory and internal policy rules that organizations have and breach of these rules can lead to massive and catastrophic loss which can threaten the very organization itself.  
+  The business line – IT is a road block to all innovation. Largely for self-serving and empire-building reasons, IT blocks any sort of modernization of the way the business interacts with technology. The move to mobile devices and remote working put massive challenges on traditional software and it is only through the use of non-sanctioned applications that the business has the chance to remedy this.  
+ 
+Of course most IT departments are less dogmatic than this, while most business users have more understanding of GRC issues than my classifications above would indicate. But spending time talking with enterprise users, my segmentation, coarse as it may seem, isn’t massively far from the truth. I’ve  written  before about the issue with some admittedly revolutionary ideas about how to build a bridge between IT and the business.  
+The amazing thing here is that now, fully a decade or more since the introduction of cloud computing and SaaS, we still have this massive disconnect. Many vendors I talk to say that cloud adoption is a solved problem and there are further things to now resolve. This survey indicates that isn’t the case and that we all still have a lot of work left to do.  
+Connect with Ben on Twitter @benkepes | LinkedIn | AngelList 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    Server Huggers And Henry T Ford's Faster Horse
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Ben Kepes 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+             
+             
+                    Moving IT Beyond The 'Department Of No'
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Ben Kepes 
+	                     Contributor 
+	                 
+	             
+         
+
+
+
+         
+             
+                 
+                 
+             
+             
+                    Role Reversal as an IT/Business Bridge Builder
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     Ben Kepes 
+	                     Contributor 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/benkepes/2013/12/13/it-versus-the-business-again-this-time-its-filesharing/

@@ -95,22 +95,15 @@ print feature_probdist[('negative', 'contains(best)')].prob(True)"
 
 print classifier.show most_informative_features(32)"""
 
+<<<<<<< HEAD
 sentence = 'apple files for bankruptcy'
+=======
+>>>>>>> 47b33326f92431c9ed0163896d59bceb3d66a0d5
 
-print classifier.classify(extract_features(sentence.split()))
+if __name__ == "__main__":
 
+	sentence = 'Apple stock soars after better than expected earnings'
+	sentence2 = 'Apple loses shareholders as revenues fall. '
 
-
-
-""""def classify(self, featureset):
-	  # Discard any feature names that we've never seen before.
-	  # Find the log probability of each label, given the features.
-	  # Then add in the log probability of features given labels.
-	  # Generate a probability distribution dictionary using the dict logprod
-	  # Return the sample with the greatest probability from the probability
-	  # distribution dictionary
-
-	{'positive' : -1.0, 'negative': -1.0}
-	{'positive': -5.4785441837188511, 'negative': -14.784261334886439}
-
-	DictionaryProbDist(logprob, normalize=True, log=True)"""
+	print classifier.classify(extract_features(sentence.split()))
+	print classifier.classify(extract_features(sentence2.split()))

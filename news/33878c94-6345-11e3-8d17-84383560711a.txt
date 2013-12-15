@@ -1,0 +1,187 @@
+         
+
+         
+
+
+         
+             Business 
+         
+         | 
+     
+        12/12/2013 @ 9:56上午
+             | 45 views
+     
+		 2014 Forecast: Business Gets Strategic About The Cloud 
+
+
+
+
+             
+         
+
+         
+             
+	                    
+	                 	 
+	                     
+	                     
+	                     
+							 SAP Guest , SAP 
+	                     
+             
+         
+         
+         
+
+     
+         
+         
+         
+             
+
+             
+                 
+                     comments,  called-out
+                 
+             
+                 Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+         
+         
+         
+             Comment Now 
+			 
+
+
+
+
+     
+
+     
+	 
+		 
+			 Follow Comments 
+		 
+
+		 
+			 Following Comments 
+		 
+
+		 
+			 Unfollow Comments 
+		 
+	 
+	 
+	 
+     
+     
+			 
+     
+     
+     
+                     
+
+                     
+
+     
+
+
+		 
+
+
+	        
+By Tim Minahan, Chief Marketing Officer, SAP Cloud  
+
+  
+   Photo: Shutterstock 
+ 
+Businesses found religion in the cloud in 2013. And their appetite for cloud related technologies — from public apps to private cloud to platform — will only grow in the years ahead. In fact, market-watchers at IDC predict that spending on the cloud from 2013-2017 will increase at five times the pace of overall tech spending.  
+Yet, cloud adoption will no longer be driven on blind faith in the promise of lower information technology (IT) costs. Businesses will move to the cloud for different reasons than in the past. And buyers will both look different and be more informed consumers.  
+Increasingly, businesses will look beyond just total cost of ownership (TCO) benefits and IT efficiencies and leverage the cloud as a platform for innovation and business agility. Buyers will be more calculated in their cloud purchase decisions, demanding greater flexibility and choice in their cloud portfolio. They’ll also look to harness the power of disruptive cloud-delivered services, such as social and business networks to unlock new value for their business.  
+So what can we expect from the cloud in 2014? A few predictions:  
+Not everything will move to the Cloud  
+Companies will no doubt accelerate their adoption of the cloud in 2014 and beyond. But they aren’t going to rip and replace everything they’ve already got. Instead, businesses will look to extend their existing technology investments with cloud applications and infrastructure to enable new processes and unlock new insights or reach new markets that are not possible or efficient at scale in on-premise environments.  
+Innovation will Trump TCO  
+The days of building a business case to move to the cloud based on TCO alone are over. Companies will increasingly look to invest in the cloud as their innovation platform – as a way to enable new processes and achieve new insights that enable them to run their business in an entirely new way – not just do the same old things using a different delivery model. Some examples might include recruiting, on-boarding, and training a global workforce, including the growing contingent workforce; collaborating with customers. Or managing and collaborating on orders, invoices, and payment with customers and suppliers in real-time. Or harnessing the collective transactional and relationship information available on business networks or the knowledge of crowds accessible through social collaboration tools.  
+One trick ponies will be put out to pasture  
+Companies will replace discrete process-specific cloud applications with broader end-to-end cloud process suites. For example, instead of just using a cloud application for talent management, they will look for a cloud suite that can holistically manage the complete recruit-to-retire lifecycle. Or instead of merely tapping the cloud for a sourcing or negotiation tool, they will look for a complete and integrated source-to-settle suite that can enable a more holistic spend management strategy.  
+Platform will matter  
+Businesses will start scrutinizing the bigger picture IT environment and drive towards simplification across all layers of the stack. That means, companies will not only look for broader cloud business process suites as described above, but they will also expect these applications to look and perform similarly, and interact with one another seamlessly. Finance, IT, and other business functions will begin to question the costs, risks, and longevity of today’s typical ‘potpourri’ cloud environment, where a host of discrete, process-specific apps are strung together through a series of loosely-coupled integrations that need to be maintained and upgraded overtime. Instead, savvy companies will start to demand an application portfolio built on a common cloud platform that unifies all their apps, data, and processes with a common data model, reporting, and UX.  
+IT will become more strategic  
+Research firm IDC predicts that by 2016, line-of-business (LoB) executives will be involved in 80% of all new IT investments and will function as the lead decision makers in more than half of those investments. Smart IT organizations will not only partner with Marketing, Procurement, HR, and other LoB teams, but they will also become more business savvy. In the future IT leaders will shift from a focus on technology implementation and maintenance to a core competency in business process assembly and innovation.  
+Business will become more predictive  
+Companies will harness disruptive technologies of the day to see the future and proactively shape it to their advantage. Leveraging the convenience and agility of the cloud, the connectivity and insights of social and business networks, the speed and power of in-memory analytics,and the accessibility of mobile, leading businesses will be armed to predict the future with confidence, assess the right response, and have the agility to quickly adapt their business processes to capitalize on these market dynamics and stay ahead of the competition.  
+In short, there is no doubt that the cloud will become more prevalent in all aspects of the business and IT stack. Yet, adoption approaches and cloud environments will look far different in the coming years than they did over the past five. 2014 will likely go down as the year where business got strategic about the cloud.  
+Follow me on Twitter:  @tminahan .  
+This story   originally appeared on  SAP Business Trends . 
+
+
+
+
+	 
+		 
+			 Move up http://i.forbesimg.com t 
+			 Move down 
+		 
+
+
+
+
+
+
+         
+             
+                 
+                 
+                         
+             
+             
+                    		     SAP Voice:  
+The Predictive Business: When Real-Time Is Not Enough
+
+
+             
+
+
+	             
+	            		 
+	                	 
+
+	                     SAP Guest 
+	                     @SAP 
+	                 
+	             
+         
+
+     
+
+
+
+         
+         
+http://www.forbes.com/sites/sap/2013/12/12/2014-forecast-business-gets-strategic-about-the-cloud/

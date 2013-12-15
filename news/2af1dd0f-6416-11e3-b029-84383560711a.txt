@@ -1,0 +1,121 @@
+	 Bitcoin start-up raises $25m venture capital funding 
+
+     
+         
+ 
+    
+    
+		
+         
+   
+
+     Bitcoins are starting to be accepted for some real-world goods and services 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Bitcoin: Price v hype 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Bitcoin trade ban for Chinese banks 
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Five held following Bitcoin scams 
+
+		 
+
+
+								 
+	 
+                       Coinbase, a start-up that lets people trade Bitcoins, has raised $25m (£15m) in venture capital funding - the largest by a Bitcoin start-up. 
+         Bitcoin, a virtual currency, has been attracting a lot of interest and its value surpassed $1,000 recently. 
+         Backers of the currency, which is not controlled by regulators, have been pushing for its increased usage.   
+         Coinbase said it will use the funding to  educate the market, and promote the mainstream adoption of Bitcoin .  
+         We are nearing a tipping point for broad adoption of Bitcoin - what we at Coinbase believe to be one of the most important shifts in the global economy in our lifetime,  the firm  said in a blogpost . 
+   Mixed response 
+	       Confidence in Bitcoins has grown after a US Senate committee described it as a  legitimate financial service  at a meeting in October. 
+         However, on Friday, the European Banking Authority (EBA) warned about the potential risks of using Bitcoins.  
+   
+	 Continue reading the main story 		 How Bitcoin works 
+		 
+	
+	 
+	       Bitcoin is often referred to as a new kind of currency. 
+         But it may be best to think of its units being virtual tokens rather than physical coins or notes. 
+         However, like all currencies its value is determined by how much people are willing to exchange it for. 
+         To process Bitcoin transactions, a procedure called  mining  must take place, which involves a computer solving a difficult mathematical problem with a 64-digit solution. 
+         For each problem solved, one block of bitcoins is processed. In addition the miner is rewarded with new bitcoins. 
+         This provides an incentive for people to provide computer processing power to solve the problems. 
+         To compensate for the growing power of computer chips, the difficulty of the puzzles is adjusted to ensure a steady stream of about 3,600 new bitcoins a day. 
+         There are currently about 11 million bitcoins in existence. 
+         To receive a bitcoin a user must have a Bitcoin address - a string of 27-34 letters and numbers - which acts as a kind of virtual postbox to and from which the bitcoins are sent. 
+         Since there is no registry of these addresses, people can use them to protect their anonymity when making a transaction. 
+         These addresses are in turn stored in Bitcoin wallets which are used to manage savings.  
+         They operate like privately run bank accounts - with the proviso that if the data is lost, so are the bitcoins owned. 
+  
+	 
+	        In particular, consumers should be aware that exchange platforms tend to be unregulated and are not banks that hold their virtual currency as a deposit,   the EBA said .  
+         Currently, no specific regulatory protections exist in the European Union that would protect consumers from financial losses if a platform that exchanges or holds virtual currencies fails or goes out of business. 
+         China, the world s second largest economy, has also banned its banks from handling Bitcoin transactions,  saying they had no legal status  and should not be used as a currency. 
+         At the same time, there have been concerns that the rise in Bitcoin s value has been triggered by speculators looking to cash in on its popularity.  
+         Alan Greenspan, former US Federal Reserve chairman, has called the rapid rise a  bubble . 
+   'Easier for consumers' 
+	       Despite these concerns, some establishments across the globe have started to accept Bitcoins as a form of payment, just like cash or credit cards.  
+         Coinbase said the number of people who use its Bitcoin wallet had doubled to more than 600,000 in the past two months and almost 10,000 new people were signing up every day.   
+         It said it was also working with 16,000 merchants to provide Bitcoin payments.  
+         We are making it easier for consumers to buy, merchants to sell, and developers to build,  the firm said.  
+         Chris Dixon, of venture capital fund Andreessen Horowitz - which led the Coinbase funding,  said in a blogpost  that the Bitcoin platform could be used to develop new technologies. 
+         He said the potential applications of Bitcoins include  machine-to-machine payments to reduce spam  and offering  low-cost financial services to people who, because of financial or political constraints, don t have them today . 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/technology-25360849#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa

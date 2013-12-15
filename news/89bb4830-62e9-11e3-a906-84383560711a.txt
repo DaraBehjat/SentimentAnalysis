@@ -1,0 +1,98 @@
+
+
+
+By Alwyn Scott WASHINGTON  Dec 11 (Reuters) - In the crucial minutes before
+an Asiana Airlines flight crashed in San Francisco last summer,
+the pilots voiced concern about the plane's low speed but did
+nothing to correct it until just before it hit the ground. A hearing on Wednesday into the July 6 crash that killed
+three people and injured more than 180, highlighted the pilots'
+mistaken reliance on the autopilot to maintain their airspeed
+but also Korean cultural factors that may have played a role and
+the design of the flight controls. The pilot flying the plane was "stressed" about hand-flying
+the plane, according to interviews with National Transportation
+Safety Board investigators, and hesitant about aborting the
+landing because he felt the more senior pilot observing him
+should make that call. Asiana Airlines Inc Flight 214 came in too
+slowly and too low, causing the plane's tail to hit a seawall
+short of the runway. The plane spun 330 degrees as it broke
+apart and caught fire, strewing wreckage along the runway. It was the first fatal commercial airplane accident in the
+United States since February of 2009 and the first fatal
+accident for Boeing Co's 777 airliner since it entered
+service in 1995. There was no indication of mechanical problems with the
+plane. The crash has sharpened a debate on whether over-reliance on
+autopilot systems in modern aircraft has led to degraded human
+flying skills and increased the risk of accidents. There is "an issue in aviation" with cockpit automation,
+NTSB Chairman Deborah Hersman told reporters covering the
+board's hearing but she added that the airline industry has a
+robust safety record. Hersman said the agency has no immediate plans to make
+recommendations from the hearing, but if it finds a safety
+issue, it can make recommendations at any time. The NTSB typically takes 12 to 18 months to complete a major
+investigation. TRAINING, RESCUE RESPONSE The hearing also questioned the pilots' training and the
+rescue response.  One of the victims died from being struck by a
+rescue truck after the crash. Training has been central to the investigation because
+although the pilots had many hours of flying experience, Lee
+Kang-kook, the pilot flying the plane, was making his first
+landing of a Boeing 777 jet in San Francisco. His supervisor,
+Lee Jeong-min, was making his first flight as a trainer. The Asiana pilots said in interviews with the NTSB that they
+left their "flight director" system, which includes the
+autopilot, partly on. But in that mode, the system would not "wake-up" from hold
+mode, testified Captain John Cashman, a retired Boeing 777 test
+pilot, at the hearing on Wednesday. The lack of wake-up meant
+the autothrottle was not going to prevent the plane's speed from
+slipping below the minimum needed to keep it aloft. The design is consistent with Boeing's philosophy of leaving
+the pilot in charge of the controls. "We try not to put in
+design elements that override the pilot," Cashman said at the
+hearing. "We try to let him be the decider." Cashman said the design principles had been consistent for
+31 years, across Boeing's 747, 757, 767, 777 and 787 models. SPEED CONCERNS The pilot flying the plane, Lee Kang-kook, told
+investigators he was worried about his ability to perform a
+"visual approach" to the airport, which is known for having a
+challenging landing. He had only performed a manual landing at
+that airport once before, on a Boeing 747, according to the
+NTSB. On July 6, he was instructed to do a manual landing because
+a "glide slope" system at the airport was out of service. As the plane neared the runway, a number of warnings in the
+cockpit indicated that the speed was dropping dangerously,
+according to the NTSB documents. In interviews with the NTSB, the pilots said they thought
+the autothrottle would correct the speed. The training pilot,
+Lee Jeong-min, and a third pilot, Bong Dongwon, who was in a
+jump seat in the cockpit, spoke about the plane's speed and
+"sink rate," or descent, about a minute before the plane hit the
+ground, according to a transcript of the cockpit voice recorder
+released on Wednesday. "Sink rate, sir," Bong said, about a minute before impact.
+"Sink rate, sir," he repeated. "Minimums, minimums," said an electronic voice about 20
+seconds later. "Speed," the instructor pilot said about six
+seconds before impact. "Speed." The pilot later told NTSB investigators he did not feel he
+had the authority to abort the landing and perform a "go
+around." Asked whether he could have done that maneuver, he said,
+"that's very hard" in Korean culture because people at "one step
+higher level" had to make the decision to go-around. WAKE-UP CONCERN Much of the hearing addressed the use of automated systems
+on aircraft, which are widely credited for the safety of modern
+air travel because they can minimize mistakes. But they can also confuse pilots, experts said on Wednesday,
+particularly when pilots don't understand what "mode" the
+automation is in. "Problems have been observed on a large number of cockpits
+and for pilots at different level of experience," said Nadine
+Sarter, a professor at the University of Michigan and an expert
+on flight control automation. Bob Myers, chief of flight deck engineering for Boeing, said
+that if pilots are concerned about how their plane is flying
+under automation, the Boeing 777 system allows them to quickly
+exit that system and fly the plane manually. The Asiana pilots said they thought the autothrottle would
+"wake up" and prevent the speed from falling dangerously low. That confusion also arose in 2011 during certification of
+Boeing's 787 Dreamliner, which has a similar autothrottle
+system, documents released on Wednesday showed. In an interview following the Asiana accident, Eugene
+Arnold, a test pilot for the Federal Aviation Administration,
+said he was surprised when the 787 autothrottle did not "wake
+up" while set in certain "modes" but did wake up in other
+settings. According to NTSB documents, he thought "it was a
+less-than-desirable feature and it could be improved upon." Boeing did not change the system, saying the autothrottle
+had been certified and had no problems in service. The European Aviation Safety Agency (EASA) called the two
+modes with no wake up feature an "inconsistency" and suggested
+changing the system to avoid confusing pilots, EASA wrote in a
+report to the FAA before it certified the jet in 2011, cited by
+Arnold. "Inconsistency in automation behavior has been in the past a
+strong contributor to aviation accidents," EASA said. Boeing says in the 787 operating manual that in certain
+flight modes, the autothrottle "will not wake up even during
+large deviations from target speed and does not support stall
+protection." The matter is also noted in the 777 operation
+manual, but in more abbreviated form. 
+
+FILED UNDER:   
+http://feeds.reuters.com/~r/reuters/companyNews/~3/6al0Tp2QaMY/story01.htm

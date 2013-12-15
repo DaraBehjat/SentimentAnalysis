@@ -79,16 +79,21 @@ class RSSfeed(object):
             if url not in article_d:
                 name = 'news/' + str(uuid.uuid1()) + '.txt'
 
-                example = self.open_link(url)
-                article = open(name, 'w')
-                article.write(example)
-                article.close()
+                try:
+                    example = self.open_link(url)
+                    article = open(name, 'w')
+                    article.write(example)
+                    article.close()
 
-                date = str(datetime.date.today())
-                source = self.source 
+                    date = str(datetime.date.today())
+                    source = self.source 
 
-                newLine = ('%s, %s, %s, %s \n') % (url, date, name, source)
-                f.write(newLine)
+                    newLine = ('%s, %s, %s, %s \n') % (url, date, name, source)
+                    f.write(newLine)
+
+                except TypeError: 
+                    print 'Unavailable Article' 
+
         f.close()
 
 
@@ -130,7 +135,7 @@ class BBCfeed(RSSfeed):
     def open_link(self, url):
         t = "" 
         article = urllib.urlopen(url)
-        start = False 
+        start = False         
         for line in article: 
             # when to start parsing 
             if "<h1 class" in line:
@@ -207,8 +212,3 @@ if __name__ == '__main__':
     # main(bbcfeed)
     # main(reutersfeed)
     main(forbesfeed)
-
-
-
-
-

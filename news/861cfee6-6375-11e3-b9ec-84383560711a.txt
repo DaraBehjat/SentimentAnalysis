@@ -1,0 +1,177 @@
+	 Arab League sees stark differences in tourism 
+
+     
+         
+ 
+    
+    
+					            	    		 			 
+														 By Sylvia Smith 
+				 BBC News, Bahrain 
+			 
+		
+         
+   
+
+     Bahrain is investing heavily in the hospitality and tourism sector 
+   
+	 
+		 Continue reading the main story 		 Related Stories 
+		 
+						
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Profile: Arab League  
+
+		 
+
+
+											
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+	 Tunisia tourism industry looks to rebuild 
+
+		 
+
+
+								 
+	 
+                       The Arab League aims to co-ordinate policies of members but a recent meeting of tourism ministers revealed stark differences in the fortunes of the 22 member states when it comes to the tourism sector. 
+         In fact, two divergent messages came out of the three-day meeting in Bahrain, the current Arab capital of tourism. 
+         The first was that North African countries, traditionally dependent on the Western tourist, have still not recovered from the impact of the Arab Spring and so are increasingly turning to new markets. 
+         The second was that Gulf countries are looking to raise their tourism profile for the indigenous market, and are doing so by focusing on the heritage sector. 
+   'Raising standards' 
+	       Saudi Arabia has the largest number of public holidays and the highest spending tourists in the Arab world. It now wants to bring back home some of the $16bn (£9.7bn) that Saudi tourists spent abroad in 2011. 
+         Sheikh Sultan bin Salman Al Saud, Saudi minister for tourism and antiquities, explained that the country is developing 85 of its own heritage sites and initiatives.  
+   
+
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+     
+                    
+		
+         
+             
+                                 
+                                 Please turn on JavaScript.  Media requires JavaScript to play. 
+             
+         
+         
+             
+                     
+                 
+                     
+					 
+							 
+		             
+             
+             
+             
+             
+			
+		             
+                
+             
+        
+                     
+             
+         
+         
+        
+            //        (function(){
+            // create a new player, but don't write it yet
+            var emp = new bbc.fmtj.av.emp.Player('emp-25017834-52703');
+            // if the emps have already been loaded, we need to call the write method manually
+            if(bbc.fmtj.av.emp.loaded){
+                emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');
+                emp.write();
+            }
+        })();
+    //]]>
+
+             
+              
+          
+		
+			 
+				 $render("advert","advert-companion","25017834"); 
+			 
+			 $render("advert-post-script-load"); 
+		
+         
+          
+    	
+        		 
+		 Sheikh Sultan bin Salman bin Abdulaziz Al Saud:  Saudi Arabia is really transforming itself 
+		 
+    
+		
+
+
+
+
+       Saudi Arabia is transforming itself. We are building six major new museums,  he told the BBC. 
+         We are sponsoring over 100 Saudi students to undertake internships and train in institutions such as the British Museum and the Louvre, so as to raise standards in the heritage sector for the indigenous market. 
+         With a population of 29 million Saudi Arabia is an increasingly important market in the whole Gulf region. Saudis were the top foreign travellers by air to the United Arab Emirates in 2012, outstripping visitors from Europe and the United States.  
+         They also represent 52% of tourism for the island kingdom of Bahrain, arriving by car after a mere half an hour s drive across the causeway. 
+         And Bahrain is planning to do more to lure Saudis and Emiratis to its culturally rich shores. It has been revamping historical attractions, including a traditional pearl route, restoring the old town of Muharraq and investing in museums designed by Iraqi-British architect Zaha Hadid. 
+         Khaled bin Humood Al-Khalifa, Bahrain s under secretary for tourism, says these moves have led to optimism in the sector and there are seven beachfront hotels currently under construction. 
+         These will provide an additional 12,000 hotel rooms,  he says.  Large investment in the hospitality sector is in the pipeline and we re expecting tourism revenues to soar by 16% during the current year. 
+   New markets 
+	       In contrast, North African countries troubled by internal conflict have witnessed their tourism industries decline sharply as Europeans and Americans cancel trips.  
+         They have been forced to spend much of their advertising budgets on reassuring tourists that it is safe to go on holiday to places frequently in the news.   
+   
+   
+
+     Egypt is targeting tourists from Latin America, India and China 
+   
+       In Egypt, revenues from tourism, a pillar of the economy and the main source of foreign currency since the fall of Hosni Mubarak two years ago, have dropped from $11.6bn in 2009-10 to $9.7bn in 2012-13.  
+         Hisham Zaazou, Egypt s current tourism minister, tendered his resignation from the Morsi government over the controversial appointment of an Islamist governor in Luxor, but later took up his post again. 
+         Mr Zaazou acknowledges that westerners will need a lot of persuading to return to the land of the Pharaohs and is turning instead towards Latin America, India and China. 
+         We are increasing direct flights to these countries,  he confirms.  We are only promoting the secure Red Sea resorts in western media.   
+   Harmonising visas 
+	       Elsewhere, Morocco is still recovering from the 2011 attack on a cafe packed with tourists in Marrakesh s main square. It is focusing on tourism promotion to the Czech Republic, Slovakia, Poland and Russia.  
+         Tourism employs 400,000 Moroccans and accounts for 10% of GDP.  
+         But Morocco is now also turning to the Arab tourist, talking to Gulf and Arab airlines to establish direct flights to popular holiday destinations such as Agadir and Marrakesh. 
+         According to Heba Aziz, a tourism consultant based in Oman, big changes are taking place in the perception of the Arab tourist and that means there is a need to harmonise visa requirements.  
+         At present an Egyptian needs a visa to travel to the United Arab Emirates,  she explained.  But not vice versa. This is something that will be smoothed out. 
+  
+
+	 
+  
+   
+ 	 
+http://www.bbc.co.uk/news/business-25298881#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
