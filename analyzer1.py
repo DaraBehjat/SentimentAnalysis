@@ -1,8 +1,12 @@
+from sentiment_vocabulary import *
+
+
 import nltk
 from nltk import bigrams
 from nltk.probability import ELEProbDist, FreqDist
 from nltk import NaiveBayesClassifier
 from collections import defaultdict
+
 
 
 pos_sntn = [('the company reported better than expected profit', 'positive'),
@@ -36,7 +40,8 @@ tst_sntn = [('Bank of America reported better than expected EPS', 'positive'),
 			  ('General Electric announced it will be laying off employees', 'negative'),
 			  ('Microsoft faces corrpution probe', 'negative')]
 
-
+pos_sntn2 = positive_vocab_list()
+neg_sntn2 = negative_vocab_list()
 
 
 sentinces = []
@@ -95,10 +100,7 @@ print feature_probdist[('negative', 'contains(best)')].prob(True)"
 
 print classifier.show most_informative_features(32)"""
 
-<<<<<<< HEAD
-sentence = 'apple files for bankruptcy'
-=======
->>>>>>> 47b33326f92431c9ed0163896d59bceb3d66a0d5
+
 
 if __name__ == "__main__":
 
