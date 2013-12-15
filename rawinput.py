@@ -163,8 +163,5 @@ line, = plt.plot(t, s, lw=2)
 
 plt.ylim(-2,2)
 
-
-
-
 show()
 
