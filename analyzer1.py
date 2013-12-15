@@ -25,7 +25,9 @@ neg_sntn1 = [('the company is broke', 'negative'),
 			 ('the company is being investigated', 'negative'),
 			 ('EBITDA growth slowed last quarter', 'negative'),
 			 ('Earnings per share were down as compared to last quarter', 'negative'),
-			 ('the company downgraded estimates for the coming year', 'negative')]
+			 ('the company downgraded estimates for the coming year', 'negative'),
+			 ('the company stock falls after new product release', 'negative'),
+			 ('the company stock price fell during trading', 'negative')]
 
 
 tst_sntn = [('Bank of America reported better than expected EPS', 'positive'),
@@ -93,7 +95,7 @@ print feature_probdist[('negative', 'contains(best)')].prob(True)"
 
 print classifier.show most_informative_features(32)"""
 
-sentence = 'Apple stock soars after better than expected earnings'
+sentence = 'apple files for bankruptcy'
 
 print classifier.classify(extract_features(sentence.split()))
 
