@@ -1,3 +1,7 @@
+"""Code that pulls together all of our written modules and contains the 
+visualization output for user to interact with our code. 
+"""
+
 from article_indices import *
 from stock_reader import *
 import numpy as np
@@ -7,10 +11,10 @@ import matplotlib.pyplot as plt
 
 
 def find_company(rawinput, infoList):
-    """Function to create input from rawinput of user.
+    """Function to create string input of Company name from rawinput of user.
     rawinput: string from user input
     infoList: list of tuples for available companies ('name', 'ticker')
-    
+
     returns: string of company name 
     """
     print rawinput
@@ -24,6 +28,15 @@ def find_company(rawinput, infoList):
 
 
 def make_fundemental_dicts(infoList):
+    """Creates two dictionaries to contain information about articles on 
+    specific company dependent on user input. 
+
+    infoList: list of tuples of available companies ('name', 'ticker')
+
+    returns: two dictionaries
+    article_dict = {'filename': ('Date', 'sentiment')} 
+    price_change_d = {'Date': price_change}
+    """
     print 'Welcome to the Stock Sentiment Analyzer!' 
     print "Company Choices:"
     companyList =[]
@@ -44,7 +57,7 @@ def make_fundemental_dicts(infoList):
 
 
     change = change_in_p_list(opening, closing)
-    # print change 
+
     price_change_d = create_dictionary(dates, change)
 
     ifile.close()
@@ -53,11 +66,7 @@ def make_fundemental_dicts(infoList):
     t = os.listdir('news/')
     shortList = t[1:]
 
-
     nestedDict = freq_word_index(shortList)
-    # print nestedDict
-
-
     d = company_index(companyList, nestedDict)
 
 
@@ -68,12 +77,19 @@ def make_fundemental_dicts(infoList):
     # file_name maps to (date, sentiment)
     article_dict = store_sentiment(relatedArticles)
 
+    # print article_dict, price_change_d
     return article_dict, price_change_d
 
-# print price_change_d
 
 def make_filename_dict(article_dict, price_change_d):
-# makes a dictionary that is {filename: (date, sentiment, stock price change)}
+    """Creates a dictionary with all important information for each article 
+    that relate to specific company. 
+    article_dict: dictionary {'filename': ('Date', 'sentiment')}
+    price_change_d: {'Date': price_change}
+
+    returns: dictionary called actual_shit that maps from filname to tuple. 
+    actual_shit: {filename: (date, sentiment, stock price change)} 
+    """
     actual_shit= {}
     # print article_dict
     for item in article_dict:
@@ -92,6 +108,14 @@ def make_filename_dict(article_dict, price_change_d):
 
 
 def stocks_plot(actual_shit):
+    """Creates a scatter plot that shows change in stock price over time (blue dots)
+    and red dot for each published article. Red dot at (date, 1.0) represents postive 
+    sentiment and red dot at (date, -1.0) represents negative sentiment article. 
+    
+    actual_shit: dictionary {filename: (date, sentiment, stock price change)}
+
+    returns: matplotlib scatter plot 
+    """
     figure(1)
     for element in price_change_d:
         # turns stings of dates into date objects
@@ -123,10 +147,21 @@ def stocks_plot(actual_shit):
 
 
 def bar_chart(actual_shit):
+    """Creates two bar charts. Bottom bar charts shows number of positive articles
+    published over time. Green represents positive sentiment and blue represents 
+    negative sentiment. 
+    Top chart shows change in stock price ($) for each day specific article is 
+    published. Green means majority of articles published on that day were positive 
+    and blue means majority of articles published on that day were negative. 
+
+    actual_shit: dictionary {filename: (date, sentiment, stock price change)}
+    returns: 2 matplotlib bar chart on top of each other
+    """
     figure(2)
     plt.subplot(2, 1, 1) # rows, column, plot number
     sentimentCounter = {}
-    # date: (avg sentiment, Delta $, total articles, positive articles, negative)
+    # {date: (avg sentiment, Delta $, total articles, positive articles, negative)}
+    
     for article in actual_shit:
         if actual_shit[article][0] in sentimentCounter:
             if actual_shit[article][1] == 'positive':
@@ -196,6 +231,12 @@ def bar_chart(actual_shit):
 
 
 def pie_chart(actual_shit):
+    """Creates pie charts that shows percentage of total articles that were 
+    positive versus total that were negative. 
+    actual_shit: {date :[average sentiment, change in price, total articls, positive aricles, negative articles]}
+
+    returns: matplotlib pie chart
+    """
     figure(4, figsize=(6,6))
     total = 0.0
     pos = 0
@@ -233,7 +274,6 @@ if __name__ == "__main__":
     
     # following don't have good info:
     # companyList = ['facebook','ford','microsoft','google'] ['ge','GE'], ['intel','INTC'], ,['hsbc','HSBC']['citigroup','C'],['jcpenney','JCP'],,['sirius', 'siri']['exxon','XOM'],['verizon','VZ'],['seimens','SI'],
-
 
     article_dict, price_change_d = make_fundemental_dicts(infoList)
     actual_shit = make_filename_dict(article_dict, price_change_d)

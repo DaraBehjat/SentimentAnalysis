@@ -2,7 +2,7 @@
 """Module that evaluates positive or negative sentiment of string. 
 
 Parts of code sourced from NLTK examples and comparable sentiment analysis codes:
-
+http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
 """
 
 from sentiment_vocabulary import *

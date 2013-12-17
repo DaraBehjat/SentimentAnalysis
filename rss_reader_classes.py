@@ -1,4 +1,5 @@
-"""Code to read RSS feed and store it in database. 
+"""Code to read RSS feed, parse article, and store it in database. Each article 
+stored in separate text file. 
 """
 
 import feedparser
@@ -208,7 +209,7 @@ if __name__ == '__main__':
     reutersfeed = Reutersfeed()
     forbesfeed = Forbesfeed()
 
-    # main(cnnfeed)
-    # main(bbcfeed)
-    # main(reutersfeed)
+    main(cnnfeed)
+    main(bbcfeed)
+    main(reutersfeed)
     main(forbesfeed)

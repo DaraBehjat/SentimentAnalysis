@@ -1,3 +1,11 @@
+"""Module that creates dictionaries containing information about our 
+generated news database. 
+
+Creates three indices - (1) maps from each filname to word count, 
+(2) maps from company name to list of related articles and (3) 
+sentiments dictionary that maps from article to filename to tuple 
+of (date, sentiment)
+"""
 
 import os 
 import string 
@@ -31,7 +39,7 @@ def company_index(stocks, nestedDict):
 
     t: list of company names 
     d: list of dictionaries with each mapping from word to frequency
-    returns: 
+    returns: dictionary that maps from company to list of related articles. 
     """
 
     companies = {}
@@ -51,7 +59,8 @@ def process_file(filename):
     """Makes a histogram that contains the words from a file.
 
     filename: string   
-    returns: map from each word to the number of times it appears.
+    returns: dictionary that maps from each word to the number of 
+    times it appears.
     """
     hist = {}
     pathName = 'news/' + filename 
@@ -97,6 +106,7 @@ def read_sentiment(filename):
 def store_sentiment(t):
     """Creates dictionary mapping from filname to tuple of (date, sentiment)
     filename_date: dictionary mapping from filename to date
+
     returns: sentiments dictionary mapping from filname to (date, sentiment) 
     """
     filename_date = {}
@@ -121,7 +131,6 @@ if __name__ == '__main__':
     shortList = t[1:]
 
     companyList = ['rite', 'ford', 'facebook', 'comcast', 'google', 'microsoft', 'hilton', 'qualcomm', 'bac', 'merrill', 'ge']
-
     nestedDict = freq_word_index(shortList)
 
     # print nestedDict
@@ -134,6 +143,4 @@ if __name__ == '__main__':
     # print company
 
     # store_sentiment(company)
-
-
 
