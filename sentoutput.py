@@ -1,4 +1,6 @@
-"""def correlation(stock_change, sentiment)
+from stock_reader import * 
+
+"""def correlation(stock_change, sentiment):
 	if stock_change > 0 and sentiment > 0:
 		return 'Correlated'
 	if stock_change < 0 and sentiment < 0:

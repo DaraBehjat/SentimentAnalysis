@@ -2,7 +2,6 @@
 import csv
 
 
-
 def create_dates(reader, ticker):
     """Creates a list of dates from csv reader. 
     reader: csv file with stock price info
@@ -75,7 +74,7 @@ def change_in_p_list(t_open, t_close):
     for i in range(len(t_open)):
         close = float(t_close[i])
         opening = float(t_open[i])
-        change = ((close - opening) / (opening)) * 100
+        change = (close - opening) #/ (opening)) * 100
 
         price_change.append(change)
 
@@ -116,7 +115,7 @@ if __name__ == "__main__":
 
     change = change_in_p_list(opening, closing)
     # print change 
-    d = create_dictionary(dates, change)
-    print d 
+    dates_to_priceChange = create_dictionary(dates, change)
+    print dates_to_priceChange 
 
     ifile.close()

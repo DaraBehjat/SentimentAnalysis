@@ -9,35 +9,35 @@ from analyzer1 import *
 
 # print 'hello'
 
-def comp_name():
-	for i in range(2):
-		a = raw_input("Please enter a company name:  ") # to ask password
-		c = { 'JCPenney': 'RadioShack'}
-	for i in c: # the password
-		if a ==  i in c: # if the password entered and the password are the same to print.
-			pass
-			#print("You have successfully logged in")
-			#exit()# to terminate the program.  Using 'break' instead of 'exit()' will allow your shell or idle to dump the block and continue to run.
-		else: # if the password entered and the password are not the same to print.
-			print("You have entered an invalid company name, please try again ")
-			if i == 2:
-				print("You have been denied access")
-			exit() # to terminate the program
+# def comp_name():
+# 	for i in range(2):
+# 		a = raw_input("Please enter a company name:  ") # to ask password
+# 		c = { 'JCPenney': 'RadioShack'}
+# 	for i in c: # the password
+# 		if a ==  i in c: # if the password entered and the password are the same to print.
+# 			pass
+# 			#print("You have successfully logged in")
+# 			#exit()# to terminate the program.  Using 'break' instead of 'exit()' will allow your shell or idle to dump the block and continue to run.
+# 		else: # if the password entered and the password are not the same to print.
+# 			print("You have entered an invalid company name, please try again ")
+# 			if i == 2:
+# 				print("You have been denied access")
+# 			exit() # to terminate the program
 
-# comp_name()
-
-
+# # comp_name()
 
 
 
 
 
-print 'Welcome to the Stock Sentiment Analyzer!' 
-original = raw_input ("What company are you interested in learning more about? \n")
-if len(original) >3 : 
-     pass
-else: 
-     print 'Please enter a valid company name before preceeding'
+
+
+# print 'Welcome to the Stock Sentiment Analyzer!' 
+# original = raw_input ("What company are you interested in learning more about? \n")
+# if len(original) >3 : 
+#      pass
+# else: 
+#      print 'Please enter a valid company name before preceeding'
 
 
 
