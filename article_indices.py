@@ -123,6 +123,7 @@ if __name__ == '__main__':
     companyList = ['rite', 'ford', 'facebook', 'comcast', 'google', 'microsoft', 'hilton', 'qualcomm', 'bac', 'merrill', 'ge']
 
     nestedDict = freq_word_index(shortList)
+
     # print nestedDict
     d = company_index(companyList, nestedDict)
     # print len(d['microsoft'])
@@ -132,7 +133,7 @@ if __name__ == '__main__':
     company = (d['facebook'])
     # print company
 
-    store_sentiment(company)
+    # store_sentiment(company)
 
 
 

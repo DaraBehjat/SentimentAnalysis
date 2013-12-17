@@ -13,6 +13,7 @@ pos_sntn = [('the company reported better than expected profit', 'positive'),
 	          ('the company experienced growth', 'positive'),
 	          ('the company reported positive EBITDA', 'positive'),
 	          ('the beat analyst expectations', 'positive'),
+	          ('the company accomplished clever durability', 'positive'),
 			  ('the company is a dominant player in the market', 'positive')]
 pos_sntn1 = [('the company stock gained 10 percent last quarter', 'positive'),
 			 ('the company bought back shares last quarter', 'positive'),
@@ -46,7 +47,7 @@ neg_sntn2 = negative_vocab_list()
 
 sentinces = []
 
-for (words, sentiment) in pos_sntn + pos_sntn1 + neg_sntn + neg_sntn1 + tst_sntn:
+for (words, sentiment) in pos_sntn + pos_sntn1 + neg_sntn + neg_sntn1 + tst_sntn :#+ pos_sntn2 + neg_sntn2:
 	words_filtered = [e.lower() for e in words.split() if len(e) >= 3]
 	sentinces.append((words_filtered, sentiment))
 

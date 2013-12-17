@@ -11,7 +11,13 @@ def positive_vocab_list():
     positiveWords = []
     for line in fin:
         positiveWords.append(line.strip().split(' ')[0].lower().replace('*', ''))
-
+    
+    # f = open('new_pos.txt','w')
+    # f.write('[')
+    # for word in positiveWords:
+    #     f.write("(%s,'positive'),\n" % (word))
+    # f.write(']')
+    # f.close()
     positive = ['positive'] * 2557
     pos_sntn3 = zip(positiveWords, positive)
 
@@ -40,7 +46,7 @@ def negative_vocab_list():
 
 if __name__ == '__main__':
     neg_sntn3 = negative_vocab_list()
-    print neg_sntn3
+    # print neg_sntn3
     pos_sntn3 = positive_vocab_list()
-    print pos_sntn3
+    # print pos_sntn3
 
