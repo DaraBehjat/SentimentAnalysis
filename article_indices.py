@@ -126,7 +126,7 @@ if __name__ == '__main__':
 
     # print nestedDict
     d = company_index(companyList, nestedDict)
-    # print len(d['microsoft'])
+    # print len(d['ford'])
 
 
     # # store the articles about microsoft to a list

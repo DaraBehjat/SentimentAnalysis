@@ -7,6 +7,10 @@ import matplotlib.pyplot as plt
 
 
 def find_company(rawinput, infoList):
+    """Function to create input from rawinput of user.
+    rawinput: 
+    returns: string of company name 
+    """
     print rawinput
     for element in infoList:
         if element[0] == rawinput:
@@ -15,9 +19,10 @@ def find_company(rawinput, infoList):
     return 'Sorry, your company is not available' 
 
 # print find_company('facebook', infoList)
-# 
+
 
 def make_fundemental_dicts(infoList):
+    print 'Welcome to the Stock Sentiment Analyzer!' 
     print "Company Choices:"
     companyList =[]
     for i in infoList:
@@ -28,15 +33,12 @@ def make_fundemental_dicts(infoList):
     ifile  = open('stocks/stock_data_12_14.csv', "rU")
     reader = csv.reader(ifile, dialect=csv.excel_tab)
 
-
     ticker = current[1]
-
 
     # print ticker
     dates = create_dates(reader, ticker)
     opening = create_open(reader, ticker)
     closing = create_close(reader, ticker)
-
 
 
     change = change_in_p_list(opening, closing)
@@ -46,19 +48,20 @@ def make_fundemental_dicts(infoList):
     ifile.close()
 
 
-
     t = os.listdir('news/')
     shortList = t[1:]
 
 
     nestedDict = freq_word_index(shortList)
     # print nestedDict
+
+
     d = company_index(companyList, nestedDict)
-    # print len(d['microsoft'])
 
 
-    # # store the articles about microsoft to a list
+    # store the articles about company to a list
     relatedArticles = (d[current[0]])
+    print 'In the past month, %s articles have been published about your company' % (len(relatedArticles))
     # print relatedArticles
 
     # file_name maps to (date, sentiment)
@@ -155,9 +158,9 @@ def bar_chart(actual_shit):
         day = int(element[8:])
         year = int(element[:4])
         month = int(element[5:7])
-        print year, month, day
+        # print year, month, day
         current_date =datetime.datetime(year, month, day)
-        print current_date
+        # print current_date
         if sentimentCounter[count][0] > 0:
             plt.bar(current_date, sentimentCounter[count][1],color='green') # positive sentiment
         elif sentimentCounter[count][0] == 0:
@@ -178,8 +181,8 @@ def bar_chart(actual_shit):
         year = int(element[:4])
         month = int(element[5:7])
 
-        print sentimentCounter[count][3]
-        print sentimentCounter[count][4]
+        # print sentimentCounter[count][3]
+        # print sentimentCounter[count][4]
         current_date = datetime.datetime(year, month, day)
         p1 = plt.bar( current_date, sentimentCounter[count][3], color='green', bottom= True)
         p2 = plt.bar( current_date, sentimentCounter[count][4], color='blue')
@@ -223,7 +226,9 @@ if __name__ == "__main__":
 
     infoList = [['ford','F'], ['facebook','FB'], ['cisco', 'CSCO'], ['microsoft', 'MSFT'],
             ['comcast','CMCSA'],['apple','AAPL'],['hewlett','HPQ'],['hp','HPQ'],['tesco','TSCDY'],
-            ['ibm','IBM'],['bp','BP'],['coca','KO']]#, ('hilton','hltn'), ('qualcomm','qual')]#, ('bac',''), 'merrill', 'ge']
+            ['ibm','IBM'],['bp','BP'],['coca','KO']]
+    
+    # following don't have good info:
     # companyList = ['facebook','ford','microsoft','google'] ['ge','GE'], ['intel','INTC'], ,['hsbc','HSBC']['citigroup','C'],['jcpenney','JCP'],,['sirius', 'siri']['exxon','XOM'],['verizon','VZ'],['seimens','SI'],
 
 
