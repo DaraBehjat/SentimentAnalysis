@@ -8,7 +8,9 @@ import matplotlib.pyplot as plt
 
 def find_company(rawinput, infoList):
     """Function to create input from rawinput of user.
-    rawinput: 
+    rawinput: string from user input
+    infoList: list of tuples for available companies ('name', 'ticker')
+    
     returns: string of company name 
     """
     print rawinput
@@ -61,7 +63,6 @@ def make_fundemental_dicts(infoList):
 
     # store the articles about company to a list
     relatedArticles = (d[current[0]])
-    print 'In the past month, %s articles have been published about your company' % (len(relatedArticles))
     # print relatedArticles
 
     # file_name maps to (date, sentiment)
@@ -85,6 +86,7 @@ def make_filename_dict(article_dict, price_change_d):
             except:
                 # these were published on the weekend so change in price = $0
                 actual_shit[item] = (article_dict[item][0],article_dict[item][1],0.0)
+    print 'In the past month %s articles have been published about your company' % len(actual_shit)
     return actual_shit
 
 
@@ -142,6 +144,7 @@ def bar_chart(actual_shit):
                 sentimentCounter[actual_shit[article][0]] = [-1, actual_shit[article][2], 1, 0, 1]
 
     print sentimentCounter
+    print '{date :[average sentiment, change in price, total articls, positive aricles, negative articles]}'
     
     year = 2013
     month = 11

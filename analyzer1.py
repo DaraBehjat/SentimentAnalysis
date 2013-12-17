@@ -1,3 +1,10 @@
+
+"""Module that evaluates positive or negative sentiment of string. 
+
+Parts of code sourced from NLTK examples and comparable sentiment analysis codes:
+
+"""
+
 from sentiment_vocabulary import *
 
 
@@ -7,7 +14,7 @@ from nltk.probability import ELEProbDist, FreqDist
 from nltk import NaiveBayesClassifier
 from collections import defaultdict
 
-
+# variables below represent vocab for assessing positive/negative sentiment
 
 pos_sntn = [('the company reported better than expected profit', 'positive'),
 	          ('the company experienced growth', 'positive'),
@@ -34,19 +41,22 @@ neg_sntn1 = [('the company is broke', 'negative'),
 			 ('the company stock falls after new product release', 'negative'),
 			 ('the company stock price fell during trading', 'negative')]
 
-
+# test sentences that train the model
 tst_sntn = [('Bank of America reported better than expected EPS', 'positive'),
 			  ('JCPenney saw a boost in holiday sales', 'positive'),
 			  ('RadioShack expects to begin closing stores', 'negative'),
 			  ('General Electric announced it will be laying off employees', 'negative'),
 			  ('Microsoft faces corrpution probe', 'negative')]
 
+
+# variables that create extensive vocab list but makes program too slow to run 
 pos_sntn2 = positive_vocab_list()
 neg_sntn2 = negative_vocab_list()
 
 
 sentinces = []
 
+# aggregates vocab into list called 'sentinces' and makes sure len(word) greater than 3 characters 
 for (words, sentiment) in pos_sntn + pos_sntn1 + neg_sntn + neg_sntn1 + tst_sntn :#+ pos_sntn2 + neg_sntn2:
 	words_filtered = [e.lower() for e in words.split() if len(e) >= 3]
 	sentinces.append((words_filtered, sentiment))
@@ -86,7 +96,8 @@ training_set = nltk.classify.apply_features(extract_features , sentinces)
 classifier = nltk.NaiveBayesClassifier.train(training_set)
 
 def train(labeled_featuresets, estimator=ELEProbDist):
-	
+	"""Runs test sentences back through the model to train the model.
+	"""
 	# Create the P(label) distribution
 	label_probdist = esitmator(label_freqdist)
 	
@@ -94,12 +105,6 @@ def train(labeled_featuresets, estimator=ELEProbDist):
 	feature_probdist = {}
 	
 	return NaiveBayesClassifier (label_probdist, feature_probdist)
-
-"""print feature_probdist('positive')
-print feature_probdist[('negative', 'contains(best)')].prob(True)"
-
-
-print classifier.show most_informative_features(32)"""
 
 
 
